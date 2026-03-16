@@ -1,9 +1,0 @@
-## `SE_Data.'Regime Keys'` (id = `210`)
-
-### Columns (`2`)
-
-| Index | Name | Type |
-| ----: | ---- | ---- |
-| `0` | Regime ID | Text 
-| `1` | Key Name | Text 
-

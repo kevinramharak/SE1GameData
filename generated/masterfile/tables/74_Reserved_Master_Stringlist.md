@@ -1,2 +1,12 @@
-## `'Reserved Master Stringlist'` (id = `74`)
+# `Reserved Master Stringlist` (`74`)
+
+## Columns
+
+| Index | Name | Type |
+| --- | --- | --- |
+
+### Data
+
+|  |
+|  |
 

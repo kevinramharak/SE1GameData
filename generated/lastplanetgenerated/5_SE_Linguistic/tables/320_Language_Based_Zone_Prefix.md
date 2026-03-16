@@ -1,0 +1,192 @@
+# `Language Based Zone Prefix` (`320`)
+
+## Library
+
+| Key | Value |
+| --- | --- |
+| Library Slot | `5` |
+| Name | [SE_Linguistic](../) |
+| Library ID | `-1` |
+
+## Columns
+
+| Index | Name | Type |
+| --- | --- | --- |
+| `0` | New Col | `Text` |
+| `1` | Language | `Text` |
+
+### Data
+
+| New Col | Language |
+| --- | --- |
+| Adams | 1 |
+| Alder | 2 |
+| Alt | 2 |
+| Arb | 3 |
+| Avig | 3 |
+| Baden | 2 |
+| Bay | 3 |
+| Bel | 3 |
+| Blatt | 2 |
+| Bonds | 2 |
+| Bord | 3 |
+| Bord | 3 |
+| Bour | 3 |
+| Brit | 1 |
+| Buran | 1 |
+| Caliban | 1 |
+| Carbon | 1 |
+| Caren | 3 |
+| Centrum | 1 |
+| Chart | 3 |
+| Chaud | 3 |
+| Chron | 1 |
+| Copper | 1 |
+| Crag | 1 |
+| Dahl | 2 |
+| Deep | 4 |
+| Deep | 1 |
+| Devon | 1 |
+| Dieken | 2 |
+| Dion | 1 |
+| Dogger | 1 |
+| Dome | 1 |
+| Drift | 1 |
+| Earth | 1 |
+| Eber | 2 |
+| Echo | 1 |
+| Erg | 1 |
+| Erris | 1 |
+| Europa | 1 |
+| Fault | 1 |
+| Feld | 2 |
+| Fern | 1 |
+| Ferro | 1 |
+| Five | 1 |
+| Flag | 1 |
+| Fold | 1 |
+| Fouger | 3 |
+| Frei | 2 |
+| Gap | 1 |
+| Geisen | 2 |
+| Gene | 1 |
+| Geo | 1 |
+| Gig | 3 |
+| Gold | 1 |
+| Gott | 2 |
+| Graben | 2 |
+| Granite | 1 |
+| Green | 1 |
+| Gren | 3 |
+| Ground | 1 |
+| Grun | 2 |
+| Hagen | 2 |
+| Hail | 1 |
+| Half | 1 |
+| Helium | 1 |
+| Herz | 2 |
+| Hexa | 1 |
+| Hirsch | 2 |
+| Holo | 1 |
+| Inland | 1 |
+| Inter | 1 |
+| Ion | 1 |
+| Jacobs | 2 |
+| Juno | 1 |
+| Kallen | 2 |
+| Kelvins | 1 |
+| Kernel | 4 |
+| Klein | 2 |
+| Kling | 2 |
+| Kondel | 2 |
+| Kuh | 2 |
+| Kuypers | 1 |
+| Laus | 2 |
+| Lead | 1 |
+| Leaf | 1 |
+| Lil | 3 |
+| Lim | 3 |
+| Lime | 1 |
+| Link | 4 |
+| Litho | 1 |
+| Lod | 3 |
+| Mach | 2 |
+| Mals | 2 |
+| Mantle | 1 |
+| Max | 2 |
+| Meta | 1 |
+| Mica | 1 |
+| Moon | 1 |
+| Mor | 3 |
+| Mos | 2 |
+| Moss | 1 |
+| Nagel | 2 |
+| Nan | 3 |
+| Nax | 2 |
+| Neo | 1 |
+| Neutron | 1 |
+| Nim | 3 |
+| Ober | 2 |
+| Ocean | 1 |
+| Ohms | 1 |
+| Oort | 1 |
+| Opal | 1 |
+| Ore | 1 |
+| Orl | 3 |
+| Parallel | 4 |
+| Petro | 1 |
+| Photo | 1 |
+| Plate | 1 |
+| Poit | 3 |
+| Poly | 1 |
+| Prism | 1 |
+| Pyro | 1 |
+| Quartz | 1 |
+| Reichs | 2 |
+| Reunion | 1 |
+| Richters | 1 |
+| Ring | 1 |
+| Ripple | 1 |
+| Rivag | 3 |
+| Roch | 3 |
+| Rocher | 3 |
+| Root | 1 |
+| Roq | 3 |
+| Rour | 3 |
+| Sablot | 3 |
+| Salic | 1 |
+| Salz | 2 |
+| Sand | 1 |
+| Sand | 2 |
+| Sand | 1 |
+| Sand | 1 |
+| Sander | 2 |
+| Schwartz | 2 |
+| Seas | 1 |
+| Seed | 1 |
+| Seen | 2 |
+| Silver | 1 |
+| Sober | 2 |
+| Sond | 2 |
+| Sparen | 2 |
+| Stark | 2 |
+| Stiffel | 2 |
+| Strand | 2 |
+| Strand | 2 |
+| Three | 1 |
+| Tour | 3 |
+| Tron | 4 |
+| Vert | 3 |
+| Wagner | 2 |
+| War | 2 |
+| Wasser | 2 |
+| Water | 1 |
+| Wav | 1 |
+| Weil | 2 |
+| Wetter | 2 |
+| Wilhelm | 2 |
+| Winne | 2 |
+| Wolfs | 2 |
+| Ziemer | 2 |
+| Zwen | 2 |
+

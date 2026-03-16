@@ -1,0 +1,53 @@
+# `Flex Diplomatic Actions` (`551`)
+
+## Library
+
+| Key | Value |
+| --- | --- |
+| Library Slot | `30` |
+| Name | [SE_Navy](../) |
+| Library ID | `551` |
+
+## Columns
+
+| Index | Name | Type |
+| --- | --- | --- |
+| `0` | Card ID | `Text` |
+| `1` | Name | `Text` |
+| `2` | PP Cost | `Text` |
+| `3` | Event Picture | `Text` |
+| `4` | Text | `Text` |
+| `5` | Org ID | `Text` |
+| `6` | IF Logic | `Text` |
+| `7` | Target Type | `Text` |
+| `8` | Mouse Over | `Text` |
+| `9` | Weight SET Logic | `Text` |
+| `10` | BP Cost | `Text` |
+| `11` | Category | `Text` |
+| `12` | Phase | `Text` |
+| `13` | Use Human | `Text` |
+| `14` | Org 2 ID | `Text` |
+| `15` | Max in Hand | `Text` |
+| `16` | Never Consumed | `Text` |
+| `17` | New Col | `Text` |
+
+### Data
+
+| Card ID | Name | PP Cost | Event Picture | Text | Org ID | IF Logic | Target Type | Mouse Over | Weight SET Logic | BP Cost | Category | Phase | Use Human | Org 2 ID | Max in Hand | Never Consumed | New Col |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 100401 | Information Contract | 8 | 762 | Schedule a meeting to sign an information exchange contract with a Maritime Trading House. | 1 | chk(249,42,-1,REGIMEID,2)>0 | 2 |  | 100 | 20 | 13 | 14 |  | 32 |  |  | 763 |
+| 100402 | Transport Contract | 12 | 765 | Schedule meeting with a MTH  to sign a contract for transport or invasion. | 1 | chk(249,42,-1,REGIMEID,2)>0 | 2 |  | 125 | 40 | 13 | 14 |  | 32 |  |  | 763 |
+| 100403 | Contact MTH | 5 | 766 | Try to enter in communication with a Maritime Trade House. | 1 | chk(249,42,-1,REGIMEID,8)>0 | 2 |  | 50 | 20 | 13 | 14 |  | 32 |  |  | 763 |
+| 100404 | Makeshift Port | 16 | 767 | Ask an MTH to construct a makeshift port on a coastal Hex that has naval Logistics. | 1 | chk(249,42,-1,REGIMEID,2)>0 | 2 | A makeshift harbour is an improvised harbour. Could be some docks, a pier or something like a mini-mulberry. It allows the ships to get close to shore and they provide some MTH workers and machinery/tools there to help unload the ships. Without a harbour you'll lose at least 75% of the Naval Logistical Points. When you play this Stratagem the MTH will propose to build a Makeshift Port on any Coastal Hex connecting to the target Zone that has incoming/outgoing Naval Logistical Points, but that does not have a Port. | 75 | 30 | 13 | 14 |  | 32 |  |  | 763 |
+| 100405 | Policy Meeting | 20 | 768 | As a shareholder you can try to influence the MTH. | 1 | chk(249,42,-1,REGIMEID,4)>0 | 2 |  | 50 | 50 | 13 | 14 |  |  |  |  | 763 |
+| 100406 | Shipyarding | 6 | 769 | Build more ships under supervision of, and for the MTH. Cost: 2000 Credits. | 1 | chk(249,42,-1,REGIMEID,2)>0 | 2 |  | 33 | 60 | 13 | 14 |  |  |  |  | 763 |
+| 100407 | Intel Support | 10 | 770 | Help the current MTH leadership stay in power. | 1 | chk(249,42,-1,REGIMEID,2)>0 | 2 |  | 33 | 70 | 13 | 14 |  |  |  |  | 763 |
+| 100408 | Sell A Share | 4 | 771 | Auction off one of your shares in an MTH. | 1 | chk(249,42,-1,REGIMEID,4)>0 | 2 |  | 33 | 35 | 13 | 14 |  |  |  |  | 763 |
+| 100409 | Demand Auction | 36 | 772 | Demand an MTH to sell off some extra shares. | 1 | chk(249,42,-1,REGIMEID,2)>0 | 2 |  | 33 | 50 | 13 | 14 |  |  |  |  | 763 |
+| 100410 | Startup MTH | 24 | 773 | Finance the startup of a new MTH in a Sea that hasn't any yet. Costs 500 Credits. | 1 | chk(249,42,-1,REGIMEID,9)>0 | 2 |  | 10 | 50 | 13 | 14 |  |  |  |  | 763 |
+| 100411 | Recon Contract | 16 | 762 | Schedule a meeting to sign a recon contract with a Maritime Trading House. | 1 | chk(249,42,-1,REGIMEID,2)>0 | 2 |  | 75 | 20 | 13 | 14 |  |  |  |  | 763 |
+| 100412 | Change of Heart | 1 | 777 | MTH sees you in a sudden new and beautiful light. | -1 | chk(249,42,-1,REGIMEID,2)>0 | 2 |  | 200 | 1 | 9 | 9 |  |  |  |  | 436 |
+| 100413 | Stock Emission | 2 | 776 | MTH decides to issue more stock. Oh.. the Dilution... | -1 | chk(249,42,-1,REGIMEID,2)>0 | 2 |  | 200 | 1 | 9 | 9 |  |  |  |  | 436 |
+| 100414 | Maritime Breakup | 3 | 775 | Sometimes Captains part ways. This is such a moment. A new MTH will be born! | -1 | chk(249,42,-1,REGIMEID,2)>0 | 2 |  | 100 | 1 | 9 | 9 |  |  |  |  | 436 |
+| 100415 | Resource Rumours | 6 | 778 | Talk and bribe MTH staff to learn information on a Zone. Costs 100 Credits. | 18 | chk(249,42,-1,REGIMEID,2)>0 | 2 |  | 90 | 20 | 3 | 2 |  |  |  |  | 763 |
+

@@ -1,8 +1,13 @@
-## `'Globals'` (id = `58`)
+# `Globals` (`58`)
 
-### Columns (`1`)
+## Columns
 
 | Index | Name | Type |
-| ----: | ---- | ---- |
-| `0` | KEY | Text 
+| --- | --- | --- |
+| `0` | KEY | `Text` |
+
+### Data
+
+| KEY |
+| --- |
 
