@@ -13,7 +13,7 @@ The following files have been used to generated documenation:
 | Name | Location |
 | ---- | -------- |
 | `masterfile.se1master` | [`./generated/masterfile`](./generated/masterfile/) |
-| `randomgame.se1` | [`./generated/masterfile`](./generated/randomgame/) |
+| `randomgame.se1` | [`./generated/randomgame`](./generated/randomgame/) |
 
 ## Resources
 
