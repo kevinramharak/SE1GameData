@@ -1,0 +1,13 @@
+{
+  "name": "se1gamedata",
+  "version": "0.0.1",
+  "description": "SE1GameData",
+  "type": "module",
+  "scripts": {
+    "generate": "node ./scripts/generate.ts"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^25.5.0"
+  }
+}
