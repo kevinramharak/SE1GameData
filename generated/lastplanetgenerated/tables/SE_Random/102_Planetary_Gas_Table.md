@@ -1,0 +1,26 @@
+## `SE_Random.'Planetary Gas Table'` (id = `102`)
+
+### Columns (`1`)
+
+| Index | Name | Type |
+| ----: | ---- | ---- |
+| `0` | Gas ID | Text 
+
+### Rows (`13`)
+
+| Gas ID |
+| --- |
+|6|
+|15|
+|4|
+|7|
+|8|
+|3|
+|19|
+|9|
+|5|
+|10|
+|1|
+|2|
+|20|
+
