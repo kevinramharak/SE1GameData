@@ -17,7 +17,7 @@ The following files have been used to generated documenation:
 | `lastplanetgenerated.se1`| [`./generated/lastplanetgenerated`](./generated/lastplanetgenerated/) | This contains the data **after** the game initialize scripts have run, but **before** the player has its first turn. |
 | `firstturn.se1` | [`./generated/firstturn`](./generated/firstturn/) | This contains the data **after** the player has its first turn, but **before** any actions are taken. |
 
-The game currently supports mods through the `.se1evlib` format. These are run as `randomgame.se1 -> import libs -> lastplanetgenerated.se1`. Some libraries have events scheduled at specific game events (game start, turn start), that is why `firstturn.se1` is added. An example is the [`SE_Data.Regime Models (id=228)`](./generated/firstturn/tables/SE_Data/228_Regime_Models.md) table, which is empty in `lastplanetgenerated.se`.
+The game currently supports mods through the `.se1evlib` format. These are run as `randomgame.se1 -> import libs -> lastplanetgenerated.se1`. Some libraries have events scheduled at specific game events (game start, turn start), that is why `firstturn.se1` is added. An example is the `SE_Data.Regime Models (id=228)` table, which is empty in `lastplanetgenerated.se`.
 
 ## Resources
 
