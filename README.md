@@ -21,7 +21,7 @@ The game currently supports mods through the `.se1evlib` format. These are run a
 
 ## Resources
 
-Here are some resources that will help explain how modding works for Shadow Empire:
+Some resources for modding:
 
 - [Game Manual](https://ftp.matrixgames.com/pub/ShadowEmpire/Shadow%20Empire%20manual%20EBOOK.pdf)
 - [S&S Editor Documentation](https://docs.google.com/document/d/1UCvS0p8mVXVwyjuaAfCTFxJ6p7VIbpPYfKDHzKcIHtY)

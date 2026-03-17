@@ -1,0 +1,3104 @@
+[
+    {
+        "id": 58,
+        "name": "Globals"
+    },
+    {
+        "id": 59,
+        "name": "Land Height Map"
+    },
+    {
+        "id": 60,
+        "name": "Sea Height Map"
+    },
+    {
+        "id": 61,
+        "name": "Beach Height Map"
+    },
+    {
+        "id": 62,
+        "name": "River Canyoning"
+    },
+    {
+        "id": 63,
+        "name": "Reserved Master Stringlist"
+    },
+    {
+        "id": 64,
+        "name": "Reserved Master Stringlist"
+    },
+    {
+        "id": 65,
+        "name": "Reserved Master Stringlist"
+    },
+    {
+        "id": 66,
+        "name": "Reserved Master Stringlist"
+    },
+    {
+        "id": 67,
+        "name": "Reserved Master Stringlist"
+    },
+    {
+        "id": 68,
+        "name": "Reserved Master Stringlist"
+    },
+    {
+        "id": 69,
+        "name": "Reserved Master Stringlist"
+    },
+    {
+        "id": 70,
+        "name": "Reserved Master Stringlist"
+    },
+    {
+        "id": 71,
+        "name": "Reserved Master Stringlist"
+    },
+    {
+        "id": 72,
+        "name": "Reserved Master Stringlist"
+    },
+    {
+        "id": 73,
+        "name": "Reserved Master Stringlist"
+    },
+    {
+        "id": 74,
+        "name": "Reserved Master Stringlist"
+    },
+    {
+        "id": 75,
+        "name": "Reserved Master Stringlist"
+    },
+    {
+        "id": 76,
+        "name": "Reserved Master Stringlist"
+    },
+    {
+        "id": 77,
+        "name": "Reserved Master Stringlist"
+    },
+    {
+        "id": 78,
+        "name": "Reserved Master Stringlist"
+    },
+    {
+        "id": 79,
+        "libraryName": "SE_Present",
+        "libraryId": 6,
+        "name": "UDS Management Tabs Format"
+    },
+    {
+        "id": 81,
+        "libraryName": "SE_Present",
+        "libraryId": 6,
+        "name": "Tooltips Stringlist"
+    },
+    {
+        "id": 83,
+        "libraryName": "SE_Random",
+        "libraryId": 2,
+        "name": "UDS Random tab"
+    },
+    {
+        "id": 84,
+        "libraryName": "SE_Random",
+        "libraryId": 2,
+        "name": "Random Globals"
+    },
+    {
+        "id": 85,
+        "libraryName": "SE_Random",
+        "libraryId": 2,
+        "name": "Tectonic Plates"
+    },
+    {
+        "id": 86,
+        "libraryName": "SE_Random",
+        "libraryId": 2,
+        "name": "NOT USED FOR INPUT Planetary Data"
+    },
+    {
+        "id": 87,
+        "libraryName": "SE_DSS",
+        "libraryId": 3,
+        "name": "Tracks"
+    },
+    {
+        "id": 88,
+        "libraryName": "SE_DSS",
+        "libraryId": 3,
+        "name": "Mix Points"
+    },
+    {
+        "id": 89,
+        "libraryName": "SE_DSS",
+        "libraryId": 3,
+        "name": "Highlights"
+    },
+    {
+        "id": 90,
+        "libraryName": "SE_Random",
+        "libraryId": 2,
+        "name": "Spectral Classes"
+    },
+    {
+        "id": 91,
+        "libraryName": "SE_Random",
+        "libraryId": 2,
+        "name": "Seasons"
+    },
+    {
+        "id": 92,
+        "libraryName": "SE_Random",
+        "libraryId": 2,
+        "name": "Season Helper: Names"
+    },
+    {
+        "id": 93,
+        "libraryName": "SE_Random",
+        "libraryId": 2,
+        "name": "Season Helper: Winter Mod"
+    },
+    {
+        "id": 94,
+        "libraryName": "SE_Random",
+        "libraryId": 2,
+        "name": "Season Helper: Spring Mod"
+    },
+    {
+        "id": 95,
+        "libraryName": "SE_Random",
+        "libraryId": 2,
+        "name": "Season Helper: Summer Mod"
+    },
+    {
+        "id": 96,
+        "libraryName": "SE_Random",
+        "libraryId": 2,
+        "name": "Vegetation Helper Zones"
+    },
+    {
+        "id": 97,
+        "libraryName": "SE_Random",
+        "libraryId": 2,
+        "name": "Vegetation to LandscapeType"
+    },
+    {
+        "id": 98,
+        "libraryName": "SE_Random",
+        "libraryId": 2,
+        "name": "Vegetation Similarity"
+    },
+    {
+        "id": 99,
+        "libraryName": "SE_Random",
+        "libraryId": 2,
+        "name": "Reserved List"
+    },
+    {
+        "id": 100,
+        "libraryName": "SE_Random",
+        "libraryId": 2,
+        "name": "Vegetation Classes"
+    },
+    {
+        "id": 101,
+        "libraryName": "SE_Random",
+        "libraryId": 2,
+        "name": "Lifeform Gas Limits"
+    },
+    {
+        "id": 102,
+        "libraryName": "SE_Random",
+        "libraryId": 2,
+        "name": "Planetary Gas Table"
+    },
+    {
+        "id": 103,
+        "libraryName": "SE_Random",
+        "libraryId": 2,
+        "name": "Lifeform Zone Statistics"
+    },
+    {
+        "id": 104,
+        "libraryName": "SE_Random",
+        "libraryId": 2,
+        "name": "Lifeform Statistics"
+    },
+    {
+        "id": 105,
+        "libraryName": "SE_Random",
+        "libraryId": 2,
+        "name": "LifeType Toxicity"
+    },
+    {
+        "id": 106,
+        "libraryName": "SE_Random",
+        "libraryId": 2,
+        "name": "LifeType Nutritional Values"
+    },
+    {
+        "id": 107,
+        "libraryName": "SE_Random",
+        "libraryId": 2,
+        "name": "Reserved List"
+    },
+    {
+        "id": 108,
+        "libraryName": "SE_Random",
+        "libraryId": 2,
+        "name": "Reserved List"
+    },
+    {
+        "id": 109,
+        "libraryName": "SE_Random",
+        "libraryId": 2,
+        "name": "Respiration Types"
+    },
+    {
+        "id": 110,
+        "libraryName": "SE_Random",
+        "libraryId": 2,
+        "name": "Solvent Types"
+    },
+    {
+        "id": 111,
+        "libraryName": "SE_Random",
+        "libraryId": 2,
+        "name": "Life Types"
+    },
+    {
+        "id": 112,
+        "libraryName": "SE_Random",
+        "libraryId": 2,
+        "name": "Chemistry Types"
+    },
+    {
+        "id": 113,
+        "libraryName": "SE_Random",
+        "libraryId": 2,
+        "name": "Life Classes"
+    },
+    {
+        "id": 114,
+        "libraryName": "SE_Random",
+        "libraryId": 2,
+        "name": "Gas Types"
+    },
+    {
+        "id": 115,
+        "libraryName": "SE_Random",
+        "libraryId": 2,
+        "name": "Reserved  List"
+    },
+    {
+        "id": 116,
+        "libraryName": "SE_Random",
+        "libraryId": 2,
+        "name": "Reserved List"
+    },
+    {
+        "id": 117,
+        "libraryName": "SE_Random",
+        "libraryId": 2,
+        "name": "Atmospheric Reactions"
+    },
+    {
+        "id": 118,
+        "libraryName": "SE_Random",
+        "libraryId": 2,
+        "name": "Evolutionary Steps"
+    },
+    {
+        "id": 119,
+        "libraryName": "SE_Random",
+        "libraryId": 2,
+        "name": "Lifeform Properties"
+    },
+    {
+        "id": 120,
+        "libraryName": "SE_Random",
+        "libraryId": 2,
+        "name": "Life Properties"
+    },
+    {
+        "id": 121,
+        "libraryName": "SE_Random",
+        "libraryId": 2,
+        "name": "Helper Earth Lifeforms"
+    },
+    {
+        "id": 122,
+        "libraryName": "SE_Random",
+        "libraryId": 2,
+        "name": "Helper Earth Lifeforms Gas Limits"
+    },
+    {
+        "id": 123,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Zones"
+    },
+    {
+        "id": 124,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Zone Seasons"
+    },
+    {
+        "id": 125,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Seasons"
+    },
+    {
+        "id": 126,
+        "libraryName": "SE_Linguistic",
+        "libraryId": 5,
+        "name": "Lifeform syntax"
+    },
+    {
+        "id": 127,
+        "libraryName": "SE_Linguistic",
+        "libraryId": 5,
+        "name": "Lifeclass Name Table"
+    },
+    {
+        "id": 128,
+        "libraryName": "SE_Linguistic",
+        "libraryId": 5,
+        "name": "Prefix Alpha Table"
+    },
+    {
+        "id": 129,
+        "libraryName": "SE_Linguistic",
+        "libraryId": 5,
+        "name": "Prefix Beta Table"
+    },
+    {
+        "id": 130,
+        "libraryName": "SE_Random",
+        "libraryId": 2,
+        "name": "Colony Major Events"
+    },
+    {
+        "id": 131,
+        "libraryName": "SE_Random",
+        "libraryId": 2,
+        "name": "Colony History"
+    },
+    {
+        "id": 132,
+        "libraryName": "SE_Random",
+        "libraryId": 2,
+        "name": "Colony Zones"
+    },
+    {
+        "id": 133,
+        "libraryName": "SE_Random",
+        "libraryId": 2,
+        "name": "Dissolution Major Events"
+    },
+    {
+        "id": 134,
+        "libraryName": "SE_Random",
+        "libraryId": 2,
+        "name": "Dissolution History"
+    },
+    {
+        "id": 136,
+        "libraryName": "SE_Linguistic",
+        "libraryId": 5,
+        "name": "Name Syntax"
+    },
+    {
+        "id": 137,
+        "libraryName": "SE_Linguistic",
+        "libraryId": 5,
+        "name": "Name Radical Prefix Alpha"
+    },
+    {
+        "id": 138,
+        "libraryName": "SE_Linguistic",
+        "libraryId": 5,
+        "name": "Name Radical Alpha"
+    },
+    {
+        "id": 139,
+        "libraryName": "SE_Linguistic",
+        "libraryId": 5,
+        "name": "Name Radical Suffix Alpha"
+    },
+    {
+        "id": 140,
+        "libraryName": "SE_Linguistic",
+        "libraryId": 5,
+        "name": "Name Half-Radical Start"
+    },
+    {
+        "id": 141,
+        "libraryName": "SE_Linguistic",
+        "libraryId": 5,
+        "name": "Name Half-Radical End"
+    },
+    {
+        "id": 142,
+        "libraryName": "SE_Linguistic",
+        "libraryId": 5,
+        "name": "Name Planetary Suffix"
+    },
+    {
+        "id": 143,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Regimes"
+    },
+    {
+        "id": 144,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Flex Asset Types"
+    },
+    {
+        "id": 145,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Flex Asset Type Upkeep"
+    },
+    {
+        "id": 146,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Flex Asset Type Prod Cost"
+    },
+    {
+        "id": 147,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Flex Production Types"
+    },
+    {
+        "id": 148,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Zone Assets"
+    },
+    {
+        "id": 149,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "LIS Item Types"
+    },
+    {
+        "id": 150,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Flex Asset Type Construction Cost"
+    },
+    {
+        "id": 151,
+        "libraryName": "SE_Asset",
+        "libraryId": 7,
+        "name": "Flex Asset Types"
+    },
+    {
+        "id": 152,
+        "libraryName": "SE_Asset",
+        "libraryId": 7,
+        "name": "Flex Asset Type Upkeep"
+    },
+    {
+        "id": 153,
+        "libraryName": "SE_Asset",
+        "libraryId": 7,
+        "name": "Flex Asset Type Prod Cost"
+    },
+    {
+        "id": 154,
+        "libraryName": "SE_Asset",
+        "libraryId": 7,
+        "name": "Flex Production Types"
+    },
+    {
+        "id": 155,
+        "libraryName": "SE_Asset",
+        "libraryId": 7,
+        "name": "Flex Asset Type Construction Cost"
+    },
+    {
+        "id": 156,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Game Keys"
+    },
+    {
+        "id": 157,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Zone Neighbours"
+    },
+    {
+        "id": 159,
+        "libraryName": "SE_IO",
+        "libraryId": 0,
+        "name": "IO Key and Values list"
+    },
+    {
+        "id": 160,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Zone Keys"
+    },
+    {
+        "id": 161,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "LIS Transport Modes"
+    },
+    {
+        "id": 162,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "LIS Location Points"
+    },
+    {
+        "id": 163,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "LIS SFType Use"
+    },
+    {
+        "id": 164,
+        "libraryName": "SE_Present",
+        "libraryId": 6,
+        "name": "UDS Order Bar"
+    },
+    {
+        "id": 165,
+        "libraryName": "SE_Present",
+        "libraryId": 6,
+        "name": "Global Variables"
+    },
+    {
+        "id": 166,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Function AssetEffects"
+    },
+    {
+        "id": 167,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Zone Log"
+    },
+    {
+        "id": 168,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Flags"
+    },
+    {
+        "id": 169,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Flag Instructions"
+    },
+    {
+        "id": 170,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Militia Unit Table"
+    },
+    {
+        "id": 171,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Milita Trooptype Table"
+    },
+    {
+        "id": 172,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Militia Naming Table"
+    },
+    {
+        "id": 173,
+        "libraryName": "SE_Linguistic",
+        "libraryId": 5,
+        "name": "Char name prefix"
+    },
+    {
+        "id": 176,
+        "libraryName": "SE_Linguistic",
+        "libraryId": 5,
+        "name": "Char name radical"
+    },
+    {
+        "id": 177,
+        "libraryName": "SE_Linguistic",
+        "libraryId": 5,
+        "name": "Char name suffix masculin"
+    },
+    {
+        "id": 178,
+        "libraryName": "SE_Linguistic",
+        "libraryId": 5,
+        "name": "full first names masculoin"
+    },
+    {
+        "id": 179,
+        "libraryName": "SE_Linguistic",
+        "libraryId": 5,
+        "name": "1st half last names"
+    },
+    {
+        "id": 180,
+        "libraryName": "SE_Linguistic",
+        "libraryId": 5,
+        "name": "2nd half last names"
+    },
+    {
+        "id": 181,
+        "libraryName": "SE_Linguistic",
+        "libraryId": 5,
+        "name": "full last names"
+    },
+    {
+        "id": 182,
+        "libraryName": "SE_Linguistic",
+        "libraryId": 5,
+        "name": "char name suffix feminine"
+    },
+    {
+        "id": 183,
+        "libraryName": "SE_Linguistic",
+        "libraryId": 5,
+        "name": "full fist names feminine"
+    },
+    {
+        "id": 184,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Organisations"
+    },
+    {
+        "id": 185,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Organisations Tasks"
+    },
+    {
+        "id": 186,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Organisation Keys"
+    },
+    {
+        "id": 187,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Regime Techs"
+    },
+    {
+        "id": 188,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Flex Organisation Types"
+    },
+    {
+        "id": 189,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Flex Organisation Task Types"
+    },
+    {
+        "id": 190,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Flex Tech Types"
+    },
+    {
+        "id": 191,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Flex Story Triggers"
+    },
+    {
+        "id": 192,
+        "libraryName": "SE_Org",
+        "libraryId": 10,
+        "name": "Flex Organisation Types"
+    },
+    {
+        "id": 193,
+        "libraryName": "SE_Org",
+        "libraryId": 10,
+        "name": "Flex Organisation Task Types"
+    },
+    {
+        "id": 194,
+        "libraryName": "SE_Org",
+        "libraryId": 10,
+        "name": "Flex Tech Types"
+    },
+    {
+        "id": 195,
+        "libraryName": "SE_Org",
+        "libraryId": 10,
+        "name": "Flex Story Triggers"
+    },
+    {
+        "id": 196,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Characters"
+    },
+    {
+        "id": 197,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Reserved"
+    },
+    {
+        "id": 198,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Character Personnel File"
+    },
+    {
+        "id": 199,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Character Skills"
+    },
+    {
+        "id": 200,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Factions"
+    },
+    {
+        "id": 201,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Helper Faction Creation"
+    },
+    {
+        "id": 202,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Faction Profile Traits"
+    },
+    {
+        "id": 203,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Skill Types"
+    },
+    {
+        "id": 204,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Portraits"
+    },
+    {
+        "id": 205,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Char Generation Age Table"
+    },
+    {
+        "id": 206,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Char Generation Career-Career Table"
+    },
+    {
+        "id": 207,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Char Generation Career-Skill Table"
+    },
+    {
+        "id": 208,
+        "libraryName": "SE_Linguistic",
+        "libraryId": 5,
+        "name": "Local Agenda Prefix"
+    },
+    {
+        "id": 209,
+        "libraryName": "SE_Linguistic",
+        "libraryId": 5,
+        "name": "Local Agenda Radical"
+    },
+    {
+        "id": 210,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Regime Keys"
+    },
+    {
+        "id": 211,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Detailed Reports"
+    },
+    {
+        "id": 212,
+        "libraryName": "SE_Present",
+        "libraryId": 6,
+        "name": "Cinematics Stringlist"
+    },
+    {
+        "id": 213,
+        "libraryName": "SE_Linguistic",
+        "libraryId": 5,
+        "name": "Asset prefix 1"
+    },
+    {
+        "id": 214,
+        "libraryName": "SE_Linguistic",
+        "libraryId": 5,
+        "name": "Asset prefix 2"
+    },
+    {
+        "id": 215,
+        "libraryName": "SE_Linguistic",
+        "libraryId": 5,
+        "name": "Farm Radical"
+    },
+    {
+        "id": 216,
+        "libraryName": "SE_Linguistic",
+        "libraryId": 5,
+        "name": "Mine Radical"
+    },
+    {
+        "id": 217,
+        "libraryName": "SE_Linguistic",
+        "libraryId": 5,
+        "name": "Scav Radical"
+    },
+    {
+        "id": 218,
+        "libraryName": "SE_Linguistic",
+        "libraryId": 5,
+        "name": "Hunt Radical"
+    },
+    {
+        "id": 219,
+        "libraryName": "SE_Linguistic",
+        "libraryId": 5,
+        "name": "Great Sea Prefix"
+    },
+    {
+        "id": 220,
+        "libraryName": "SE_Linguistic",
+        "libraryId": 5,
+        "name": "Medium Sea Prefix"
+    },
+    {
+        "id": 221,
+        "libraryName": "SE_Linguistic",
+        "libraryId": 5,
+        "name": "Small Sea Prefix"
+    },
+    {
+        "id": 222,
+        "libraryName": "SE_Linguistic",
+        "libraryId": 5,
+        "name": "Great Sea Radical"
+    },
+    {
+        "id": 223,
+        "libraryName": "SE_Linguistic",
+        "libraryId": 5,
+        "name": "Medium Sea Radical"
+    },
+    {
+        "id": 224,
+        "libraryName": "SE_Linguistic",
+        "libraryId": 5,
+        "name": "Small Sea Radical"
+    },
+    {
+        "id": 225,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Flex Model Type"
+    },
+    {
+        "id": 226,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Flex Model Type Stat Calculations"
+    },
+    {
+        "id": 227,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Flex Tech-ModelType Effects"
+    },
+    {
+        "id": 228,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Regime Models"
+    },
+    {
+        "id": 229,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Regime Model History Stats"
+    },
+    {
+        "id": 230,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Regime Model History Techs"
+    },
+    {
+        "id": 231,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Flex Model Type Stats"
+    },
+    {
+        "id": 232,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Flex Model Type Choices"
+    },
+    {
+        "id": 233,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Prescripted Cinematic Messages"
+    },
+    {
+        "id": 234,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Flex Model Type Name"
+    },
+    {
+        "id": 235,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Flex Model Type Description"
+    },
+    {
+        "id": 236,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Flex OOB Types"
+    },
+    {
+        "id": 237,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Flex TOE Types"
+    },
+    {
+        "id": 238,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Regime OOBs"
+    },
+    {
+        "id": 239,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "TOE counter"
+    },
+    {
+        "id": 240,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "OOB Counter"
+    },
+    {
+        "id": 241,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Zone Log"
+    },
+    {
+        "id": 242,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Landscape Season Table"
+    },
+    {
+        "id": 243,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Helper New Asset Build Possible Notified"
+    },
+    {
+        "id": 244,
+        "libraryName": "SE_Model",
+        "libraryId": 11,
+        "name": "Flex Model Type"
+    },
+    {
+        "id": 245,
+        "libraryName": "SE_Model",
+        "libraryId": 11,
+        "name": "Flex Model Type SFType Stat Calcs"
+    },
+    {
+        "id": 246,
+        "libraryName": "SE_Model",
+        "libraryId": 11,
+        "name": "Flex Tech-ModelType Effects"
+    },
+    {
+        "id": 247,
+        "libraryName": "SE_Model",
+        "libraryId": 11,
+        "name": "Flex Model Type Stats"
+    },
+    {
+        "id": 248,
+        "libraryName": "SE_Model",
+        "libraryId": 11,
+        "name": "Flex Model Type Choices"
+    },
+    {
+        "id": 249,
+        "libraryName": "SE_Model",
+        "libraryId": 11,
+        "name": "Flex Model Type Name"
+    },
+    {
+        "id": 250,
+        "libraryName": "SE_Model",
+        "libraryId": 11,
+        "name": "Flex Model Type Description"
+    },
+    {
+        "id": 251,
+        "libraryName": "SE_Trade",
+        "libraryId": 12,
+        "name": "Trade Base Values"
+    },
+    {
+        "id": 252,
+        "libraryName": "SE_Trade",
+        "libraryId": 12,
+        "name": "Trade Regions"
+    },
+    {
+        "id": 253,
+        "libraryName": "SE_Trade",
+        "libraryId": 12,
+        "name": "Trade Zones"
+    },
+    {
+        "id": 254,
+        "libraryName": "SE_Trade",
+        "libraryId": 12,
+        "name": "Trader Items"
+    },
+    {
+        "id": 255,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Old Regime Keys"
+    },
+    {
+        "id": 256,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Flex Regime Profile Effects"
+    },
+    {
+        "id": 257,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Log Regime Profile Changes"
+    },
+    {
+        "id": 258,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Flex Regime Key Documentation"
+    },
+    {
+        "id": 260,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Flex Regular Story Text"
+    },
+    {
+        "id": 261,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Flex Story Decisions"
+    },
+    {
+        "id": 262,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Flex Story Decision Cost"
+    },
+    {
+        "id": 263,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Flex Story Decision Rel. Effects"
+    },
+    {
+        "id": 264,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Flex Story Decision Data Effects"
+    },
+    {
+        "id": 265,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Flex Story Decision Advise Quotes"
+    },
+    {
+        "id": 266,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Flex Lookup Types"
+    },
+    {
+        "id": 267,
+        "libraryName": "Story_Alpha1",
+        "libraryId": 13,
+        "name": "Basic Stories, Format Alpha, Batch 1"
+    },
+    {
+        "id": 268,
+        "libraryName": "Story_UpgradeCity",
+        "libraryId": 14,
+        "name": "Flex Story Triggers"
+    },
+    {
+        "id": 269,
+        "libraryName": "Story_UpgradeCity",
+        "libraryId": 14,
+        "name": "Flex Story Decisions"
+    },
+    {
+        "id": 270,
+        "libraryName": "Story_UpgradeCity",
+        "libraryId": 14,
+        "name": "Flex Story Decision Cost"
+    },
+    {
+        "id": 271,
+        "libraryName": "Story_UpgradeCity",
+        "libraryId": 14,
+        "name": "Flex Story Decision Data Effects"
+    },
+    {
+        "id": 272,
+        "libraryName": "Story_UpgradeCity",
+        "libraryId": 14,
+        "name": "Flex Regular Story Text"
+    },
+    {
+        "id": 273,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Start of Turn SHQ items"
+    },
+    {
+        "id": 274,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "AI Pool items and requests"
+    },
+    {
+        "id": 275,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Regime Relations"
+    },
+    {
+        "id": 276,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Current Cards"
+    },
+    {
+        "id": 277,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Flex Diplomatic Actions"
+    },
+    {
+        "id": 278,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Flex Diplomatic Action FX vs AI"
+    },
+    {
+        "id": 279,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Flex Diplomatic Action FX vs HUMAN"
+    },
+    {
+        "id": 280,
+        "libraryName": "SE_Diplomatic",
+        "libraryId": 15,
+        "name": "Flex Diplomatic Actions"
+    },
+    {
+        "id": 281,
+        "libraryName": "SE_Diplomatic",
+        "libraryId": 15,
+        "name": "Flex Diplomatic Action FX vs AI"
+    },
+    {
+        "id": 282,
+        "libraryName": "SE_Diplomatic",
+        "libraryId": 15,
+        "name": "Flex Diplomatic Action FX vs HUMAN"
+    },
+    {
+        "id": 283,
+        "libraryName": "SE_Diplomatic",
+        "libraryId": 15,
+        "name": "Diplomatic Story, format Beta, batch 1"
+    },
+    {
+        "id": 284,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Old SHQ Items"
+    },
+    {
+        "id": 286,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Projected SHQ item use"
+    },
+    {
+        "id": 287,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Old Zone Keys"
+    },
+    {
+        "id": 288,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Regime Zone Keys"
+    },
+    {
+        "id": 289,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Zone Orders"
+    },
+    {
+        "id": 290,
+        "libraryName": "SE_Random",
+        "libraryId": 2,
+        "name": "Map Graphics Replacement Sets"
+    },
+    {
+        "id": 291,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Helper Regime Keys"
+    },
+    {
+        "id": 292,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Regime Statistics"
+    },
+    {
+        "id": 293,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Unit Logs"
+    },
+    {
+        "id": 294,
+        "libraryName": "SE_Interior",
+        "libraryId": 16,
+        "name": "Flex Interior Actions"
+    },
+    {
+        "id": 295,
+        "libraryName": "SE_Interior",
+        "libraryId": 16,
+        "name": "Flex Interiror Action FX vs AI"
+    },
+    {
+        "id": 296,
+        "libraryName": "SE_Interior",
+        "libraryId": 16,
+        "name": "Flex Interior Action FX vs Human"
+    },
+    {
+        "id": 297,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Tariffs"
+    },
+    {
+        "id": 298,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Tax Log"
+    },
+    {
+        "id": 299,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "SFType ID- Regime ID quality levels"
+    },
+    {
+        "id": 300,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Flex Story Decision Advise Quotes"
+    },
+    {
+        "id": 302,
+        "libraryName": "SE_Diplomatic",
+        "libraryId": 15,
+        "name": "Human Fx Dip Story, format Beta, batch 1"
+    },
+    {
+        "id": 303,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "AI Dip Card Play"
+    },
+    {
+        "id": 304,
+        "libraryName": "Story_Alpha1",
+        "libraryId": 13,
+        "name": "Flex Lookup Types"
+    },
+    {
+        "id": 305,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "AI Tech,Oob and Model Table"
+    },
+    {
+        "id": 306,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Cultures"
+    },
+    {
+        "id": 307,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Culture Profiles"
+    },
+    {
+        "id": 308,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Culture Keys"
+    },
+    {
+        "id": 309,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Helper People Type"
+    },
+    {
+        "id": 310,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Flex Culture Group"
+    },
+    {
+        "id": 311,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Flex Gfx Set"
+    },
+    {
+        "id": 312,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Flex Culture Group Planets and Zones"
+    },
+    {
+        "id": 313,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Flex Culture Group Profile Tendency"
+    },
+    {
+        "id": 314,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Flex Culture Group Key Tendency"
+    },
+    {
+        "id": 315,
+        "libraryName": "SE_Culture",
+        "libraryId": 17,
+        "name": "Flex Culture Group"
+    },
+    {
+        "id": 316,
+        "libraryName": "SE_Culture",
+        "libraryId": 17,
+        "name": "Flex Gfx Set"
+    },
+    {
+        "id": 317,
+        "libraryName": "SE_Culture",
+        "libraryId": 17,
+        "name": "Flex Culture Group Planets and Zones"
+    },
+    {
+        "id": 318,
+        "libraryName": "SE_Culture",
+        "libraryId": 17,
+        "name": "Flex Culture Group Profile Tendency"
+    },
+    {
+        "id": 319,
+        "libraryName": "SE_Culture",
+        "libraryId": 17,
+        "name": "Flex Culture Group Key Tendency"
+    },
+    {
+        "id": 320,
+        "libraryName": "SE_Linguistic",
+        "libraryId": 5,
+        "name": "Language Based Zone Prefix"
+    },
+    {
+        "id": 321,
+        "libraryName": "SE_Linguistic",
+        "libraryId": 5,
+        "name": "Language Based Zone Suffix"
+    },
+    {
+        "id": 322,
+        "libraryName": "SE_Linguistic",
+        "libraryId": 5,
+        "name": "Language Based Zone Fullname"
+    },
+    {
+        "id": 323,
+        "libraryName": "SE_Linguistic",
+        "libraryId": 5,
+        "name": "Language Based Empire Zone Suffix"
+    },
+    {
+        "id": 324,
+        "libraryName": "SE_Linguistic",
+        "libraryId": 5,
+        "name": "Language Based Empire Prefix"
+    },
+    {
+        "id": 325,
+        "libraryName": "SE_Linguistic",
+        "libraryId": 5,
+        "name": "Language Based Empire Suffix"
+    },
+    {
+        "id": 326,
+        "libraryName": "SE_Linguistic",
+        "libraryId": 5,
+        "name": "Language Based Culture People Suffix"
+    },
+    {
+        "id": 327,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Regime Symbols"
+    },
+    {
+        "id": 328,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Flex Model Graphics"
+    },
+    {
+        "id": 329,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Flex SFType Var Gfx"
+    },
+    {
+        "id": 330,
+        "libraryName": "SE_Model",
+        "libraryId": 11,
+        "name": "Flex Model Graphics"
+    },
+    {
+        "id": 333,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Story Groups"
+    },
+    {
+        "id": 334,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Running Group Stories ID"
+    },
+    {
+        "id": 335,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Story Trigger Count"
+    },
+    {
+        "id": 336,
+        "libraryName": "Story_Complex1",
+        "libraryId": 18,
+        "name": "Prescripted Cinematic Messages"
+    },
+    {
+        "id": 337,
+        "libraryName": "Story_Complex1",
+        "libraryId": 18,
+        "name": "101 - 104 : Various Complex Stories"
+    },
+    {
+        "id": 338,
+        "libraryName": "Story_Complex1",
+        "libraryId": 18,
+        "name": "Flex Lookup Types"
+    },
+    {
+        "id": 339,
+        "libraryName": "Story_Complex1",
+        "libraryId": 18,
+        "name": "Story Groups"
+    },
+    {
+        "id": 340,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Character Keys"
+    },
+    {
+        "id": 341,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Flex Story Logic"
+    },
+    {
+        "id": 342,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Running Complex Stories"
+    },
+    {
+        "id": 343,
+        "libraryName": "Story_Complex1",
+        "libraryId": 18,
+        "name": "Story Logic"
+    },
+    {
+        "id": 344,
+        "libraryName": "Story_Complex1",
+        "libraryId": 18,
+        "name": "Helper Regime Keys"
+    },
+    {
+        "id": 345,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "FLEX action card target logic"
+    },
+    {
+        "id": 346,
+        "libraryName": "SE_Diplomatic",
+        "libraryId": 15,
+        "name": "FLEX action card target logic"
+    },
+    {
+        "id": 347,
+        "libraryName": "SE_Interior",
+        "libraryId": 16,
+        "name": "FLEX action card target logic"
+    },
+    {
+        "id": 348,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Helper SFType Stats"
+    },
+    {
+        "id": 349,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Helper Model Stats"
+    },
+    {
+        "id": 350,
+        "libraryName": "SE_Postures",
+        "libraryId": 19,
+        "name": "Flex Interior Actions"
+    },
+    {
+        "id": 351,
+        "libraryName": "SE_Postures",
+        "libraryId": 19,
+        "name": "FLEX action card target logic"
+    },
+    {
+        "id": 352,
+        "libraryName": "SE_Postures",
+        "libraryId": 19,
+        "name": "Flex Interiror Action FX vs AI"
+    },
+    {
+        "id": 353,
+        "libraryName": "Story_Unrest",
+        "libraryId": 20,
+        "name": "Unrest Story, Espilon Format 1"
+    },
+    {
+        "id": 354,
+        "libraryName": "Story_Unrest",
+        "libraryId": 20,
+        "name": "Unrest Story, Epsilon Format 2"
+    },
+    {
+        "id": 355,
+        "libraryName": "Story_Unrest",
+        "libraryId": 20,
+        "name": "Danger Story, Epsilon Format 1"
+    },
+    {
+        "id": 356,
+        "libraryName": "Story_Unrest",
+        "libraryId": 20,
+        "name": "Danger Story, Epsilon Format 2"
+    },
+    {
+        "id": 357,
+        "libraryName": "Story_Unrest",
+        "libraryId": 20,
+        "name": "Rebel Story, Epsilon Format 1"
+    },
+    {
+        "id": 358,
+        "libraryName": "Story_Unrest",
+        "libraryId": 20,
+        "name": "Rebel Story, Epsilon Format 2"
+    },
+    {
+        "id": 359,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Story Trigger Count"
+    },
+    {
+        "id": 360,
+        "libraryName": "SE_Culture",
+        "libraryId": 17,
+        "name": "Cultures"
+    },
+    {
+        "id": 361,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Detailed Asset Log"
+    },
+    {
+        "id": 362,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Landscape Natural Mining"
+    },
+    {
+        "id": 363,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Regime Model History Stats"
+    },
+    {
+        "id": 364,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Salaries"
+    },
+    {
+        "id": 365,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Old Character Log"
+    },
+    {
+        "id": 366,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Non-Zone seasons"
+    },
+    {
+        "id": 367,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "River Season Table"
+    },
+    {
+        "id": 368,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Asset Type to Location Type"
+    },
+    {
+        "id": 369,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Recolor Instructions"
+    },
+    {
+        "id": 370,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Landscape Illustration Table"
+    },
+    {
+        "id": 371,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Landscape Type Asset Properties"
+    },
+    {
+        "id": 372,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Aux Logs"
+    },
+    {
+        "id": 373,
+        "libraryName": "SE_Fate",
+        "libraryId": 21,
+        "name": "Flex Fate Actions"
+    },
+    {
+        "id": 374,
+        "libraryName": "SE_Fate",
+        "libraryId": 21,
+        "name": "FLEX action card target logic"
+    },
+    {
+        "id": 375,
+        "libraryName": "SE_Fate",
+        "libraryId": 21,
+        "name": "Flex Fate action Fx vs AI"
+    },
+    {
+        "id": 376,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Character Feats"
+    },
+    {
+        "id": 377,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Character Feat Types"
+    },
+    {
+        "id": 378,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Character Feat Effects"
+    },
+    {
+        "id": 380,
+        "libraryName": "SE_Perks",
+        "libraryId": 22,
+        "name": "Perks"
+    },
+    {
+        "id": 381,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Flex Perks"
+    },
+    {
+        "id": 382,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Hex Names"
+    },
+    {
+        "id": 383,
+        "libraryName": "SE_Linguistic",
+        "libraryId": 5,
+        "name": "First Hex Perk Part"
+    },
+    {
+        "id": 384,
+        "libraryName": "SE_Linguistic",
+        "libraryId": 5,
+        "name": "Second Hex Perk PArt"
+    },
+    {
+        "id": 385,
+        "libraryName": "SE_Linguistic",
+        "libraryId": 5,
+        "name": "First Hex Area Part"
+    },
+    {
+        "id": 386,
+        "libraryName": "SE_Linguistic",
+        "libraryId": 5,
+        "name": "Second Hex Area Part"
+    },
+    {
+        "id": 387,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Helper Regime Feat Types"
+    },
+    {
+        "id": 388,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Regime Feats"
+    },
+    {
+        "id": 389,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Regime Feat Types Stratagems"
+    },
+    {
+        "id": 390,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Helper Regime Feat Type Fx"
+    },
+    {
+        "id": 391,
+        "libraryName": "SE_IO",
+        "libraryId": 0,
+        "name": "IO Temporary Stringlist #1"
+    },
+    {
+        "id": 392,
+        "libraryName": "SE_IO",
+        "libraryId": 0,
+        "name": "Temp Stringlist #2 trade logs"
+    },
+    {
+        "id": 393,
+        "libraryName": "SE_IO",
+        "libraryId": 0,
+        "name": "IO Temporary Stringlist #3"
+    },
+    {
+        "id": 394,
+        "libraryName": "SE_IO",
+        "libraryId": 0,
+        "name": "IO Temporary Stringlist #4"
+    },
+    {
+        "id": 395,
+        "libraryName": "SE_IO",
+        "libraryId": 0,
+        "name": "IO Temporary Stringlist #5"
+    },
+    {
+        "id": 396,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Regime GUI keys"
+    },
+    {
+        "id": 397,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Helper Regime Feat Demands"
+    },
+    {
+        "id": 398,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Regime - Regime Feat Log"
+    },
+    {
+        "id": 399,
+        "libraryName": "SE_Random",
+        "libraryId": 2,
+        "name": "Zones Backup"
+    },
+    {
+        "id": 400,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Trade Logs"
+    },
+    {
+        "id": 401,
+        "libraryName": "SE_UnitFeats",
+        "libraryId": 24,
+        "name": "Unit Feats"
+    },
+    {
+        "id": 402,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Flex Unit Feats"
+    },
+    {
+        "id": 403,
+        "libraryName": "SE_UnitFeats",
+        "libraryId": 24,
+        "name": "Unit Feat Behaviour"
+    },
+    {
+        "id": 404,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Flex Unit Feat Behaviours"
+    },
+    {
+        "id": 405,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "AI Culture Group"
+    },
+    {
+        "id": 406,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "AI Factions"
+    },
+    {
+        "id": 407,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "AI Story Modifiers"
+    },
+    {
+        "id": 408,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "AI Improve Attempt Modifier"
+    },
+    {
+        "id": 409,
+        "libraryName": "Story_Complex1",
+        "libraryId": 18,
+        "name": "105 : Major Regime Stories"
+    },
+    {
+        "id": 410,
+        "libraryName": "Story_Complex1",
+        "libraryId": 18,
+        "name": "105: Story Logic"
+    },
+    {
+        "id": 411,
+        "libraryName": "Story_Alpha1",
+        "libraryId": 13,
+        "name": "13-15 Leader and Unit Basic Stories"
+    },
+    {
+        "id": 412,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Story Trigger Count"
+    },
+    {
+        "id": 413,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Flex Custom Zone Info"
+    },
+    {
+        "id": 415,
+        "libraryName": "SE_Crime",
+        "libraryId": 25,
+        "name": "Story Groups"
+    },
+    {
+        "id": 416,
+        "libraryName": "SE_Crime",
+        "libraryId": 25,
+        "name": "Flex Story Logic"
+    },
+    {
+        "id": 414,
+        "libraryName": "SE_Crime",
+        "libraryId": 25,
+        "name": "Decisions"
+    },
+    {
+        "id": 420,
+        "libraryName": "SE_Crime",
+        "libraryId": 25,
+        "name": "Name Syntax"
+    },
+    {
+        "id": 421,
+        "libraryName": "SE_Crime",
+        "libraryId": 25,
+        "name": "full first names masculoin"
+    },
+    {
+        "id": 422,
+        "libraryName": "SE_Crime",
+        "libraryId": 25,
+        "name": "full last names"
+    },
+    {
+        "id": 424,
+        "libraryName": "SE_Crime",
+        "libraryId": 25,
+        "name": "Flex Custom Zone Info"
+    },
+    {
+        "id": 425,
+        "libraryName": "SE_Crime",
+        "libraryId": 25,
+        "name": "Helper Regime Keys"
+    },
+    {
+        "id": 426,
+        "libraryName": "SE_Crime",
+        "libraryId": 25,
+        "name": "Flex Regime Key Documentation"
+    },
+    {
+        "id": 427,
+        "libraryName": "SE_Crime",
+        "libraryId": 25,
+        "name": "Tooltips Stringlist"
+    },
+    {
+        "id": 429,
+        "libraryName": "SE_Crime",
+        "libraryId": 25,
+        "name": "Flex Diplomatic Actions"
+    },
+    {
+        "id": 430,
+        "libraryName": "SE_Crime",
+        "libraryId": 25,
+        "name": "Flex Diplomatic Action FX vs AI"
+    },
+    {
+        "id": 431,
+        "libraryName": "SE_Crime",
+        "libraryId": 25,
+        "name": "FLEX action card target logic"
+    },
+    {
+        "id": 432,
+        "libraryName": "SE_Crime",
+        "libraryId": 25,
+        "name": "Unit Feats"
+    },
+    {
+        "id": 433,
+        "libraryName": "SE_Crime",
+        "libraryId": 25,
+        "name": "Unit Feat Behaviour"
+    },
+    {
+        "id": 434,
+        "libraryName": "SE_Crime",
+        "libraryId": 25,
+        "name": "Character Feat Types"
+    },
+    {
+        "id": 435,
+        "libraryName": "SE_Crime",
+        "libraryId": 25,
+        "name": "Character Feat Effects"
+    },
+    {
+        "id": 436,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Flex Organisation Types"
+    },
+    {
+        "id": 437,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "FLEX Base Portrait Groups"
+    },
+    {
+        "id": 438,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "FLEX Portrait Parts"
+    },
+    {
+        "id": 439,
+        "libraryName": "SE_Culture",
+        "libraryId": 17,
+        "name": "FLEX Base Portrait Groups"
+    },
+    {
+        "id": 440,
+        "libraryName": "SE_Culture",
+        "libraryId": 17,
+        "name": "FLEX Portrait Parts"
+    },
+    {
+        "id": 441,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Flex TroopType Drawing Instr."
+    },
+    {
+        "id": 442,
+        "libraryName": "SE_Model",
+        "libraryId": 11,
+        "name": "Infantry Drawing Instr."
+    },
+    {
+        "id": 443,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Flex Tech Type Groups"
+    },
+    {
+        "id": 444,
+        "libraryName": "SE_Org",
+        "libraryId": 10,
+        "name": "Flex Tech Type Groups"
+    },
+    {
+        "id": 445,
+        "libraryName": "SE_Model",
+        "libraryId": 11,
+        "name": "Tank Drawing Instr"
+    },
+    {
+        "id": 446,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Flex Helper Choice Details"
+    },
+    {
+        "id": 447,
+        "libraryName": "SE_Model",
+        "libraryId": 11,
+        "name": "Flex Helper Choice Details"
+    },
+    {
+        "id": 448,
+        "libraryName": "Story_UpgradeCity",
+        "libraryId": 14,
+        "name": "Flex Story Logic"
+    },
+    {
+        "id": 449,
+        "libraryName": "SE_Linguistic",
+        "libraryId": 5,
+        "name": "Full Asset Names"
+    },
+    {
+        "id": 450,
+        "libraryName": "Story_Complex1",
+        "libraryId": 18,
+        "name": "Leader Low Relation FX"
+    },
+    {
+        "id": 451,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Log New Cards this turn"
+    },
+    {
+        "id": 452,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Story Hooks"
+    },
+    {
+        "id": 453,
+        "libraryName": "SE_Linked",
+        "libraryId": 26,
+        "name": "Story Groups"
+    },
+    {
+        "id": 454,
+        "libraryName": "SE_Linked",
+        "libraryId": 26,
+        "name": "Linked Stories"
+    },
+    {
+        "id": 455,
+        "libraryName": "SE_Linked",
+        "libraryId": 26,
+        "name": "Character Feat Types"
+    },
+    {
+        "id": 456,
+        "libraryName": "SE_Linked",
+        "libraryId": 26,
+        "name": "Character Feat Effects"
+    },
+    {
+        "id": 457,
+        "libraryName": "SE_Linked",
+        "libraryId": 26,
+        "name": "Helper Regime Feat Types"
+    },
+    {
+        "id": 458,
+        "libraryName": "SE_Linked",
+        "libraryId": 26,
+        "name": "Helper Regime Feat Type Fx"
+    },
+    {
+        "id": 459,
+        "libraryName": "SE_Linked",
+        "libraryId": 26,
+        "name": "Tooltips Stringlist"
+    },
+    {
+        "id": 460,
+        "libraryName": "SE_Linked",
+        "libraryId": 26,
+        "name": "Flex Lookup Types"
+    },
+    {
+        "id": 461,
+        "libraryName": "SE_Linked",
+        "libraryId": 26,
+        "name": "Flex Diplomatic Actions"
+    },
+    {
+        "id": 462,
+        "libraryName": "SE_Linked",
+        "libraryId": 26,
+        "name": "Flex Diplomatic Action FX vs AI"
+    },
+    {
+        "id": 463,
+        "libraryName": "SE_Linked",
+        "libraryId": 26,
+        "name": "FLEX action card target logic"
+    },
+    {
+        "id": 464,
+        "libraryName": "SE_Linked",
+        "libraryId": 26,
+        "name": "Flex Story Logic"
+    },
+    {
+        "id": 465,
+        "libraryName": "SE_Corporate",
+        "libraryId": 27,
+        "name": "Story Groups"
+    },
+    {
+        "id": 466,
+        "libraryName": "SE_Corporate",
+        "libraryId": 27,
+        "name": "Flex Story Logic"
+    },
+    {
+        "id": 467,
+        "libraryName": "SE_Corporate",
+        "libraryId": 27,
+        "name": "Decisions"
+    },
+    {
+        "id": 468,
+        "libraryName": "SE_Corporate",
+        "libraryId": 27,
+        "name": "Name Syntax"
+    },
+    {
+        "id": 469,
+        "libraryName": "SE_Corporate",
+        "libraryId": 27,
+        "name": "full first names masculoin"
+    },
+    {
+        "id": 470,
+        "libraryName": "SE_Corporate",
+        "libraryId": 27,
+        "name": "full last names"
+    },
+    {
+        "id": 471,
+        "libraryName": "SE_Corporate",
+        "libraryId": 27,
+        "name": "Flex Custom Zone Info"
+    },
+    {
+        "id": 472,
+        "libraryName": "SE_Corporate",
+        "libraryId": 27,
+        "name": "Helper Regime Keys"
+    },
+    {
+        "id": 473,
+        "libraryName": "SE_Corporate",
+        "libraryId": 27,
+        "name": "Flex Regime Key Documentation"
+    },
+    {
+        "id": 474,
+        "libraryName": "SE_Corporate",
+        "libraryId": 27,
+        "name": "Tooltips Stringlist"
+    },
+    {
+        "id": 475,
+        "libraryName": "SE_Corporate",
+        "libraryId": 27,
+        "name": "Flex Diplomatic Actions"
+    },
+    {
+        "id": 476,
+        "libraryName": "SE_Corporate",
+        "libraryId": 27,
+        "name": "Flex Diplomatic Action FX vs AI"
+    },
+    {
+        "id": 477,
+        "libraryName": "SE_Corporate",
+        "libraryId": 27,
+        "name": "FLEX action card target logic"
+    },
+    {
+        "id": 478,
+        "libraryName": "SE_Corporate",
+        "libraryId": 27,
+        "name": "Unit Feats"
+    },
+    {
+        "id": 479,
+        "libraryName": "SE_Corporate",
+        "libraryId": 27,
+        "name": "Unit Feat Behaviour"
+    },
+    {
+        "id": 480,
+        "libraryName": "SE_Corporate",
+        "libraryId": 27,
+        "name": "Character Feat Types"
+    },
+    {
+        "id": 481,
+        "libraryName": "SE_Corporate",
+        "libraryId": 27,
+        "name": "Character Feat Effects"
+    },
+    {
+        "id": 482,
+        "libraryName": "SE_Cult",
+        "libraryId": 28,
+        "name": "Story Groups"
+    },
+    {
+        "id": 483,
+        "libraryName": "SE_Cult",
+        "libraryId": 28,
+        "name": "Flex Story Logic"
+    },
+    {
+        "id": 484,
+        "libraryName": "SE_Cult",
+        "libraryId": 28,
+        "name": "Decisions"
+    },
+    {
+        "id": 485,
+        "libraryName": "SE_Cult",
+        "libraryId": 28,
+        "name": "Flex Custom Zone Info"
+    },
+    {
+        "id": 486,
+        "libraryName": "SE_Cult",
+        "libraryId": 28,
+        "name": "Helper Regime Keys"
+    },
+    {
+        "id": 487,
+        "libraryName": "SE_Cult",
+        "libraryId": 28,
+        "name": "Flex Regime Key Documentation"
+    },
+    {
+        "id": 488,
+        "libraryName": "SE_Cult",
+        "libraryId": 28,
+        "name": "Tooltips Stringlist"
+    },
+    {
+        "id": 489,
+        "libraryName": "SE_Cult",
+        "libraryId": 28,
+        "name": "Flex Diplomatic Actions"
+    },
+    {
+        "id": 490,
+        "libraryName": "SE_Cult",
+        "libraryId": 28,
+        "name": "Flex Diplomatic Action FX vs AI"
+    },
+    {
+        "id": 491,
+        "libraryName": "SE_Cult",
+        "libraryId": 28,
+        "name": "FLEX action card target logic"
+    },
+    {
+        "id": 492,
+        "libraryName": "SE_Cult",
+        "libraryId": 28,
+        "name": "Unit Feats"
+    },
+    {
+        "id": 493,
+        "libraryName": "SE_Cult",
+        "libraryId": 28,
+        "name": "Unit Feat Behaviour"
+    },
+    {
+        "id": 494,
+        "libraryName": "SE_Cult",
+        "libraryId": 28,
+        "name": "Character Feat Types"
+    },
+    {
+        "id": 495,
+        "libraryName": "SE_Cult",
+        "libraryId": 28,
+        "name": "Character Feat Effects"
+    },
+    {
+        "id": 496,
+        "libraryName": "SE_Cult",
+        "libraryId": 28,
+        "name": "Flex Lookup Types"
+    },
+    {
+        "id": 497,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Story Hooks"
+    },
+    {
+        "id": 498,
+        "libraryName": "SE_Cult",
+        "libraryId": 28,
+        "name": "Culture Group and Cults"
+    },
+    {
+        "id": 499,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Skill Bonus Log"
+    },
+    {
+        "id": 500,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Asset Constr. Already Paid"
+    },
+    {
+        "id": 501,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Prev Election Regime Keys"
+    },
+    {
+        "id": 502,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Advice Table"
+    },
+    {
+        "id": 503,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Advice Dismiss Record"
+    },
+    {
+        "id": 504,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Help Topics"
+    },
+    {
+        "id": 505,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "LIS Log"
+    },
+    {
+        "id": 506,
+        "libraryName": "SE_Random",
+        "libraryId": 2,
+        "name": "REAL BASE DATA Planetary Data"
+    },
+    {
+        "id": 510,
+        "libraryName": "Story_Unrest",
+        "libraryId": 20,
+        "name": "Think this can be deleted...."
+    },
+    {
+        "id": 511,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "LIS Log Preview"
+    },
+    {
+        "id": 512,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "LIS Log Asset"
+    },
+    {
+        "id": 513,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "PREVIEW Detailed Asset Log"
+    },
+    {
+        "id": 514,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "New Stringlist"
+    },
+    {
+        "id": 515,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Non-Tooltip Key Replacements"
+    },
+    {
+        "id": 516,
+        "libraryName": "SE_Random",
+        "libraryId": 2,
+        "name": "Pl.Gas Table Backup"
+    },
+    {
+        "id": 517,
+        "libraryName": "SE_Airforce",
+        "libraryId": 29,
+        "name": "Flex Model Type"
+    },
+    {
+        "id": 518,
+        "libraryName": "SE_Airforce",
+        "libraryId": 29,
+        "name": "Flex Tech-ModelType Effects"
+    },
+    {
+        "id": 519,
+        "libraryName": "SE_Airforce",
+        "libraryId": 29,
+        "name": "Flex Model Type Stats"
+    },
+    {
+        "id": 520,
+        "libraryName": "SE_Airforce",
+        "libraryId": 29,
+        "name": "Flex Model Type Choices"
+    },
+    {
+        "id": 521,
+        "libraryName": "SE_Airforce",
+        "libraryId": 29,
+        "name": "Flex Model Type Name"
+    },
+    {
+        "id": 522,
+        "libraryName": "SE_Airforce",
+        "libraryId": 29,
+        "name": "Infantry Drawing Instr."
+    },
+    {
+        "id": 523,
+        "libraryName": "SE_Airforce",
+        "libraryId": 29,
+        "name": "Flex Helper Choice Details"
+    },
+    {
+        "id": 524,
+        "libraryName": "SE_Airforce",
+        "libraryId": 29,
+        "name": "Flex Asset Types"
+    },
+    {
+        "id": 525,
+        "libraryName": "SE_Airforce",
+        "libraryId": 29,
+        "name": "Flex Asset Type Upkeep"
+    },
+    {
+        "id": 526,
+        "libraryName": "SE_Airforce",
+        "libraryId": 29,
+        "name": "Flex Asset Type Prod Cost"
+    },
+    {
+        "id": 527,
+        "libraryName": "SE_Airforce",
+        "libraryId": 29,
+        "name": "Flex Production Types"
+    },
+    {
+        "id": 528,
+        "libraryName": "SE_Airforce",
+        "libraryId": 29,
+        "name": "Flex Asset Type Construction Cost"
+    },
+    {
+        "id": 529,
+        "libraryName": "SE_Airforce",
+        "libraryId": 29,
+        "name": "Flex Tech Types"
+    },
+    {
+        "id": 530,
+        "libraryName": "SE_Airforce",
+        "libraryId": 29,
+        "name": "Flex Organisation Types"
+    },
+    {
+        "id": 531,
+        "libraryName": "SE_Airforce",
+        "libraryId": 29,
+        "name": "Flex Organisation Task Types"
+    },
+    {
+        "id": 532,
+        "libraryName": "SE_Airforce",
+        "libraryId": 29,
+        "name": "Flex OOB Types"
+    },
+    {
+        "id": 533,
+        "libraryName": "SE_Airforce",
+        "libraryId": 29,
+        "name": "Flex TOE Types"
+    },
+    {
+        "id": 534,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Air Bridge List"
+    },
+    {
+        "id": 535,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Air Bridge Logs"
+    },
+    {
+        "id": 536,
+        "libraryName": "SE_Airforce",
+        "libraryId": 29,
+        "name": "Skill Types"
+    },
+    {
+        "id": 537,
+        "libraryName": "SE_Random",
+        "libraryId": 2,
+        "name": "Fauna Feats"
+    },
+    {
+        "id": 538,
+        "libraryName": "SE_Random",
+        "libraryId": 2,
+        "name": "Advanced Naming"
+    },
+    {
+        "id": 539,
+        "libraryName": "SE_Diplomatic",
+        "libraryId": 15,
+        "name": "Minor Aliens, Epsilon format 1"
+    },
+    {
+        "id": 540,
+        "libraryName": "SE_Diplomatic",
+        "libraryId": 15,
+        "name": "Minor Aliens, Epsilon format 2"
+    },
+    {
+        "id": 541,
+        "libraryName": "SE_Diplomatic",
+        "libraryId": 15,
+        "name": "Alien Minor Diplomacy Gustav Import"
+    },
+    {
+        "id": 542,
+        "libraryName": "SE_Navy",
+        "libraryId": 30,
+        "name": "Flex Asset Types"
+    },
+    {
+        "id": 543,
+        "libraryName": "SE_Navy",
+        "libraryId": 30,
+        "name": "Flex Asset Type Upkeep"
+    },
+    {
+        "id": 544,
+        "libraryName": "SE_Navy",
+        "libraryId": 30,
+        "name": "Flex Asset Type Prod Cost"
+    },
+    {
+        "id": 545,
+        "libraryName": "SE_Navy",
+        "libraryId": 30,
+        "name": "Flex Production Types"
+    },
+    {
+        "id": 546,
+        "libraryName": "SE_Navy",
+        "libraryId": 30,
+        "name": "Flex Asset Type Construction Cost"
+    },
+    {
+        "id": 547,
+        "libraryName": "SE_Navy",
+        "libraryId": 30,
+        "name": "Decisions"
+    },
+    {
+        "id": 548,
+        "libraryName": "SE_Navy",
+        "libraryId": 30,
+        "name": "Story Groups"
+    },
+    {
+        "id": 549,
+        "libraryName": "SE_Trade",
+        "libraryId": 12,
+        "name": "TradeRegKeys"
+    },
+    {
+        "id": 550,
+        "libraryName": "SE_Trade",
+        "libraryId": 12,
+        "name": "TradeKeys"
+    },
+    {
+        "id": 551,
+        "libraryName": "SE_Navy",
+        "libraryId": 30,
+        "name": "Flex Diplomatic Actions"
+    },
+    {
+        "id": 552,
+        "libraryName": "SE_Navy",
+        "libraryId": 30,
+        "name": "Flex Diplomatic Action FX vs AI"
+    },
+    {
+        "id": 553,
+        "libraryName": "SE_Navy",
+        "libraryId": 30,
+        "name": "FLEX action card target logic"
+    },
+    {
+        "id": 554,
+        "libraryName": "SE_Navy",
+        "libraryId": 30,
+        "name": "Flex Story Triggers"
+    },
+    {
+        "id": 555,
+        "libraryName": "SE_Navy",
+        "libraryId": 30,
+        "name": "Contracts"
+    },
+    {
+        "id": 556,
+        "libraryName": "SE_Navy",
+        "libraryId": 30,
+        "name": "Offers"
+    },
+    {
+        "id": 557,
+        "libraryName": "SE_Navy",
+        "libraryId": 30,
+        "name": "Bids"
+    },
+    {
+        "id": 558,
+        "libraryName": "SE_Trade",
+        "libraryId": 12,
+        "name": "TradeTradeKeys"
+    },
+    {
+        "id": 559,
+        "libraryName": "SE_Navy",
+        "libraryId": 30,
+        "name": "Bids"
+    },
+    {
+        "id": 560,
+        "libraryName": "SE_Linguistic",
+        "libraryId": 5,
+        "name": "Port Radical"
+    },
+    {
+        "id": 561,
+        "libraryName": "SE_Navy",
+        "libraryId": 30,
+        "name": "Character Feat Types"
+    },
+    {
+        "id": 562,
+        "libraryName": "SE_Navy",
+        "libraryId": 30,
+        "name": "Character Feat Effects"
+    },
+    {
+        "id": 563,
+        "libraryName": "SE_Navy",
+        "libraryId": 30,
+        "name": "Flex Organisation Task Types"
+    },
+    {
+        "id": 564,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Zone Inv Orders"
+    },
+    {
+        "id": 565,
+        "libraryName": "SE_Linguistic",
+        "libraryId": 5,
+        "name": "First River Part"
+    },
+    {
+        "id": 566,
+        "libraryName": "SE_Linguistic",
+        "libraryId": 5,
+        "name": "Second River Part"
+    },
+    {
+        "id": 567,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Blue Prints"
+    },
+    {
+        "id": 568,
+        "libraryName": "SE_Data",
+        "libraryId": 4,
+        "name": "Subcultures"
+    },
+    {
+        "id": 569,
+        "libraryName": "SE_Culture",
+        "libraryId": 17,
+        "name": "Subcultures"
+    },
+    {
+        "id": 570,
+        "libraryName": "SE_Politics",
+        "libraryId": 31,
+        "name": "Character Feat Types"
+    },
+    {
+        "id": 571,
+        "libraryName": "SE_Politics",
+        "libraryId": 31,
+        "name": "Character Feat Effects"
+    },
+    {
+        "id": 572,
+        "libraryName": "SE_Politics",
+        "libraryId": 31,
+        "name": "Laws"
+    },
+    {
+        "id": 573,
+        "libraryName": "SE_Politics",
+        "libraryId": 31,
+        "name": "Regime Laws"
+    },
+    {
+        "id": 574,
+        "libraryName": "SE_Politics",
+        "libraryId": 31,
+        "name": "Faction Voterblock Compat"
+    },
+    {
+        "id": 575,
+        "libraryName": "SE_Politics",
+        "libraryId": 31,
+        "name": "Election Voterblock History"
+    },
+    {
+        "id": 576,
+        "libraryName": "SE_Politics",
+        "libraryId": 31,
+        "name": "Faction Law Vote History"
+    },
+    {
+        "id": 577,
+        "libraryName": "SE_Politics",
+        "libraryId": 31,
+        "name": "204 Different Vote+Ascension"
+    },
+    {
+        "id": 578,
+        "libraryName": "SE_Politics",
+        "libraryId": 31,
+        "name": "Story Groups"
+    },
+    {
+        "id": 579,
+        "libraryName": "SE_Politics",
+        "libraryId": 31,
+        "name": "Leader Fx"
+    },
+    {
+        "id": 580,
+        "libraryName": "SE_Politics",
+        "libraryId": 31,
+        "name": "Skill Types"
+    },
+    {
+        "id": 581,
+        "libraryName": "SE_Politics",
+        "libraryId": 31,
+        "name": "Leader Low Relation FX"
+    },
+    {
+        "id": 582,
+        "libraryName": "SE_Politics",
+        "libraryId": 31,
+        "name": "Flex Organisation Task Types"
+    },
+    {
+        "id": 583,
+        "libraryName": "SE_Politics",
+        "libraryId": 31,
+        "name": "Flex Diplomatic Actions"
+    },
+    {
+        "id": 584,
+        "libraryName": "SE_Politics",
+        "libraryId": 31,
+        "name": "Flex Diplomatic Action FX vs AI"
+    },
+    {
+        "id": 585,
+        "libraryName": "SE_Politics",
+        "libraryId": 31,
+        "name": "FLEX action card target logic"
+    },
+    {
+        "id": 586,
+        "libraryName": "SE_Politics",
+        "libraryId": 31,
+        "name": "Helper Regime Feat Types"
+    },
+    {
+        "id": 587,
+        "libraryName": "SE_Politics",
+        "libraryId": 31,
+        "name": "Helper Regime Feat Type Fx"
+    },
+    {
+        "id": 588,
+        "libraryName": "SE_Politics",
+        "libraryId": 31,
+        "name": "Flex Asset Types"
+    },
+    {
+        "id": 589,
+        "libraryName": "SE_Politics",
+        "libraryId": 31,
+        "name": "Flex Asset Type Upkeep"
+    },
+    {
+        "id": 590,
+        "libraryName": "SE_Politics",
+        "libraryId": 31,
+        "name": "Flex Asset Type Prod Cost"
+    },
+    {
+        "id": 591,
+        "libraryName": "SE_Politics",
+        "libraryId": 31,
+        "name": "Flex Production Types"
+    },
+    {
+        "id": 592,
+        "libraryName": "SE_Politics",
+        "libraryId": 31,
+        "name": "SSF Event Stories"
+    },
+    {
+        "id": 593,
+        "libraryName": "SE_Politics",
+        "libraryId": 31,
+        "name": "Patronage"
+    },
+    {
+        "id": 594,
+        "libraryName": "SE_Politics",
+        "libraryId": 31,
+        "name": "Tracks"
+    },
+    {
+        "id": 595,
+        "libraryName": "SE_Politics",
+        "libraryId": 31,
+        "name": "Mix Points"
+    },
+    {
+        "id": 596,
+        "libraryName": "SE_Politics",
+        "libraryId": 31,
+        "name": "Highlights"
+    },
+    {
+        "id": 597,
+        "libraryName": "SE_Politics",
+        "libraryId": 31,
+        "name": "Unit Feats"
+    },
+    {
+        "id": 598,
+        "libraryName": "SE_Politics",
+        "libraryId": 31,
+        "name": "Unit Feat Behaviour"
+    },
+    {
+        "id": 599,
+        "libraryName": "SE_Politics",
+        "libraryId": 31,
+        "name": "Flex Tech Types"
+    },
+    {
+        "id": 600,
+        "libraryName": "SE_Politics",
+        "libraryId": 31,
+        "name": "Tooltips Stringlist"
+    },
+    {
+        "id": 601,
+        "libraryName": "SE_Politics",
+        "libraryId": 31,
+        "name": "New Stringlist"
+    }
+]
