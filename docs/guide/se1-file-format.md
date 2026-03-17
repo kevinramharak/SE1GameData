@@ -1,24 +1,24 @@
 # SE1 File Format
 
-Shadow Empire uses custom file extensions to logically group the file types it uses.
+Shadow Empire uses the following file extensions to logically group the file types it uses.
 
 These file extensions are:
 
-| Extension | Type |
-| -------- | ---- |
-| `.se1` | Scenario |
-| `.se1master` | Masterfile |
-| `.se1evlib` | Event Library |
-| `.se1zip` | Mod Library |
-| `.se1map` | Map file |
-| `.se1troops` | Troop Library |
-| `.se1his` | Historical Library |
-| `.se1off` | Officer Library |
+| Extension     | Type                 |
+| ------------- | -------------------- |
+| `.se1`        | Scenario             |
+| `.se1master`  | Masterfile           |
+| `.se1evlib`   | Event Library        |
+| `.se1zip`     | Mod Library          |
+| `.se1map`     | Map file             |
+| `.se1troops`  | Troop Library        |
+| `.se1his`     | Historical Library   |
+| `.se1off`     | Officer Library      |
 | `.se1offcard` | Officer Card Library |
 
-Shadow Empire uses the `.se1`, `.se1master`, `.se1zip` and `.se1evlib` file types, but the remaining ones are still technically the same file format.
+The game uses the `.se1`, `.se1master`, `.se1zip` and `.se1evlib` file types, but the remaining ones are still technically still possible.
 
-All files use the same data format, but may differ in what data is actually present.
+All files use the same data format, but depending on the file type and what its purpose is, the contents of the file may vary.
 
 ## Compression
 

@@ -8,7 +8,10 @@ export default defineRoutes({
       { params: { library: 'root' } },
       ...helper.data.libraries.map((library) => {
         return {
-          params: { library: library.name },
+          params: {
+            library: library.name,
+            id: library.id.toString(),
+          },
         };
       }),
     ];
