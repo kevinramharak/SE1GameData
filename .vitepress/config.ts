@@ -1,60 +1,33 @@
 import { defineConfig, type DefaultTheme } from 'vitepress';
 import vueDevTools from 'vite-plugin-vue-devtools';
-import { helper, type DataHelper, type ILibrary } from './DataHelper';
 
-const escape = (part: string) => part.replaceAll('#', '_');
+import _manifest from '../docs/paths.json' with { type: 'json' };
 
-const sidebar = new (class SidebarHelper {
-  constructor(public readonly helper: DataHelper) {}
+const manifest = _manifest as Manifest;
 
-  libraries(): DefaultTheme.SidebarItem[] {
-    return this.helper.data.libraries
-      .toSorted((a, b) => a.id - b.id)
-      .map((library) => {
-        const link = `/reference/${escape(library.name)}/`;
-        const hasTables = this.helper.hasTables(library);
-        return {
-          text: library.name,
-          link,
-          collapsed: true,
-          items: [
-            hasTables
-              ? {
-                  text: 'Data Tables',
-                  collapsed: true,
-                  link: `${link}data-tables/`,
-                  items: this.tables(library),
-                }
-              : void 0,
-          ].filter((value) => !!value),
-        };
-      });
-  }
+interface Manifest {
+  Reference: ManifestEntry[];
+  Catalog: ManifestEntry[];
+}
 
-  root(): DefaultTheme.SidebarItem[] {
-    return [
-      {
-        text: 'Data Tables',
-        collapsed: true,
-        link: `/reference/root/data-tables/`,
-        items: this.tables(),
-      },
-    ];
-  }
+interface ManifestEntry {
+  Text: string;
+  Link: string | null;
+  Collapsed: boolean;
+  Kind: string;
+  IdentifierLabel: string | null;
+  IdentifierValue: string | null;
+  Items: ManifestEntry[];
+}
 
-  tables(library?: ILibrary, rootName = 'root'): DefaultTheme.SidebarItem[] {
-    return this.helper.data.tables
-      .filter((table) => (library ? library.id == table.libraryId : typeof table.libraryId === 'undefined'))
-      .toSorted((a, b) => a.id - b.id)
-      .map((table) => {
-        const link = `/reference/${escape(library?.name ?? rootName)}/data-tables/${escape(table.name)}`;
-        return {
-          text: table.name,
-          link,
-        };
-      });
-  }
-})(helper);
+function entryToSidebarItem(entry: ManifestEntry): DefaultTheme.SidebarItem {
+  return {
+    text: entry.Text,
+    link: entry.Link ?? undefined,
+    collapsed: entry.Collapsed,
+    items: entry.Items.map(entryToSidebarItem),
+  };
+}
 
 export default defineConfig({
   srcDir: 'docs',
@@ -62,9 +35,6 @@ export default defineConfig({
   description: 'Shadow Empire - Game Data Explorer',
   cleanUrls: true,
   lastUpdated: true,
-  rewrites: {
-    'reference/:library/:table': 'reference/:library/data-tables/:table',
-  },
   router: {
     // TODO: ?
     prefetchLinks: false,
@@ -76,7 +46,7 @@ export default defineConfig({
     nav: [
       // TODO: add dropdown menus
       { text: 'Guide', link: '/guide/shadow-empire' },
-      { text: 'Reference', link: '/reference/' },
+      { text: 'Reference', link: '/reference/root/' },
       { text: 'Catalog', link: '/catalog/' },
     ],
     sidebar: {
@@ -99,22 +69,19 @@ export default defineConfig({
           text: 'Root',
           link: '/reference/root',
           collapsed: false,
-          items: sidebar.root(),
+          items: manifest.Reference.find((entry) => entry.Text === 'Root')?.Items.map(entryToSidebarItem) ?? [],
         },
         {
           text: 'Libraries',
           link: '/reference/libraries',
-          items: sidebar.libraries(),
+          items: manifest.Reference.find((entry) => entry.Text === 'Libraries')?.Items.map(entryToSidebarItem) ?? [],
         },
       ],
       '/catalog/': [
         {
           text: 'Catalog',
           link: '/catalog/',
-          items: [
-            { text: 'Libraries', link: '/catalog/libraries' },
-            { text: 'Data Tables', link: '/catalog/data-tables' },
-          ],
+          items: manifest.Catalog.map((entry) => entryToSidebarItem(entry)),
         },
       ],
     },
