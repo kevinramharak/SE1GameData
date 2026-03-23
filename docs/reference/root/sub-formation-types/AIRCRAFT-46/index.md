@@ -1,18 +1,20 @@
 ---
 title: "AIRCRAFT"
 docKind: "type"
-libraryKey: "root"
-libraryName: "root"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "Root"
-typeGroupKey: "sub-formation-types"
-typeGroupName: "Sub Formation Types"
-typeKey: "AIRCRAFT-46"
-typeName: "AIRCRAFT"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "46"
-sourceDebugPath: "GameDataAdapter.SubFormationTypes[21]"
 fieldsCount: 1
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "root"
+  name: "root"
+  id: "Root"
+typeGroup:
+  key: "sub-formation-types"
+  name: "Sub Formation Types"
+type:
+  key: "AIRCRAFT-46"
+  name: "AIRCRAFT"
+  id: "46"
 ---
 
 # AIRCRAFT

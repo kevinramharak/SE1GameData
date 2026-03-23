@@ -1,18 +1,20 @@
 ---
 title: "Mix Points"
 docKind: "type"
-libraryKey: "SE_Politics-31"
-libraryName: "SE_Politics"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "31"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Mix-Points-595"
-typeName: "Mix Points"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "595"
-sourceDebugPath: "GameDataAdapter.DataTables[517]"
 fieldsCount: 5
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Politics-31"
+  name: "SE_Politics"
+  id: "31"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Mix-Points-595"
+  name: "Mix Points"
+  id: "595"
 ---
 
 # Mix Points
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 5 |
 | Id | 595 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 623 |
 
 ## Fields

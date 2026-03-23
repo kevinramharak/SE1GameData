@@ -1,18 +1,20 @@
 ---
 title: "Decisions"
 docKind: "type"
-libraryKey: "SE_Crime-25"
-libraryName: "SE_Crime"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "25"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Decisions-414"
-typeName: "Decisions"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "414"
-sourceDebugPath: "GameDataAdapter.DataTables[346]"
 fieldsCount: 134
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Crime-25"
+  name: "SE_Crime"
+  id: "25"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Decisions-414"
+  name: "Decisions"
+  id: "414"
 ---
 
 # Decisions
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 134 |
 | Id | 414 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 14 |
 
 ## Fields

@@ -1,18 +1,20 @@
 ---
 title: "Flex Interior Actions"
 docKind: "type"
-libraryKey: "SE_Interior-16"
-libraryName: "SE_Interior"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "16"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-Interior-Actions-294"
-typeName: "Flex Interior Actions"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "294"
-sourceDebugPath: "GameDataAdapter.DataTables[228]"
 fieldsCount: 18
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Interior-16"
+  name: "SE_Interior"
+  id: "16"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-Interior-Actions-294"
+  name: "Flex Interior Actions"
+  id: "294"
 ---
 
 # Flex Interior Actions
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 18 |
 | Id | 294 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 17 |
 
 ## Fields

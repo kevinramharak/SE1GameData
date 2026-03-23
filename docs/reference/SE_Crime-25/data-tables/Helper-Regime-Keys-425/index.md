@@ -1,18 +1,20 @@
 ---
 title: "Helper Regime Keys"
 docKind: "type"
-libraryKey: "SE_Crime-25"
-libraryName: "SE_Crime"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "25"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Helper-Regime-Keys-425"
-typeName: "Helper Regime Keys"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "425"
-sourceDebugPath: "GameDataAdapter.DataTables[351]"
 fieldsCount: 5
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Crime-25"
+  name: "SE_Crime"
+  id: "25"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Helper-Regime-Keys-425"
+  name: "Helper Regime Keys"
+  id: "425"
 ---
 
 # Helper Regime Keys
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 5 |
 | Id | 425 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 1 |
 
 ## Fields

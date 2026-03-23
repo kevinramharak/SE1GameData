@@ -1,18 +1,20 @@
 ---
 title: "Salaries"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Salaries-364"
-typeName: "Salaries"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "364"
-sourceDebugPath: "GameDataAdapter.DataTables[295]"
 fieldsCount: 2
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Salaries-364"
+  name: "Salaries"
+  id: "364"
 ---
 
 # Salaries
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 2 |
 | Id | 364 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

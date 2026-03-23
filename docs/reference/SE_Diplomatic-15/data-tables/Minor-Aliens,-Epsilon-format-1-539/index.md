@@ -1,18 +1,20 @@
 ---
 title: "Minor Aliens, Epsilon format 1"
 docKind: "type"
-libraryKey: "SE_Diplomatic-15"
-libraryName: "SE_Diplomatic"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "15"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Minor-Aliens,-Epsilon-format-1-539"
-typeName: "Minor Aliens, Epsilon format 1"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "539"
-sourceDebugPath: "GameDataAdapter.DataTables[461]"
 fieldsCount: 86
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Diplomatic-15"
+  name: "SE_Diplomatic"
+  id: "15"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Minor-Aliens,-Epsilon-format-1-539"
+  name: "Minor Aliens, Epsilon format 1"
+  id: "539"
 ---
 
 # Minor Aliens, Epsilon format 1
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 86 |
 | Id | 539 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

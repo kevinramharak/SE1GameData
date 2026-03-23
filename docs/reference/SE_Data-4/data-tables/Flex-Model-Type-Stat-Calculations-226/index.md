@@ -1,18 +1,20 @@
 ---
 title: "Flex Model Type Stat Calculations"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-Model-Type-Stat-Calculations-226"
-typeName: "Flex Model Type Stat Calculations"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "226"
-sourceDebugPath: "GameDataAdapter.DataTables[162]"
 fieldsCount: 4
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-Model-Type-Stat-Calculations-226"
+  name: "Flex Model Type Stat Calculations"
+  id: "226"
 ---
 
 # Flex Model Type Stat Calculations
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 4 |
 | Id | 226 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

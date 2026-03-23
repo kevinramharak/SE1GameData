@@ -1,18 +1,20 @@
 ---
 title: "Faction Profile Traits"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Faction-Profile-Traits-202"
-typeName: "Faction Profile Traits"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "202"
-sourceDebugPath: "GameDataAdapter.DataTables[138]"
 fieldsCount: 2
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Faction-Profile-Traits-202"
+  name: "Faction Profile Traits"
+  id: "202"
 ---
 
 # Faction Profile Traits
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 2 |
 | Id | 202 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

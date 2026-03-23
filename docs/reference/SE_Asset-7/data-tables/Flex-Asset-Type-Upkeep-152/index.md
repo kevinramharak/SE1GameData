@@ -1,18 +1,20 @@
 ---
 title: "Flex Asset Type Upkeep"
 docKind: "type"
-libraryKey: "SE_Asset-7"
-libraryName: "SE_Asset"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "7"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-Asset-Type-Upkeep-152"
-typeName: "Flex Asset Type Upkeep"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "152"
-sourceDebugPath: "GameDataAdapter.DataTables[91]"
 fieldsCount: 3
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Asset-7"
+  name: "SE_Asset"
+  id: "7"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-Asset-Type-Upkeep-152"
+  name: "Flex Asset Type Upkeep"
+  id: "152"
 ---
 
 # Flex Asset Type Upkeep
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 3 |
 | Id | 152 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 416 |
 
 ## Fields

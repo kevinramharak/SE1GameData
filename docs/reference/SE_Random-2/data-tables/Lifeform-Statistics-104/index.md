@@ -1,18 +1,20 @@
 ---
 title: "Lifeform Statistics"
 docKind: "type"
-libraryKey: "SE_Random-2"
-libraryName: "SE_Random"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "2"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Lifeform-Statistics-104"
-typeName: "Lifeform Statistics"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "104"
-sourceDebugPath: "GameDataAdapter.DataTables[44]"
 fieldsCount: 19
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Random-2"
+  name: "SE_Random"
+  id: "2"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Lifeform-Statistics-104"
+  name: "Lifeform Statistics"
+  id: "104"
 ---
 
 # Lifeform Statistics
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 19 |
 | Id | 104 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

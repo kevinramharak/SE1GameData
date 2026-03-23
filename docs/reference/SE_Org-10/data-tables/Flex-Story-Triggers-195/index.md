@@ -1,18 +1,20 @@
 ---
 title: "Flex Story Triggers"
 docKind: "type"
-libraryKey: "SE_Org-10"
-libraryName: "SE_Org"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "10"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-Story-Triggers-195"
-typeName: "Flex Story Triggers"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "195"
-sourceDebugPath: "GameDataAdapter.DataTables[131]"
 fieldsCount: 18
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Org-10"
+  name: "SE_Org"
+  id: "10"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-Story-Triggers-195"
+  name: "Flex Story Triggers"
+  id: "195"
 ---
 
 # Flex Story Triggers
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 18 |
 | Id | 195 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

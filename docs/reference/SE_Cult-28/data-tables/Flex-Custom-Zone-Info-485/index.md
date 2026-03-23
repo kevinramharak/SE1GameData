@@ -1,18 +1,20 @@
 ---
 title: "Flex Custom Zone Info"
 docKind: "type"
-libraryKey: "SE_Cult-28"
-libraryName: "SE_Cult"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "28"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-Custom-Zone-Info-485"
-typeName: "Flex Custom Zone Info"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "485"
-sourceDebugPath: "GameDataAdapter.DataTables[410]"
 fieldsCount: 6
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Cult-28"
+  name: "SE_Cult"
+  id: "28"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-Custom-Zone-Info-485"
+  name: "Flex Custom Zone Info"
+  id: "485"
 ---
 
 # Flex Custom Zone Info
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 6 |
 | Id | 485 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 1 |
 
 ## Fields

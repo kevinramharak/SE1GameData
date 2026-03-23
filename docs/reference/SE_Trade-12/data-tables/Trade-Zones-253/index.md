@@ -1,18 +1,20 @@
 ---
 title: "Trade Zones"
 docKind: "type"
-libraryKey: "SE_Trade-12"
-libraryName: "SE_Trade"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "12"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Trade-Zones-253"
-typeName: "Trade Zones"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "253"
-sourceDebugPath: "GameDataAdapter.DataTables[189]"
 fieldsCount: 2
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Trade-12"
+  name: "SE_Trade"
+  id: "12"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Trade-Zones-253"
+  name: "Trade Zones"
+  id: "253"
 ---
 
 # Trade Zones
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 2 |
 | Id | 253 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

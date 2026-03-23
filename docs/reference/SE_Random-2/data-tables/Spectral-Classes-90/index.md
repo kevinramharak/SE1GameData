@@ -1,18 +1,20 @@
 ---
 title: "Spectral Classes"
 docKind: "type"
-libraryKey: "SE_Random-2"
-libraryName: "SE_Random"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "2"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Spectral-Classes-90"
-typeName: "Spectral Classes"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "90"
-sourceDebugPath: "GameDataAdapter.DataTables[30]"
 fieldsCount: 12
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Random-2"
+  name: "SE_Random"
+  id: "2"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Spectral-Classes-90"
+  name: "Spectral Classes"
+  id: "90"
 ---
 
 # Spectral Classes
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 12 |
 | Id | 90 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 11 |
 
 ## Fields

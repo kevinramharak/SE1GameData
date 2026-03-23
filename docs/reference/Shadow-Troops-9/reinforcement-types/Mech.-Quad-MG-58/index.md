@@ -1,18 +1,20 @@
 ---
 title: "Mech. Quad MG"
 docKind: "type"
-libraryKey: "Shadow-Troops-9"
-libraryName: "Shadow Troops"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "9"
-typeGroupKey: "reinforcement-types"
-typeGroupName: "Reinforcement Types"
-typeKey: "Mech.-Quad-MG-58"
-typeName: "Mech. Quad MG"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "58"
-sourceDebugPath: "DataClass.{ ReinfId, ReinfName, ReinfRatio, ReinfLibId }[28]"
 fieldsCount: 2
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "Shadow-Troops-9"
+  name: "Shadow Troops"
+  id: "9"
+typeGroup:
+  key: "reinforcement-types"
+  name: "Reinforcement Types"
+type:
+  key: "Mech.-Quad-MG-58"
+  name: "Mech. Quad MG"
+  id: "58"
 ---
 
 # Mech. Quad MG

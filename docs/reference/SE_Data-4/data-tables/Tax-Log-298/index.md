@@ -1,18 +1,20 @@
 ---
 title: "Tax Log"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Tax-Log-298"
-typeName: "Tax Log"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "298"
-sourceDebugPath: "GameDataAdapter.DataTables[232]"
 fieldsCount: 4
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Tax-Log-298"
+  name: "Tax Log"
+  id: "298"
 ---
 
 # Tax Log
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 4 |
 | Id | 298 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

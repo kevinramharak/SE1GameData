@@ -1,18 +1,20 @@
 ---
 title: "Level Bomber"
 docKind: "type"
-libraryKey: "Shadow-Troops-9"
-libraryName: "Shadow Troops"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "9"
-typeGroupKey: "reinforcement-types"
-typeGroupName: "Reinforcement Types"
-typeKey: "Level-Bomber-63"
-typeName: "Level Bomber"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "63"
-sourceDebugPath: "DataClass.{ ReinfId, ReinfName, ReinfRatio, ReinfLibId }[33]"
 fieldsCount: 2
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "Shadow-Troops-9"
+  name: "Shadow Troops"
+  id: "9"
+typeGroup:
+  key: "reinforcement-types"
+  name: "Reinforcement Types"
+type:
+  key: "Level-Bomber-63"
+  name: "Level Bomber"
+  id: "63"
 ---
 
 # Level Bomber

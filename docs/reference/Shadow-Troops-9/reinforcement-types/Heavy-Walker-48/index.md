@@ -1,18 +1,20 @@
 ---
 title: "Heavy Walker"
 docKind: "type"
-libraryKey: "Shadow-Troops-9"
-libraryName: "Shadow Troops"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "9"
-typeGroupKey: "reinforcement-types"
-typeGroupName: "Reinforcement Types"
-typeKey: "Heavy-Walker-48"
-typeName: "Heavy Walker"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "48"
-sourceDebugPath: "DataClass.{ ReinfId, ReinfName, ReinfRatio, ReinfLibId }[17]"
 fieldsCount: 2
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "Shadow-Troops-9"
+  name: "Shadow Troops"
+  id: "9"
+typeGroup:
+  key: "reinforcement-types"
+  name: "Reinforcement Types"
+type:
+  key: "Heavy-Walker-48"
+  name: "Heavy Walker"
+  id: "48"
 ---
 
 # Heavy Walker

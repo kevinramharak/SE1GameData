@@ -1,18 +1,20 @@
 ---
 title: "Think this can be deleted...."
 docKind: "type"
-libraryKey: "Story_Unrest-20"
-libraryName: "Story_Unrest"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "20"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Think-this-can-be-deleted-510"
-typeName: "Think this can be deleted...."
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "510"
-sourceDebugPath: "GameDataAdapter.DataTables[432]"
 fieldsCount: 71
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "Story_Unrest-20"
+  name: "Story_Unrest"
+  id: "20"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Think-this-can-be-deleted-510"
+  name: "Think this can be deleted...."
+  id: "510"
 ---
 
 # Think this can be deleted....
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 71 |
 | Id | 510 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 13 |
 
 ## Fields

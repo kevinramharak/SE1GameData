@@ -1,18 +1,20 @@
 ---
 title: "NOT USED"
 docKind: "type"
-libraryKey: "Shadow-Troops-9"
-libraryName: "Shadow Troops"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "9"
-typeGroupKey: "sub-formation-types"
-typeGroupName: "Sub Formation Types"
-typeKey: "NOT-USED-255"
-typeName: "NOT USED"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "255"
-sourceDebugPath: "GameDataAdapter.SubFormationTypes[75]"
 fieldsCount: 1
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "Shadow-Troops-9"
+  name: "Shadow Troops"
+  id: "9"
+typeGroup:
+  key: "sub-formation-types"
+  name: "Sub Formation Types"
+type:
+  key: "NOT-USED-255"
+  name: "NOT USED"
+  id: "255"
 ---
 
 # NOT USED

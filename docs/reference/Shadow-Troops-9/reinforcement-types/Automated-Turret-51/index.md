@@ -1,18 +1,20 @@
 ---
 title: "Automated Turret"
 docKind: "type"
-libraryKey: "Shadow-Troops-9"
-libraryName: "Shadow Troops"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "9"
-typeGroupKey: "reinforcement-types"
-typeGroupName: "Reinforcement Types"
-typeKey: "Automated-Turret-51"
-typeName: "Automated Turret"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "51"
-sourceDebugPath: "DataClass.{ ReinfId, ReinfName, ReinfRatio, ReinfLibId }[21]"
 fieldsCount: 2
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "Shadow-Troops-9"
+  name: "Shadow Troops"
+  id: "9"
+typeGroup:
+  key: "reinforcement-types"
+  name: "Reinforcement Types"
+type:
+  key: "Automated-Turret-51"
+  name: "Automated Turret"
+  id: "51"
 ---
 
 # Automated Turret

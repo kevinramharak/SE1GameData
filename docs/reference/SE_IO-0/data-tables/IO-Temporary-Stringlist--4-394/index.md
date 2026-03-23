@@ -1,18 +1,20 @@
 ---
 title: "IO Temporary Stringlist #4"
 docKind: "type"
-libraryKey: "SE_IO-0"
-libraryName: "SE_IO"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "0"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "IO-Temporary-Stringlist--4-394"
-typeName: "IO Temporary Stringlist #4"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "394"
-sourceDebugPath: "GameDataAdapter.DataTables[324]"
 fieldsCount: 0
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_IO-0"
+  name: "SE_IO"
+  id: "0"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "IO-Temporary-Stringlist--4-394"
+  name: "IO Temporary Stringlist #4"
+  id: "394"
 ---
 
 # IO Temporary Stringlist #4
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 0 |
 | Id | 394 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

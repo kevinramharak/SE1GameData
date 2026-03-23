@@ -1,18 +1,20 @@
 ---
 title: "Helper SFType Stats"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Helper-SFType-Stats-348"
-typeName: "Helper SFType Stats"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "348"
-sourceDebugPath: "GameDataAdapter.DataTables[279]"
 fieldsCount: 4
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Helper-SFType-Stats-348"
+  name: "Helper SFType Stats"
+  id: "348"
 ---
 
 # Helper SFType Stats
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 4 |
 | Id | 348 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 55 |
 
 ## Fields

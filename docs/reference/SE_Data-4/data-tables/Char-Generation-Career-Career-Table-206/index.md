@@ -1,18 +1,20 @@
 ---
 title: "Char Generation Career-Career Table"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Char-Generation-Career-Career-Table-206"
-typeName: "Char Generation Career-Career Table"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "206"
-sourceDebugPath: "GameDataAdapter.DataTables[142]"
 fieldsCount: 6
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Char-Generation-Career-Career-Table-206"
+  name: "Char Generation Career-Career Table"
+  id: "206"
 ---
 
 # Char Generation Career-Career Table
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 6 |
 | Id | 206 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 17 |
 
 ## Fields

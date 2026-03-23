@@ -1,18 +1,20 @@
 ---
 title: "Great Sea Prefix"
 docKind: "type"
-libraryKey: "SE_Linguistic-5"
-libraryName: "SE_Linguistic"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "5"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Great-Sea-Prefix-219"
-typeName: "Great Sea Prefix"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "219"
-sourceDebugPath: "GameDataAdapter.DataTables[155]"
 fieldsCount: 0
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Linguistic-5"
+  name: "SE_Linguistic"
+  id: "5"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Great-Sea-Prefix-219"
+  name: "Great Sea Prefix"
+  id: "219"
 ---
 
 # Great Sea Prefix
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 0 |
 | Id | 219 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 33 |
 
 ## Fields

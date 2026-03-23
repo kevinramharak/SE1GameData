@@ -1,18 +1,20 @@
 ---
 title: "full last names"
 docKind: "type"
-libraryKey: "SE_Linguistic-5"
-libraryName: "SE_Linguistic"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "5"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "full-last-names-181"
-typeName: "full last names"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "181"
-sourceDebugPath: "GameDataAdapter.DataTables[117]"
 fieldsCount: 1
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Linguistic-5"
+  name: "SE_Linguistic"
+  id: "5"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "full-last-names-181"
+  name: "full last names"
+  id: "181"
 ---
 
 # full last names
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 1 |
 | Id | 181 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 205 |
 
 ## Fields

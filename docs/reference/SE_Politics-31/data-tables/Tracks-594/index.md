@@ -1,18 +1,20 @@
 ---
 title: "Tracks"
 docKind: "type"
-libraryKey: "SE_Politics-31"
-libraryName: "SE_Politics"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "31"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Tracks-594"
-typeName: "Tracks"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "594"
-sourceDebugPath: "GameDataAdapter.DataTables[516]"
 fieldsCount: 5
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Politics-31"
+  name: "SE_Politics"
+  id: "31"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Tracks-594"
+  name: "Tracks"
+  id: "594"
 ---
 
 # Tracks
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 5 |
 | Id | 594 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 11 |
 
 ## Fields

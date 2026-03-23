@@ -1,18 +1,20 @@
 ---
 title: "Flex Regime Key Documentation"
 docKind: "type"
-libraryKey: "SE_Corporate-27"
-libraryName: "SE_Corporate"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "27"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-Regime-Key-Documentation-473"
-typeName: "Flex Regime Key Documentation"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "473"
-sourceDebugPath: "GameDataAdapter.DataTables[398]"
 fieldsCount: 6
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Corporate-27"
+  name: "SE_Corporate"
+  id: "27"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-Regime-Key-Documentation-473"
+  name: "Flex Regime Key Documentation"
+  id: "473"
 ---
 
 # Flex Regime Key Documentation
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 6 |
 | Id | 473 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 1 |
 
 ## Fields

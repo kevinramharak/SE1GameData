@@ -1,18 +1,20 @@
 ---
 title: "Flex Organisation Types"
 docKind: "type"
-libraryKey: "SE_Org-10"
-libraryName: "SE_Org"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "10"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-Organisation-Types-192"
-typeName: "Flex Organisation Types"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "192"
-sourceDebugPath: "GameDataAdapter.DataTables[128]"
 fieldsCount: 8
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Org-10"
+  name: "SE_Org"
+  id: "10"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-Organisation-Types-192"
+  name: "Flex Organisation Types"
+  id: "192"
 ---
 
 # Flex Organisation Types
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 8 |
 | Id | 192 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 9 |
 
 ## Fields

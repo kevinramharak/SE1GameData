@@ -1,12 +1,14 @@
 ---
 title: "SE_Postures"
 docKind: "library"
-libraryKey: "SE_Postures-19"
-libraryName: "SE_Postures"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "19"
 isSyntheticRoot: false
 typeCount: 3
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Postures-19"
+  name: "SE_Postures"
+  id: "19"
 ---
 
 # SE_Postures

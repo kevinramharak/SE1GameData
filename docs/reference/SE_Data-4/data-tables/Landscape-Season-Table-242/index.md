@@ -1,18 +1,20 @@
 ---
 title: "Landscape Season Table"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Landscape-Season-Table-242"
-typeName: "Landscape Season Table"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "242"
-sourceDebugPath: "GameDataAdapter.DataTables[178]"
 fieldsCount: 4
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Landscape-Season-Table-242"
+  name: "Landscape Season Table"
+  id: "242"
 ---
 
 # Landscape Season Table
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 4 |
 | Id | 242 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 36 |
 
 ## Fields

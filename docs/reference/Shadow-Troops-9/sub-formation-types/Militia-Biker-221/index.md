@@ -1,18 +1,20 @@
 ---
 title: "Militia Biker"
 docKind: "type"
-libraryKey: "Shadow-Troops-9"
-libraryName: "Shadow Troops"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "9"
-typeGroupKey: "sub-formation-types"
-typeGroupName: "Sub Formation Types"
-typeKey: "Militia-Biker-221"
-typeName: "Militia Biker"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "221"
-sourceDebugPath: "GameDataAdapter.SubFormationTypes[60]"
 fieldsCount: 1
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "Shadow-Troops-9"
+  name: "Shadow Troops"
+  id: "9"
+typeGroup:
+  key: "sub-formation-types"
+  name: "Sub Formation Types"
+type:
+  key: "Militia-Biker-221"
+  name: "Militia Biker"
+  id: "221"
 ---
 
 # Militia Biker

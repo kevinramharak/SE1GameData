@@ -1,18 +1,20 @@
 ---
 title: "Flex Diplomatic Actions"
 docKind: "type"
-libraryKey: "SE_Crime-25"
-libraryName: "SE_Crime"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "25"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-Diplomatic-Actions-429"
-typeName: "Flex Diplomatic Actions"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "429"
-sourceDebugPath: "GameDataAdapter.DataTables[354]"
 fieldsCount: 18
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Crime-25"
+  name: "SE_Crime"
+  id: "25"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-Diplomatic-Actions-429"
+  name: "Flex Diplomatic Actions"
+  id: "429"
 ---
 
 # Flex Diplomatic Actions
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 18 |
 | Id | 429 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 10 |
 
 ## Fields

@@ -1,18 +1,20 @@
 ---
 title: "Name Syntax"
 docKind: "type"
-libraryKey: "SE_Linguistic-5"
-libraryName: "SE_Linguistic"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "5"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Name-Syntax-136"
-typeName: "Name Syntax"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "136"
-sourceDebugPath: "GameDataAdapter.DataTables[75]"
 fieldsCount: 10
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Linguistic-5"
+  name: "SE_Linguistic"
+  id: "5"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Name-Syntax-136"
+  name: "Name Syntax"
+  id: "136"
 ---
 
 # Name Syntax
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 10 |
 | Id | 136 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 62 |
 
 ## Fields

@@ -1,18 +1,20 @@
 ---
 title: "Advanced Naming"
 docKind: "type"
-libraryKey: "SE_Random-2"
-libraryName: "SE_Random"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "2"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Advanced-Naming-538"
-typeName: "Advanced Naming"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "538"
-sourceDebugPath: "GameDataAdapter.DataTables[460]"
 fieldsCount: 4
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Random-2"
+  name: "SE_Random"
+  id: "2"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Advanced-Naming-538"
+  name: "Advanced Naming"
+  id: "538"
 ---
 
 # Advanced Naming
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 4 |
 | Id | 538 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 144 |
 
 ## Fields

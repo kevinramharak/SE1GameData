@@ -1,18 +1,20 @@
 ---
 title: "Helper Earth Lifeforms"
 docKind: "type"
-libraryKey: "SE_Random-2"
-libraryName: "SE_Random"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "2"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Helper-Earth-Lifeforms-121"
-typeName: "Helper Earth Lifeforms"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "121"
-sourceDebugPath: "GameDataAdapter.DataTables[61]"
 fieldsCount: 17
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Random-2"
+  name: "SE_Random"
+  id: "2"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Helper-Earth-Lifeforms-121"
+  name: "Helper Earth Lifeforms"
+  id: "121"
 ---
 
 # Helper Earth Lifeforms
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 17 |
 | Id | 121 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 2 |
 
 ## Fields

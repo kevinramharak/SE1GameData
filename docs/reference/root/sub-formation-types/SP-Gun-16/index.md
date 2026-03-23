@@ -1,18 +1,20 @@
 ---
 title: "SP Gun"
 docKind: "type"
-libraryKey: "root"
-libraryName: "root"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "Root"
-typeGroupKey: "sub-formation-types"
-typeGroupName: "Sub Formation Types"
-typeKey: "SP-Gun-16"
-typeName: "SP Gun"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "16"
-sourceDebugPath: "GameDataAdapter.SubFormationTypes[9]"
 fieldsCount: 1
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "root"
+  name: "root"
+  id: "Root"
+typeGroup:
+  key: "sub-formation-types"
+  name: "Sub Formation Types"
+type:
+  key: "SP-Gun-16"
+  name: "SP Gun"
+  id: "16"
 ---
 
 # SP Gun

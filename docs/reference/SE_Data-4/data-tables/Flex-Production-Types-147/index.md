@@ -1,18 +1,20 @@
 ---
 title: "Flex Production Types"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-Production-Types-147"
-typeName: "Flex Production Types"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "147"
-sourceDebugPath: "GameDataAdapter.DataTables[86]"
 fieldsCount: 6
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-Production-Types-147"
+  name: "Flex Production Types"
+  id: "147"
 ---
 
 # Flex Production Types
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 6 |
 | Id | 147 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

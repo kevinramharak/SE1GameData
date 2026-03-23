@@ -1,18 +1,20 @@
 ---
 title: "Prescripted Cinematic Messages"
 docKind: "type"
-libraryKey: "Story_Complex1-18"
-libraryName: "Story_Complex1"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "18"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Prescripted-Cinematic-Messages-336"
-typeName: "Prescripted Cinematic Messages"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "336"
-sourceDebugPath: "GameDataAdapter.DataTables[267]"
 fieldsCount: 6
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "Story_Complex1-18"
+  name: "Story_Complex1"
+  id: "18"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Prescripted-Cinematic-Messages-336"
+  name: "Prescripted Cinematic Messages"
+  id: "336"
 ---
 
 # Prescripted Cinematic Messages
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 6 |
 | Id | 336 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

@@ -1,18 +1,20 @@
 ---
 title: "Air Bridge Logs"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Air-Bridge-Logs-535"
-typeName: "Air Bridge Logs"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "535"
-sourceDebugPath: "GameDataAdapter.DataTables[457]"
 fieldsCount: 4
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Air-Bridge-Logs-535"
+  name: "Air Bridge Logs"
+  id: "535"
 ---
 
 # Air Bridge Logs
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 4 |
 | Id | 535 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

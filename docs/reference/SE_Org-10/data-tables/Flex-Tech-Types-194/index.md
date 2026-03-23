@@ -1,18 +1,20 @@
 ---
 title: "Flex Tech Types"
 docKind: "type"
-libraryKey: "SE_Org-10"
-libraryName: "SE_Org"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "10"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-Tech-Types-194"
-typeName: "Flex Tech Types"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "194"
-sourceDebugPath: "GameDataAdapter.DataTables[130]"
 fieldsCount: 22
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Org-10"
+  name: "SE_Org"
+  id: "10"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-Tech-Types-194"
+  name: "Flex Tech Types"
+  id: "194"
 ---
 
 # Flex Tech Types
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 22 |
 | Id | 194 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 158 |
 
 ## Fields

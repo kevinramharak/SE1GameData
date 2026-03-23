@@ -1,18 +1,20 @@
 ---
 title: "Flex OOB Types"
 docKind: "type"
-libraryKey: "SE_Airforce-29"
-libraryName: "SE_Airforce"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "29"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-OOB-Types-532"
-typeName: "Flex OOB Types"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "532"
-sourceDebugPath: "GameDataAdapter.DataTables[454]"
 fieldsCount: 28
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Airforce-29"
+  name: "SE_Airforce"
+  id: "29"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-OOB-Types-532"
+  name: "Flex OOB Types"
+  id: "532"
 ---
 
 # Flex OOB Types
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 28 |
 | Id | 532 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 36 |
 
 ## Fields

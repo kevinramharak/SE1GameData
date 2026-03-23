@@ -1,18 +1,20 @@
 ---
 title: "full first names masculoin"
 docKind: "type"
-libraryKey: "SE_Linguistic-5"
-libraryName: "SE_Linguistic"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "5"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "full-first-names-masculoin-178"
-typeName: "full first names masculoin"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "178"
-sourceDebugPath: "GameDataAdapter.DataTables[114]"
 fieldsCount: 1
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Linguistic-5"
+  name: "SE_Linguistic"
+  id: "5"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "full-first-names-masculoin-178"
+  name: "full first names masculoin"
+  id: "178"
 ---
 
 # full first names masculoin
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 1 |
 | Id | 178 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 176 |
 
 ## Fields

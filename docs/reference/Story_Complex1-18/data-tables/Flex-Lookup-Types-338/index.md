@@ -1,18 +1,20 @@
 ---
 title: "Flex Lookup Types"
 docKind: "type"
-libraryKey: "Story_Complex1-18"
-libraryName: "Story_Complex1"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "18"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-Lookup-Types-338"
-typeName: "Flex Lookup Types"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "338"
-sourceDebugPath: "GameDataAdapter.DataTables[269]"
 fieldsCount: 6
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "Story_Complex1-18"
+  name: "Story_Complex1"
+  id: "18"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-Lookup-Types-338"
+  name: "Flex Lookup Types"
+  id: "338"
 ---
 
 # Flex Lookup Types
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 6 |
 | Id | 338 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

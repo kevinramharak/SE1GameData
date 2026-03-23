@@ -1,12 +1,14 @@
 ---
 title: "SE_Random"
 docKind: "library"
-libraryKey: "SE_Random-2"
-libraryName: "SE_Random"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "2"
 isSyntheticRoot: false
 typeCount: 48
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Random-2"
+  name: "SE_Random"
+  id: "2"
 ---
 
 # SE_Random

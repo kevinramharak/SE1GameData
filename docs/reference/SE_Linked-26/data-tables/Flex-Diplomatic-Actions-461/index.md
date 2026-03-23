@@ -1,18 +1,20 @@
 ---
 title: "Flex Diplomatic Actions"
 docKind: "type"
-libraryKey: "SE_Linked-26"
-libraryName: "SE_Linked"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "26"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-Diplomatic-Actions-461"
-typeName: "Flex Diplomatic Actions"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "461"
-sourceDebugPath: "GameDataAdapter.DataTables[386]"
 fieldsCount: 18
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Linked-26"
+  name: "SE_Linked"
+  id: "26"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-Diplomatic-Actions-461"
+  name: "Flex Diplomatic Actions"
+  id: "461"
 ---
 
 # Flex Diplomatic Actions
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 18 |
 | Id | 461 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 1 |
 
 ## Fields

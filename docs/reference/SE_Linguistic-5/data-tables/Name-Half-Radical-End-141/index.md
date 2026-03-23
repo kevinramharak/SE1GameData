@@ -1,18 +1,20 @@
 ---
 title: "Name Half-Radical End"
 docKind: "type"
-libraryKey: "SE_Linguistic-5"
-libraryName: "SE_Linguistic"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "5"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Name-Half-Radical-End-141"
-typeName: "Name Half-Radical End"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "141"
-sourceDebugPath: "GameDataAdapter.DataTables[80]"
 fieldsCount: 0
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Linguistic-5"
+  name: "SE_Linguistic"
+  id: "5"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Name-Half-Radical-End-141"
+  name: "Name Half-Radical End"
+  id: "141"
 ---
 
 # Name Half-Radical End
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 0 |
 | Id | 141 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 9 |
 
 ## Fields

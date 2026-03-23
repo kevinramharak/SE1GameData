@@ -1,18 +1,20 @@
 ---
 title: "Flex Story Decision Data Effects"
 docKind: "type"
-libraryKey: "Story_UpgradeCity-14"
-libraryName: "Story_UpgradeCity"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "14"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-Story-Decision-Data-Effects-271"
-typeName: "Flex Story Decision Data Effects"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "271"
-sourceDebugPath: "GameDataAdapter.DataTables[206]"
 fieldsCount: 4
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "Story_UpgradeCity-14"
+  name: "Story_UpgradeCity"
+  id: "14"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-Story-Decision-Data-Effects-271"
+  name: "Flex Story Decision Data Effects"
+  id: "271"
 ---
 
 # Flex Story Decision Data Effects
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 4 |
 | Id | 271 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 12 |
 
 ## Fields

@@ -1,18 +1,20 @@
 ---
 title: "Flex Custom Zone Info"
 docKind: "type"
-libraryKey: "SE_Crime-25"
-libraryName: "SE_Crime"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "25"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-Custom-Zone-Info-424"
-typeName: "Flex Custom Zone Info"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "424"
-sourceDebugPath: "GameDataAdapter.DataTables[350]"
 fieldsCount: 6
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Crime-25"
+  name: "SE_Crime"
+  id: "25"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-Custom-Zone-Info-424"
+  name: "Flex Custom Zone Info"
+  id: "424"
 ---
 
 # Flex Custom Zone Info
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 6 |
 | Id | 424 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 1 |
 
 ## Fields

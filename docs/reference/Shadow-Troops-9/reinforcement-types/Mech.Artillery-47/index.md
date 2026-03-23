@@ -1,18 +1,20 @@
 ---
 title: "Mech.Artillery"
 docKind: "type"
-libraryKey: "Shadow-Troops-9"
-libraryName: "Shadow Troops"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "9"
-typeGroupKey: "reinforcement-types"
-typeGroupName: "Reinforcement Types"
-typeKey: "Mech.Artillery-47"
-typeName: "Mech.Artillery"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "47"
-sourceDebugPath: "DataClass.{ ReinfId, ReinfName, ReinfRatio, ReinfLibId }[16]"
 fieldsCount: 2
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "Shadow-Troops-9"
+  name: "Shadow Troops"
+  id: "9"
+typeGroup:
+  key: "reinforcement-types"
+  name: "Reinforcement Types"
+type:
+  key: "Mech.Artillery-47"
+  name: "Mech.Artillery"
+  id: "47"
 ---
 
 # Mech.Artillery

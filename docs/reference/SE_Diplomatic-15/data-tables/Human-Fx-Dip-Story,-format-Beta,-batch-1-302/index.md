@@ -1,18 +1,20 @@
 ---
 title: "Human Fx Dip Story, format Beta, batch 1"
 docKind: "type"
-libraryKey: "SE_Diplomatic-15"
-libraryName: "SE_Diplomatic"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "15"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Human-Fx-Dip-Story,-format-Beta,-batch-1-302"
-typeName: "Human Fx Dip Story, format Beta, batch 1"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "302"
-sourceDebugPath: "GameDataAdapter.DataTables[235]"
 fieldsCount: 97
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Diplomatic-15"
+  name: "SE_Diplomatic"
+  id: "15"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Human-Fx-Dip-Story,-format-Beta,-batch-1-302"
+  name: "Human Fx Dip Story, format Beta, batch 1"
+  id: "302"
 ---
 
 # Human Fx Dip Story, format Beta, batch 1
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 97 |
 | Id | 302 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 21 |
 
 ## Fields

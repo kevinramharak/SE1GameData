@@ -1,18 +1,20 @@
 ---
 title: "Tank Destroyer"
 docKind: "type"
-libraryKey: "Shadow-Troops-9"
-libraryName: "Shadow Troops"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "9"
-typeGroupKey: "reinforcement-types"
-typeGroupName: "Reinforcement Types"
-typeKey: "Tank-Destroyer-45"
-typeName: "Tank Destroyer"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "45"
-sourceDebugPath: "DataClass.{ ReinfId, ReinfName, ReinfRatio, ReinfLibId }[14]"
 fieldsCount: 2
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "Shadow-Troops-9"
+  name: "Shadow Troops"
+  id: "9"
+typeGroup:
+  key: "reinforcement-types"
+  name: "Reinforcement Types"
+type:
+  key: "Tank-Destroyer-45"
+  name: "Tank Destroyer"
+  id: "45"
 ---
 
 # Tank Destroyer

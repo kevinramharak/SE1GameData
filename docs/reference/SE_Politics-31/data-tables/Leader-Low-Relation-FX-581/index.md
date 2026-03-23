@@ -1,18 +1,20 @@
 ---
 title: "Leader Low Relation FX"
 docKind: "type"
-libraryKey: "SE_Politics-31"
-libraryName: "SE_Politics"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "31"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Leader-Low-Relation-FX-581"
-typeName: "Leader Low Relation FX"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "581"
-sourceDebugPath: "GameDataAdapter.DataTables[503]"
 fieldsCount: 135
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Politics-31"
+  name: "SE_Politics"
+  id: "31"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Leader-Low-Relation-FX-581"
+  name: "Leader Low Relation FX"
+  id: "581"
 ---
 
 # Leader Low Relation FX
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 135 |
 | Id | 581 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 6 |
 
 ## Fields

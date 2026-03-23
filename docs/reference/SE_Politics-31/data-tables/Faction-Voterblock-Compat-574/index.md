@@ -1,18 +1,20 @@
 ---
 title: "Faction Voterblock Compat"
 docKind: "type"
-libraryKey: "SE_Politics-31"
-libraryName: "SE_Politics"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "31"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Faction-Voterblock-Compat-574"
-typeName: "Faction Voterblock Compat"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "574"
-sourceDebugPath: "GameDataAdapter.DataTables[496]"
 fieldsCount: 3
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Politics-31"
+  name: "SE_Politics"
+  id: "31"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Faction-Voterblock-Compat-574"
+  name: "Faction Voterblock Compat"
+  id: "574"
 ---
 
 # Faction Voterblock Compat
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 3 |
 | Id | 574 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

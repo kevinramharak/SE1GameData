@@ -1,18 +1,20 @@
 ---
 title: "Militia Unit Table"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Militia-Unit-Table-170"
-typeName: "Militia Unit Table"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "170"
-sourceDebugPath: "GameDataAdapter.DataTables[108]"
 fieldsCount: 18
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Militia-Unit-Table-170"
+  name: "Militia Unit Table"
+  id: "170"
 ---
 
 # Militia Unit Table
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 18 |
 | Id | 170 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 167 |
 
 ## Fields

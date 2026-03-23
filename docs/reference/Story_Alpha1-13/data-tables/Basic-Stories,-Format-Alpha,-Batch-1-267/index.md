@@ -1,18 +1,20 @@
 ---
 title: "Basic Stories, Format Alpha, Batch 1"
 docKind: "type"
-libraryKey: "Story_Alpha1-13"
-libraryName: "Story_Alpha1"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "13"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Basic-Stories,-Format-Alpha,-Batch-1-267"
-typeName: "Basic Stories, Format Alpha, Batch 1"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "267"
-sourceDebugPath: "GameDataAdapter.DataTables[202]"
 fieldsCount: 63
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "Story_Alpha1-13"
+  name: "Story_Alpha1"
+  id: "13"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Basic-Stories,-Format-Alpha,-Batch-1-267"
+  name: "Basic Stories, Format Alpha, Batch 1"
+  id: "267"
 ---
 
 # Basic Stories, Format Alpha, Batch 1
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 63 |
 | Id | 267 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 24 |
 
 ## Fields

@@ -1,18 +1,20 @@
 ---
 title: "Flex Gfx Set"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-Gfx-Set-311"
-typeName: "Flex Gfx Set"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "311"
-sourceDebugPath: "GameDataAdapter.DataTables[244]"
 fieldsCount: 11
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-Gfx-Set-311"
+  name: "Flex Gfx Set"
+  id: "311"
 ---
 
 # Flex Gfx Set
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 11 |
 | Id | 311 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

@@ -1,18 +1,20 @@
 ---
 title: "Asset Type to Location Type"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Asset-Type-to-Location-Type-368"
-typeName: "Asset Type to Location Type"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "368"
-sourceDebugPath: "GameDataAdapter.DataTables[299]"
 fieldsCount: 11
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Asset-Type-to-Location-Type-368"
+  name: "Asset Type to Location Type"
+  id: "368"
 ---
 
 # Asset Type to Location Type
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 11 |
 | Id | 368 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 91 |
 
 ## Fields

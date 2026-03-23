@@ -1,18 +1,20 @@
 ---
 title: "Flex Asset Type Construction Cost"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-Asset-Type-Construction-Cost-150"
-typeName: "Flex Asset Type Construction Cost"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "150"
-sourceDebugPath: "GameDataAdapter.DataTables[89]"
 fieldsCount: 3
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-Asset-Type-Construction-Cost-150"
+  name: "Flex Asset Type Construction Cost"
+  id: "150"
 ---
 
 # Flex Asset Type Construction Cost
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 3 |
 | Id | 150 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

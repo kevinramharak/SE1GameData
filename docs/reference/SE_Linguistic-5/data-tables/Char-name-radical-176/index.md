@@ -1,18 +1,20 @@
 ---
 title: "Char name radical"
 docKind: "type"
-libraryKey: "SE_Linguistic-5"
-libraryName: "SE_Linguistic"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "5"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Char-name-radical-176"
-typeName: "Char name radical"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "176"
-sourceDebugPath: "GameDataAdapter.DataTables[112]"
 fieldsCount: 0
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Linguistic-5"
+  name: "SE_Linguistic"
+  id: "5"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Char-name-radical-176"
+  name: "Char name radical"
+  id: "176"
 ---
 
 # Char name radical
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 0 |
 | Id | 176 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 19 |
 
 ## Fields

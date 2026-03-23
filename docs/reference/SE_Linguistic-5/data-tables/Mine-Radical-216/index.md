@@ -1,18 +1,20 @@
 ---
 title: "Mine Radical"
 docKind: "type"
-libraryKey: "SE_Linguistic-5"
-libraryName: "SE_Linguistic"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "5"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Mine-Radical-216"
-typeName: "Mine Radical"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "216"
-sourceDebugPath: "GameDataAdapter.DataTables[152]"
 fieldsCount: 1
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Linguistic-5"
+  name: "SE_Linguistic"
+  id: "5"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Mine-Radical-216"
+  name: "Mine Radical"
+  id: "216"
 ---
 
 # Mine Radical
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 1 |
 | Id | 216 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 21 |
 
 ## Fields

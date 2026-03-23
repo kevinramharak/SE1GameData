@@ -1,18 +1,20 @@
 ---
 title: "Flex Asset Type Upkeep"
 docKind: "type"
-libraryKey: "SE_Airforce-29"
-libraryName: "SE_Airforce"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "29"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-Asset-Type-Upkeep-525"
-typeName: "Flex Asset Type Upkeep"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "525"
-sourceDebugPath: "GameDataAdapter.DataTables[447]"
 fieldsCount: 3
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Airforce-29"
+  name: "SE_Airforce"
+  id: "29"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-Asset-Type-Upkeep-525"
+  name: "Flex Asset Type Upkeep"
+  id: "525"
 ---
 
 # Flex Asset Type Upkeep
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 3 |
 | Id | 525 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 7 |
 
 ## Fields

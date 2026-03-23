@@ -1,18 +1,20 @@
 ---
 title: "Flex Asset Types"
 docKind: "type"
-libraryKey: "SE_Asset-7"
-libraryName: "SE_Asset"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "7"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-Asset-Types-151"
-typeName: "Flex Asset Types"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "151"
-sourceDebugPath: "GameDataAdapter.DataTables[90]"
 fieldsCount: 32
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Asset-7"
+  name: "SE_Asset"
+  id: "7"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-Asset-Types-151"
+  name: "Flex Asset Types"
+  id: "151"
 ---
 
 # Flex Asset Types
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 32 |
 | Id | 151 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 428 |
 
 ## Fields

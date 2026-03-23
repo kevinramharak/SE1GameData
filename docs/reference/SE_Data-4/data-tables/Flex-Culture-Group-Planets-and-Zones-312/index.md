@@ -1,18 +1,20 @@
 ---
 title: "Flex Culture Group Planets and Zones"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-Culture-Group-Planets-and-Zones-312"
-typeName: "Flex Culture Group Planets and Zones"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "312"
-sourceDebugPath: "GameDataAdapter.DataTables[245]"
 fieldsCount: 3
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-Culture-Group-Planets-and-Zones-312"
+  name: "Flex Culture Group Planets and Zones"
+  id: "312"
 ---
 
 # Flex Culture Group Planets and Zones
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 3 |
 | Id | 312 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

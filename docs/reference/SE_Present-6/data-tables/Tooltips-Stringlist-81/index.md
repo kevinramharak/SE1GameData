@@ -1,18 +1,20 @@
 ---
 title: "Tooltips Stringlist"
 docKind: "type"
-libraryKey: "SE_Present-6"
-libraryName: "SE_Present"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "6"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Tooltips-Stringlist-81"
-typeName: "Tooltips Stringlist"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "81"
-sourceDebugPath: "GameDataAdapter.DataTables[22]"
 fieldsCount: 5
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Present-6"
+  name: "SE_Present"
+  id: "6"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Tooltips-Stringlist-81"
+  name: "Tooltips Stringlist"
+  id: "81"
 ---
 
 # Tooltips Stringlist
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 5 |
 | Id | 81 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 142 |
 
 ## Fields

@@ -1,18 +1,20 @@
 ---
 title: "Colony Major Events"
 docKind: "type"
-libraryKey: "SE_Random-2"
-libraryName: "SE_Random"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "2"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Colony-Major-Events-130"
-typeName: "Colony Major Events"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "130"
-sourceDebugPath: "GameDataAdapter.DataTables[70]"
 fieldsCount: 23
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Random-2"
+  name: "SE_Random"
+  id: "2"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Colony-Major-Events-130"
+  name: "Colony Major Events"
+  id: "130"
 ---
 
 # Colony Major Events
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 23 |
 | Id | 130 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 35 |
 
 ## Fields

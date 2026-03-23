@@ -1,18 +1,20 @@
 ---
 title: "Temp Stringlist #2 trade logs"
 docKind: "type"
-libraryKey: "SE_IO-0"
-libraryName: "SE_IO"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "0"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Temp-Stringlist--2-trade-logs-392"
-typeName: "Temp Stringlist #2 trade logs"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "392"
-sourceDebugPath: "GameDataAdapter.DataTables[322]"
 fieldsCount: 0
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_IO-0"
+  name: "SE_IO"
+  id: "0"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Temp-Stringlist--2-trade-logs-392"
+  name: "Temp Stringlist #2 trade logs"
+  id: "392"
 ---
 
 # Temp Stringlist #2 trade logs
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 0 |
 | Id | 392 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

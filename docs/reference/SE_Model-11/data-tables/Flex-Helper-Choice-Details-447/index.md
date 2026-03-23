@@ -1,18 +1,20 @@
 ---
 title: "Flex Helper Choice Details"
 docKind: "type"
-libraryKey: "SE_Model-11"
-libraryName: "SE_Model"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "11"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-Helper-Choice-Details-447"
-typeName: "Flex Helper Choice Details"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "447"
-sourceDebugPath: "GameDataAdapter.DataTables[372]"
 fieldsCount: 1
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Model-11"
+  name: "SE_Model"
+  id: "11"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-Helper-Choice-Details-447"
+  name: "Flex Helper Choice Details"
+  id: "447"
 ---
 
 # Flex Helper Choice Details
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 1 |
 | Id | 447 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 131 |
 
 ## Fields

@@ -1,18 +1,20 @@
 ---
 title: "Zones"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Zones-123"
-typeName: "Zones"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "123"
-sourceDebugPath: "GameDataAdapter.DataTables[63]"
 fieldsCount: 16
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Zones-123"
+  name: "Zones"
+  id: "123"
 ---
 
 # Zones
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 16 |
 | Id | 123 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

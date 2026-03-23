@@ -19,10 +19,10 @@ There are a few types and data instances that are not part of a library, these c
 
 ## Reference
 
-To explore the game data structured structured per library, checkout the [reference](../reference/).
+To explore the game data structured structured per library, checkout the [reference](../reference/root/).
 
 Types and data instances part of the "root" are shown as part of the pseudo-library Root.
 
 ## Catalog
 
-To get a complete overview of all game data structured per type, checkout the [catalog](../catalog/).
+To get a complete overview of all game data structured per type, checkout the [catalog](../catalog/libraries/).

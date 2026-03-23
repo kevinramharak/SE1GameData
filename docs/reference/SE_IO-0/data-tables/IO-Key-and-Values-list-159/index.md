@@ -1,18 +1,20 @@
 ---
 title: "IO Key and Values list"
 docKind: "type"
-libraryKey: "SE_IO-0"
-libraryName: "SE_IO"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "0"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "IO-Key-and-Values-list-159"
-typeName: "IO Key and Values list"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "159"
-sourceDebugPath: "GameDataAdapter.DataTables[97]"
 fieldsCount: 1
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_IO-0"
+  name: "SE_IO"
+  id: "0"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "IO-Key-and-Values-list-159"
+  name: "IO Key and Values list"
+  id: "159"
 ---
 
 # IO Key and Values list
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 1 |
 | Id | 159 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 13 |
 
 ## Fields

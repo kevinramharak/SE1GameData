@@ -1,18 +1,20 @@
 ---
 title: "Flex Asset Type Upkeep"
 docKind: "type"
-libraryKey: "SE_Navy-30"
-libraryName: "SE_Navy"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "30"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-Asset-Type-Upkeep-543"
-typeName: "Flex Asset Type Upkeep"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "543"
-sourceDebugPath: "GameDataAdapter.DataTables[465]"
 fieldsCount: 3
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Navy-30"
+  name: "SE_Navy"
+  id: "30"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-Asset-Type-Upkeep-543"
+  name: "Flex Asset Type Upkeep"
+  id: "543"
 ---
 
 # Flex Asset Type Upkeep
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 3 |
 | Id | 543 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 8 |
 
 ## Fields

@@ -1,18 +1,20 @@
 ---
 title: "Helper People Type"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Helper-People-Type-309"
-typeName: "Helper People Type"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "309"
-sourceDebugPath: "GameDataAdapter.DataTables[242]"
 fieldsCount: 1
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Helper-People-Type-309"
+  name: "Helper People Type"
+  id: "309"
 ---
 
 # Helper People Type
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 1 |
 | Id | 309 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 15 |
 
 ## Fields

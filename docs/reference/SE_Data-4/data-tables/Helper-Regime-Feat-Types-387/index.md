@@ -1,18 +1,20 @@
 ---
 title: "Helper Regime Feat Types"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Helper-Regime-Feat-Types-387"
-typeName: "Helper Regime Feat Types"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "387"
-sourceDebugPath: "GameDataAdapter.DataTables[317]"
 fieldsCount: 23
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Helper-Regime-Feat-Types-387"
+  name: "Helper Regime Feat Types"
+  id: "387"
 ---
 
 # Helper Regime Feat Types
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 23 |
 | Id | 387 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 57 |
 
 ## Fields

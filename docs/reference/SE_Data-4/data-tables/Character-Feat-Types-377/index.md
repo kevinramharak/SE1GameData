@@ -1,18 +1,20 @@
 ---
 title: "Character Feat Types"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Character-Feat-Types-377"
-typeName: "Character Feat Types"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "377"
-sourceDebugPath: "GameDataAdapter.DataTables[308]"
 fieldsCount: 13
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Character-Feat-Types-377"
+  name: "Character Feat Types"
+  id: "377"
 ---
 
 # Character Feat Types
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 13 |
 | Id | 377 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 28 |
 
 ## Fields

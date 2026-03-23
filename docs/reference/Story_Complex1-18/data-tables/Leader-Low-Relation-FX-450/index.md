@@ -1,18 +1,20 @@
 ---
 title: "Leader Low Relation FX"
 docKind: "type"
-libraryKey: "Story_Complex1-18"
-libraryName: "Story_Complex1"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "18"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Leader-Low-Relation-FX-450"
-typeName: "Leader Low Relation FX"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "450"
-sourceDebugPath: "GameDataAdapter.DataTables[375]"
 fieldsCount: 135
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "Story_Complex1-18"
+  name: "Story_Complex1"
+  id: "18"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Leader-Low-Relation-FX-450"
+  name: "Leader Low Relation FX"
+  id: "450"
 ---
 
 # Leader Low Relation FX
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 135 |
 | Id | 450 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 20 |
 
 ## Fields

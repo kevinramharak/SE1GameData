@@ -1,18 +1,20 @@
 ---
 title: "Aux Logs"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Aux-Logs-372"
-typeName: "Aux Logs"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "372"
-sourceDebugPath: "GameDataAdapter.DataTables[303]"
 fieldsCount: 4
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Aux-Logs-372"
+  name: "Aux Logs"
+  id: "372"
 ---
 
 # Aux Logs
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 4 |
 | Id | 372 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

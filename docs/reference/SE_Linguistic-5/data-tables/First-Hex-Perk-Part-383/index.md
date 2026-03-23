@@ -1,18 +1,20 @@
 ---
 title: "First Hex Perk Part"
 docKind: "type"
-libraryKey: "SE_Linguistic-5"
-libraryName: "SE_Linguistic"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "5"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "First-Hex-Perk-Part-383"
-typeName: "First Hex Perk Part"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "383"
-sourceDebugPath: "GameDataAdapter.DataTables[313]"
 fieldsCount: 1
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Linguistic-5"
+  name: "SE_Linguistic"
+  id: "5"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "First-Hex-Perk-Part-383"
+  name: "First Hex Perk Part"
+  id: "383"
 ---
 
 # First Hex Perk Part
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 1 |
 | Id | 383 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 138 |
 
 ## Fields

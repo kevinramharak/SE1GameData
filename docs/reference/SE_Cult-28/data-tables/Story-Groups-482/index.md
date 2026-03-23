@@ -1,18 +1,20 @@
 ---
 title: "Story Groups"
 docKind: "type"
-libraryKey: "SE_Cult-28"
-libraryName: "SE_Cult"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "28"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Story-Groups-482"
-typeName: "Story Groups"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "482"
-sourceDebugPath: "GameDataAdapter.DataTables[407]"
 fieldsCount: 5
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Cult-28"
+  name: "SE_Cult"
+  id: "28"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Story-Groups-482"
+  name: "Story Groups"
+  id: "482"
 ---
 
 # Story Groups
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 5 |
 | Id | 482 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

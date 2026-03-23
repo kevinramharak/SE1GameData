@@ -1,18 +1,20 @@
 ---
 title: "Flex Diplomatic Action FX vs HUMAN"
 docKind: "type"
-libraryKey: "SE_Diplomatic-15"
-libraryName: "SE_Diplomatic"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "15"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-Diplomatic-Action-FX-vs-HUMAN-282"
-typeName: "Flex Diplomatic Action FX vs HUMAN"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "282"
-sourceDebugPath: "GameDataAdapter.DataTables[217]"
 fieldsCount: 8
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Diplomatic-15"
+  name: "SE_Diplomatic"
+  id: "15"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-Diplomatic-Action-FX-vs-HUMAN-282"
+  name: "Flex Diplomatic Action FX vs HUMAN"
+  id: "282"
 ---
 
 # Flex Diplomatic Action FX vs HUMAN
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 8 |
 | Id | 282 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 38 |
 
 ## Fields

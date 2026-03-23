@@ -1,18 +1,20 @@
 ---
 title: "Character Feat Effects"
 docKind: "type"
-libraryKey: "SE_Crime-25"
-libraryName: "SE_Crime"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "25"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Character-Feat-Effects-435"
-typeName: "Character Feat Effects"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "435"
-sourceDebugPath: "GameDataAdapter.DataTables[360]"
 fieldsCount: 5
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Crime-25"
+  name: "SE_Crime"
+  id: "25"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Character-Feat-Effects-435"
+  name: "Character Feat Effects"
+  id: "435"
 ---
 
 # Character Feat Effects
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 5 |
 | Id | 435 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 1 |
 
 ## Fields

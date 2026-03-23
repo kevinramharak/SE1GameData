@@ -1,18 +1,20 @@
 ---
 title: "Character Feat Effects"
 docKind: "type"
-libraryKey: "SE_Politics-31"
-libraryName: "SE_Politics"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "31"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Character-Feat-Effects-571"
-typeName: "Character Feat Effects"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "571"
-sourceDebugPath: "GameDataAdapter.DataTables[493]"
 fieldsCount: 5
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Politics-31"
+  name: "SE_Politics"
+  id: "31"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Character-Feat-Effects-571"
+  name: "Character Feat Effects"
+  id: "571"
 ---
 
 # Character Feat Effects
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 5 |
 | Id | 571 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 33 |
 
 ## Fields

@@ -1,18 +1,20 @@
 ---
 title: "Flex Organisation Task Types"
 docKind: "type"
-libraryKey: "SE_Politics-31"
-libraryName: "SE_Politics"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "31"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-Organisation-Task-Types-582"
-typeName: "Flex Organisation Task Types"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "582"
-sourceDebugPath: "GameDataAdapter.DataTables[504]"
 fieldsCount: 8
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Politics-31"
+  name: "SE_Politics"
+  id: "31"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-Organisation-Task-Types-582"
+  name: "Flex Organisation Task Types"
+  id: "582"
 ---
 
 # Flex Organisation Task Types
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 8 |
 | Id | 582 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 1 |
 
 ## Fields

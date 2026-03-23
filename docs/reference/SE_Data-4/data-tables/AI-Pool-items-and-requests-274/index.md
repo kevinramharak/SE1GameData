@@ -1,18 +1,20 @@
 ---
 title: "AI Pool items and requests"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "AI-Pool-items-and-requests-274"
-typeName: "AI Pool items and requests"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "274"
-sourceDebugPath: "GameDataAdapter.DataTables[209]"
 fieldsCount: 8
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "AI-Pool-items-and-requests-274"
+  name: "AI Pool items and requests"
+  id: "274"
 ---
 
 # AI Pool items and requests
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 8 |
 | Id | 274 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

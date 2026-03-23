@@ -1,18 +1,20 @@
 ---
 title: "Mix Points"
 docKind: "type"
-libraryKey: "SE_DSS-3"
-libraryName: "SE_DSS"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "3"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Mix-Points-88"
-typeName: "Mix Points"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "88"
-sourceDebugPath: "GameDataAdapter.DataTables[28]"
 fieldsCount: 5
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_DSS-3"
+  name: "SE_DSS"
+  id: "3"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Mix-Points-88"
+  name: "Mix Points"
+  id: "88"
 ---
 
 # Mix Points
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 5 |
 | Id | 88 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 29 |
 
 ## Fields

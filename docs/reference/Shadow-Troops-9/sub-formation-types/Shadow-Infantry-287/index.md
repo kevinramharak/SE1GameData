@@ -1,18 +1,20 @@
 ---
 title: "Shadow Infantry"
 docKind: "type"
-libraryKey: "Shadow-Troops-9"
-libraryName: "Shadow Troops"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "9"
-typeGroupKey: "sub-formation-types"
-typeGroupName: "Sub Formation Types"
-typeKey: "Shadow-Infantry-287"
-typeName: "Shadow Infantry"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "287"
-sourceDebugPath: "GameDataAdapter.SubFormationTypes[89]"
 fieldsCount: 1
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "Shadow-Troops-9"
+  name: "Shadow Troops"
+  id: "9"
+typeGroup:
+  key: "sub-formation-types"
+  name: "Sub Formation Types"
+type:
+  key: "Shadow-Infantry-287"
+  name: "Shadow Infantry"
+  id: "287"
 ---
 
 # Shadow Infantry

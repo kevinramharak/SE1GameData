@@ -1,18 +1,20 @@
 ---
 title: "Fauna Feats"
 docKind: "type"
-libraryKey: "SE_Random-2"
-libraryName: "SE_Random"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "2"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Fauna-Feats-537"
-typeName: "Fauna Feats"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "537"
-sourceDebugPath: "GameDataAdapter.DataTables[459]"
 fieldsCount: 10
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Random-2"
+  name: "SE_Random"
+  id: "2"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Fauna-Feats-537"
+  name: "Fauna Feats"
+  id: "537"
 ---
 
 # Fauna Feats
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 10 |
 | Id | 537 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 41 |
 
 ## Fields

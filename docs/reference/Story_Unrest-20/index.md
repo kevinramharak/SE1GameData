@@ -1,12 +1,14 @@
 ---
 title: "Story_Unrest"
 docKind: "library"
-libraryKey: "Story_Unrest-20"
-libraryName: "Story_Unrest"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "20"
 isSyntheticRoot: false
 typeCount: 7
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "Story_Unrest-20"
+  name: "Story_Unrest"
+  id: "20"
 ---
 
 # Story_Unrest

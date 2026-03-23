@@ -1,18 +1,20 @@
 ---
 title: "Asset Constr. Already Paid"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Asset-Constr.-Already-Paid-500"
-typeName: "Asset Constr. Already Paid"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "500"
-sourceDebugPath: "GameDataAdapter.DataTables[425]"
 fieldsCount: 3
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Asset-Constr.-Already-Paid-500"
+  name: "Asset Constr. Already Paid"
+  id: "500"
 ---
 
 # Asset Constr. Already Paid
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 3 |
 | Id | 500 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

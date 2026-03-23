@@ -1,18 +1,20 @@
 ---
 title: "FLEX action card target logic"
 docKind: "type"
-libraryKey: "SE_Postures-19"
-libraryName: "SE_Postures"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "19"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "FLEX-action-card-target-logic-351"
-typeName: "FLEX action card target logic"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "351"
-sourceDebugPath: "GameDataAdapter.DataTables[282]"
 fieldsCount: 4
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Postures-19"
+  name: "SE_Postures"
+  id: "19"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "FLEX-action-card-target-logic-351"
+  name: "FLEX action card target logic"
+  id: "351"
 ---
 
 # FLEX action card target logic
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 4 |
 | Id | 351 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 1 |
 
 ## Fields

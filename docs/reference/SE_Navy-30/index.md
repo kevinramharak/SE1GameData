@@ -1,12 +1,14 @@
 ---
 title: "SE_Navy"
 docKind: "library"
-libraryKey: "SE_Navy-30"
-libraryName: "SE_Navy"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "30"
 isSyntheticRoot: false
 typeCount: 18
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Navy-30"
+  name: "SE_Navy"
+  id: "30"
 ---
 
 # SE_Navy

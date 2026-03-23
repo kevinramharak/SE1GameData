@@ -1,18 +1,20 @@
 ---
 title: "Vegetation to LandscapeType"
 docKind: "type"
-libraryKey: "SE_Random-2"
-libraryName: "SE_Random"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "2"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Vegetation-to-LandscapeType-97"
-typeName: "Vegetation to LandscapeType"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "97"
-sourceDebugPath: "GameDataAdapter.DataTables[37]"
 fieldsCount: 5
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Random-2"
+  name: "SE_Random"
+  id: "2"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Vegetation-to-LandscapeType-97"
+  name: "Vegetation to LandscapeType"
+  id: "97"
 ---
 
 # Vegetation to LandscapeType
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 5 |
 | Id | 97 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 101 |
 
 ## Fields

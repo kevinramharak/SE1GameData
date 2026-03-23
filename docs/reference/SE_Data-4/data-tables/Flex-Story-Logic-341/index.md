@@ -1,18 +1,20 @@
 ---
 title: "Flex Story Logic"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-Story-Logic-341"
-typeName: "Flex Story Logic"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "341"
-sourceDebugPath: "GameDataAdapter.DataTables[272]"
 fieldsCount: 11
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-Story-Logic-341"
+  name: "Flex Story Logic"
+  id: "341"
 ---
 
 # Flex Story Logic
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 11 |
 | Id | 341 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 2 |
 
 ## Fields

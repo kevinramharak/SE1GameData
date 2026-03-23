@@ -1,18 +1,20 @@
 ---
 title: "Alien Minor Diplomacy Gustav Import"
 docKind: "type"
-libraryKey: "SE_Diplomatic-15"
-libraryName: "SE_Diplomatic"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "15"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Alien-Minor-Diplomacy-Gustav-Import-541"
-typeName: "Alien Minor Diplomacy Gustav Import"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "541"
-sourceDebugPath: "GameDataAdapter.DataTables[463]"
 fieldsCount: 245
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Diplomatic-15"
+  name: "SE_Diplomatic"
+  id: "15"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Alien-Minor-Diplomacy-Gustav-Import-541"
+  name: "Alien Minor Diplomacy Gustav Import"
+  id: "541"
 ---
 
 # Alien Minor Diplomacy Gustav Import
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 245 |
 | Id | 541 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 8 |
 
 ## Fields

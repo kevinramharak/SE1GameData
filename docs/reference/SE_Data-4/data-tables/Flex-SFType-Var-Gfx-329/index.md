@@ -1,18 +1,20 @@
 ---
 title: "Flex SFType Var Gfx"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-SFType-Var-Gfx-329"
-typeName: "Flex SFType Var Gfx"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "329"
-sourceDebugPath: "GameDataAdapter.DataTables[262]"
 fieldsCount: 4
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-SFType-Var-Gfx-329"
+  name: "Flex SFType Var Gfx"
+  id: "329"
 ---
 
 # Flex SFType Var Gfx
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 4 |
 | Id | 329 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 11 |
 
 ## Fields

@@ -1,18 +1,20 @@
 ---
 title: "Tank Destroyer"
 docKind: "type"
-libraryKey: "root"
-libraryName: "root"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "Root"
-typeGroupKey: "sub-formation-types"
-typeGroupName: "Sub Formation Types"
-typeKey: "Tank-Destroyer-18"
-typeName: "Tank Destroyer"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "18"
-sourceDebugPath: "GameDataAdapter.SubFormationTypes[10]"
 fieldsCount: 1
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "root"
+  name: "root"
+  id: "Root"
+typeGroup:
+  key: "sub-formation-types"
+  name: "Sub Formation Types"
+type:
+  key: "Tank-Destroyer-18"
+  name: "Tank Destroyer"
+  id: "18"
 ---
 
 # Tank Destroyer

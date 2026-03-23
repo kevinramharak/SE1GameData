@@ -1,18 +1,20 @@
 ---
 title: "Name Radical Alpha"
 docKind: "type"
-libraryKey: "SE_Linguistic-5"
-libraryName: "SE_Linguistic"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "5"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Name-Radical-Alpha-138"
-typeName: "Name Radical Alpha"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "138"
-sourceDebugPath: "GameDataAdapter.DataTables[77]"
 fieldsCount: 0
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Linguistic-5"
+  name: "SE_Linguistic"
+  id: "5"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Name-Radical-Alpha-138"
+  name: "Name Radical Alpha"
+  id: "138"
 ---
 
 # Name Radical Alpha
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 0 |
 | Id | 138 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 15 |
 
 ## Fields

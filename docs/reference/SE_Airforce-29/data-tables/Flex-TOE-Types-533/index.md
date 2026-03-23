@@ -1,18 +1,20 @@
 ---
 title: "Flex TOE Types"
 docKind: "type"
-libraryKey: "SE_Airforce-29"
-libraryName: "SE_Airforce"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "29"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-TOE-Types-533"
-typeName: "Flex TOE Types"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "533"
-sourceDebugPath: "GameDataAdapter.DataTables[455]"
 fieldsCount: 18
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Airforce-29"
+  name: "SE_Airforce"
+  id: "29"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-TOE-Types-533"
+  name: "Flex TOE Types"
+  id: "533"
 ---
 
 # Flex TOE Types
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 18 |
 | Id | 533 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 36 |
 
 ## Fields

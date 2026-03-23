@@ -1,18 +1,20 @@
 ---
 title: "Zone Neighbours"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Zone-Neighbours-157"
-typeName: "Zone Neighbours"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "157"
-sourceDebugPath: "GameDataAdapter.DataTables[96]"
 fieldsCount: 1
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Zone-Neighbours-157"
+  name: "Zone Neighbours"
+  id: "157"
 ---
 
 # Zone Neighbours
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 1 |
 | Id | 157 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

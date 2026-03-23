@@ -1,18 +1,20 @@
 ---
 title: "Farm Radical"
 docKind: "type"
-libraryKey: "SE_Linguistic-5"
-libraryName: "SE_Linguistic"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "5"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Farm-Radical-215"
-typeName: "Farm Radical"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "215"
-sourceDebugPath: "GameDataAdapter.DataTables[151]"
 fieldsCount: 1
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Linguistic-5"
+  name: "SE_Linguistic"
+  id: "5"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Farm-Radical-215"
+  name: "Farm Radical"
+  id: "215"
 ---
 
 # Farm Radical
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 1 |
 | Id | 215 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 27 |
 
 ## Fields

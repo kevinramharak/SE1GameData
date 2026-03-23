@@ -1,9 +1,9 @@
 ---
 title: "Sub Formation Types"
-docKind: "catalog-type-group"
-typeGroupKey: "sub-formation-types"
-typeGroupName: "Sub Formation Types"
-entryCount: 143
+docKind: "type-group-catalog-index"
+typeGroup:
+  key: "sub-formation-types"
+  name: "Sub Formation Types"
 ---
 
 # Sub Formation Types

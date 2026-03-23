@@ -1,18 +1,20 @@
 ---
 title: "SFType ID- Regime ID quality levels"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "SFType-ID--Regime-ID-quality-levels-299"
-typeName: "SFType ID- Regime ID quality levels"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "299"
-sourceDebugPath: "GameDataAdapter.DataTables[233]"
 fieldsCount: 2
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "SFType-ID--Regime-ID-quality-levels-299"
+  name: "SFType ID- Regime ID quality levels"
+  id: "299"
 ---
 
 # SFType ID- Regime ID quality levels
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 2 |
 | Id | 299 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

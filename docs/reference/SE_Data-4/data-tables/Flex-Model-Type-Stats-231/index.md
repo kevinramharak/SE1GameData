@@ -1,18 +1,20 @@
 ---
 title: "Flex Model Type Stats"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-Model-Type-Stats-231"
-typeName: "Flex Model Type Stats"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "231"
-sourceDebugPath: "GameDataAdapter.DataTables[167]"
 fieldsCount: 8
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-Model-Type-Stats-231"
+  name: "Flex Model Type Stats"
+  id: "231"
 ---
 
 # Flex Model Type Stats
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 8 |
 | Id | 231 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

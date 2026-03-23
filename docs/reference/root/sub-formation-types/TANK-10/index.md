@@ -1,18 +1,20 @@
 ---
 title: "TANK"
 docKind: "type"
-libraryKey: "root"
-libraryName: "root"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "Root"
-typeGroupKey: "sub-formation-types"
-typeGroupName: "Sub Formation Types"
-typeKey: "TANK-10"
-typeName: "TANK"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "10"
-sourceDebugPath: "GameDataAdapter.SubFormationTypes[7]"
 fieldsCount: 1
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "root"
+  name: "root"
+  id: "Root"
+typeGroup:
+  key: "sub-formation-types"
+  name: "Sub Formation Types"
+type:
+  key: "TANK-10"
+  name: "TANK"
+  id: "10"
 ---
 
 # TANK

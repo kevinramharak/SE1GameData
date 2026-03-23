@@ -1,18 +1,20 @@
 ---
 title: "Subcultures"
 docKind: "type"
-libraryKey: "SE_Culture-17"
-libraryName: "SE_Culture"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "17"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Subcultures-569"
-typeName: "Subcultures"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "569"
-sourceDebugPath: "GameDataAdapter.DataTables[491]"
 fieldsCount: 5
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Culture-17"
+  name: "SE_Culture"
+  id: "17"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Subcultures-569"
+  name: "Subcultures"
+  id: "569"
 ---
 
 # Subcultures
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 5 |
 | Id | 569 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 14 |
 
 ## Fields

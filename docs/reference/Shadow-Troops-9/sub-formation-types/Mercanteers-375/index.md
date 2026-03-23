@@ -1,18 +1,20 @@
 ---
 title: "Mercanteers"
 docKind: "type"
-libraryKey: "Shadow-Troops-9"
-libraryName: "Shadow Troops"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "9"
-typeGroupKey: "sub-formation-types"
-typeGroupName: "Sub Formation Types"
-typeKey: "Mercanteers-375"
-typeName: "Mercanteers"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "375"
-sourceDebugPath: "GameDataAdapter.SubFormationTypes[133]"
 fieldsCount: 1
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "Shadow-Troops-9"
+  name: "Shadow Troops"
+  id: "9"
+typeGroup:
+  key: "sub-formation-types"
+  name: "Sub Formation Types"
+type:
+  key: "Mercanteers-375"
+  name: "Mercanteers"
+  id: "375"
 ---
 
 # Mercanteers

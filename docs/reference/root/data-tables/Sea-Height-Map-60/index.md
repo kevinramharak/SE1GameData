@@ -1,18 +1,20 @@
 ---
 title: "Sea Height Map"
 docKind: "type"
-libraryKey: "root"
-libraryName: "root"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "Root"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Sea-Height-Map-60"
-typeName: "Sea Height Map"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "60"
-sourceDebugPath: "GameDataAdapter.DataTables[2]"
 fieldsCount: 7
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "root"
+  name: "root"
+  id: "Root"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Sea-Height-Map-60"
+  name: "Sea Height Map"
+  id: "60"
 ---
 
 # Sea Height Map
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 7 |
 | Id | 60 |
-| IsEditableInSimpleEditor | False |
 | RowCount | 0 |
 
 ## Fields

@@ -1,18 +1,20 @@
 ---
 title: "Tariffs"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Tariffs-297"
-typeName: "Tariffs"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "297"
-sourceDebugPath: "GameDataAdapter.DataTables[231]"
 fieldsCount: 4
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Tariffs-297"
+  name: "Tariffs"
+  id: "297"
 ---
 
 # Tariffs
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 4 |
 | Id | 297 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

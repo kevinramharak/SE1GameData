@@ -1,18 +1,20 @@
 ---
 title: "Flex Custom Zone Info"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-Custom-Zone-Info-413"
-typeName: "Flex Custom Zone Info"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "413"
-sourceDebugPath: "GameDataAdapter.DataTables[343]"
 fieldsCount: 6
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-Custom-Zone-Info-413"
+  name: "Flex Custom Zone Info"
+  id: "413"
 ---
 
 # Flex Custom Zone Info
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 6 |
 | Id | 413 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

@@ -1,18 +1,20 @@
 ---
 title: "Mobile Shield"
 docKind: "type"
-libraryKey: "Shadow-Troops-9"
-libraryName: "Shadow Troops"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "9"
-typeGroupKey: "reinforcement-types"
-typeGroupName: "Reinforcement Types"
-typeKey: "Mobile-Shield-53"
-typeName: "Mobile Shield"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "53"
-sourceDebugPath: "DataClass.{ ReinfId, ReinfName, ReinfRatio, ReinfLibId }[23]"
 fieldsCount: 2
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "Shadow-Troops-9"
+  name: "Shadow Troops"
+  id: "9"
+typeGroup:
+  key: "reinforcement-types"
+  name: "Reinforcement Types"
+type:
+  key: "Mobile-Shield-53"
+  name: "Mobile Shield"
+  id: "53"
 ---
 
 # Mobile Shield

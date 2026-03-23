@@ -1,18 +1,20 @@
 ---
 title: "FLEX action card target logic"
 docKind: "type"
-libraryKey: "SE_Diplomatic-15"
-libraryName: "SE_Diplomatic"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "15"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "FLEX-action-card-target-logic-346"
-typeName: "FLEX action card target logic"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "346"
-sourceDebugPath: "GameDataAdapter.DataTables[277]"
 fieldsCount: 4
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Diplomatic-15"
+  name: "SE_Diplomatic"
+  id: "15"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "FLEX-action-card-target-logic-346"
+  name: "FLEX action card target logic"
+  id: "346"
 ---
 
 # FLEX action card target logic
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 4 |
 | Id | 346 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 74 |
 
 ## Fields

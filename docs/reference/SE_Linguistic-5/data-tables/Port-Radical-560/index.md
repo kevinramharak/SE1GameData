@@ -1,18 +1,20 @@
 ---
 title: "Port Radical"
 docKind: "type"
-libraryKey: "SE_Linguistic-5"
-libraryName: "SE_Linguistic"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "5"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Port-Radical-560"
-typeName: "Port Radical"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "560"
-sourceDebugPath: "GameDataAdapter.DataTables[482]"
 fieldsCount: 1
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Linguistic-5"
+  name: "SE_Linguistic"
+  id: "5"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Port-Radical-560"
+  name: "Port Radical"
+  id: "560"
 ---
 
 # Port Radical
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 1 |
 | Id | 560 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 26 |
 
 ## Fields

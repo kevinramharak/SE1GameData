@@ -1,18 +1,20 @@
 ---
 title: "Factions"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Factions-200"
-typeName: "Factions"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "200"
-sourceDebugPath: "GameDataAdapter.DataTables[136]"
 fieldsCount: 17
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Factions-200"
+  name: "Factions"
+  id: "200"
 ---
 
 # Factions
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 17 |
 | Id | 200 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

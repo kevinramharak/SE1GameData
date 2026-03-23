@@ -1,18 +1,20 @@
 ---
 title: "Biped Cavalry"
 docKind: "type"
-libraryKey: "Shadow-Troops-9"
-libraryName: "Shadow Troops"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "9"
-typeGroupKey: "sub-formation-types"
-typeGroupName: "Sub Formation Types"
-typeKey: "Biped-Cavalry-293"
-typeName: "Biped Cavalry"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "293"
-sourceDebugPath: "GameDataAdapter.SubFormationTypes[92]"
 fieldsCount: 1
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "Shadow-Troops-9"
+  name: "Shadow Troops"
+  id: "9"
+typeGroup:
+  key: "sub-formation-types"
+  name: "Sub Formation Types"
+type:
+  key: "Biped-Cavalry-293"
+  name: "Biped Cavalry"
+  id: "293"
 ---
 
 # Biped Cavalry

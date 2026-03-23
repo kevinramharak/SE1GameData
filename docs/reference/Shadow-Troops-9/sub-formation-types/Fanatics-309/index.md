@@ -1,18 +1,20 @@
 ---
 title: "Fanatics"
 docKind: "type"
-libraryKey: "Shadow-Troops-9"
-libraryName: "Shadow Troops"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "9"
-typeGroupKey: "sub-formation-types"
-typeGroupName: "Sub Formation Types"
-typeKey: "Fanatics-309"
-typeName: "Fanatics"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "309"
-sourceDebugPath: "GameDataAdapter.SubFormationTypes[100]"
 fieldsCount: 1
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "Shadow-Troops-9"
+  name: "Shadow Troops"
+  id: "9"
+typeGroup:
+  key: "sub-formation-types"
+  name: "Sub Formation Types"
+type:
+  key: "Fanatics-309"
+  name: "Fanatics"
+  id: "309"
 ---
 
 # Fanatics

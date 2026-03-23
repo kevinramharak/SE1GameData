@@ -1,18 +1,20 @@
 ---
 title: "Flex Production Types"
 docKind: "type"
-libraryKey: "SE_Navy-30"
-libraryName: "SE_Navy"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "30"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-Production-Types-545"
-typeName: "Flex Production Types"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "545"
-sourceDebugPath: "GameDataAdapter.DataTables[467]"
 fieldsCount: 6
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Navy-30"
+  name: "SE_Navy"
+  id: "30"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-Production-Types-545"
+  name: "Flex Production Types"
+  id: "545"
 ---
 
 # Flex Production Types
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 6 |
 | Id | 545 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 20 |
 
 ## Fields

@@ -1,18 +1,20 @@
 ---
 title: "Old Regime Keys"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Old-Regime-Keys-255"
-typeName: "Old Regime Keys"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "255"
-sourceDebugPath: "GameDataAdapter.DataTables[191]"
 fieldsCount: 2
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Old-Regime-Keys-255"
+  name: "Old Regime Keys"
+  id: "255"
 ---
 
 # Old Regime Keys
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 2 |
 | Id | 255 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

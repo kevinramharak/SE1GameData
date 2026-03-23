@@ -1,18 +1,20 @@
 ---
 title: "Character Feat Effects"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Character-Feat-Effects-378"
-typeName: "Character Feat Effects"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "378"
-sourceDebugPath: "GameDataAdapter.DataTables[309]"
 fieldsCount: 5
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Character-Feat-Effects-378"
+  name: "Character Feat Effects"
+  id: "378"
 ---
 
 # Character Feat Effects
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 5 |
 | Id | 378 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 31 |
 
 ## Fields

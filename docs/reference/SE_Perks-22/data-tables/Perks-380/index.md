@@ -1,18 +1,20 @@
 ---
 title: "Perks"
 docKind: "type"
-libraryKey: "SE_Perks-22"
-libraryName: "SE_Perks"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "22"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Perks-380"
-typeName: "Perks"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "380"
-sourceDebugPath: "GameDataAdapter.DataTables[310]"
 fieldsCount: 14
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Perks-22"
+  name: "SE_Perks"
+  id: "22"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Perks-380"
+  name: "Perks"
+  id: "380"
 ---
 
 # Perks
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 14 |
 | Id | 380 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 40 |
 
 ## Fields

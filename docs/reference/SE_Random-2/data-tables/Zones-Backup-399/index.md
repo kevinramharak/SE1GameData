@@ -1,18 +1,20 @@
 ---
 title: "Zones Backup"
 docKind: "type"
-libraryKey: "SE_Random-2"
-libraryName: "SE_Random"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "2"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Zones-Backup-399"
-typeName: "Zones Backup"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "399"
-sourceDebugPath: "GameDataAdapter.DataTables[329]"
 fieldsCount: 14
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Random-2"
+  name: "SE_Random"
+  id: "2"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Zones-Backup-399"
+  name: "Zones Backup"
+  id: "399"
 ---
 
 # Zones Backup
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 14 |
 | Id | 399 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

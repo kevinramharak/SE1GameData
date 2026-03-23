@@ -1,12 +1,14 @@
 ---
 title: "SE_Crime"
 docKind: "library"
-libraryKey: "SE_Crime-25"
-libraryName: "SE_Crime"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "25"
 isSyntheticRoot: false
 typeCount: 17
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Crime-25"
+  name: "SE_Crime"
+  id: "25"
 ---
 
 # SE_Crime

@@ -1,18 +1,20 @@
 ---
 title: "Tectonic Plates"
 docKind: "type"
-libraryKey: "SE_Random-2"
-libraryName: "SE_Random"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "2"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Tectonic-Plates-85"
-typeName: "Tectonic Plates"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "85"
-sourceDebugPath: "GameDataAdapter.DataTables[25]"
 fieldsCount: 1
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Random-2"
+  name: "SE_Random"
+  id: "2"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Tectonic-Plates-85"
+  name: "Tectonic Plates"
+  id: "85"
 ---
 
 # Tectonic Plates
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 1 |
 | Id | 85 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

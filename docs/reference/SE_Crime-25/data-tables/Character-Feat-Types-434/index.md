@@ -1,18 +1,20 @@
 ---
 title: "Character Feat Types"
 docKind: "type"
-libraryKey: "SE_Crime-25"
-libraryName: "SE_Crime"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "25"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Character-Feat-Types-434"
-typeName: "Character Feat Types"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "434"
-sourceDebugPath: "GameDataAdapter.DataTables[359]"
 fieldsCount: 3
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Crime-25"
+  name: "SE_Crime"
+  id: "25"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Character-Feat-Types-434"
+  name: "Character Feat Types"
+  id: "434"
 ---
 
 # Character Feat Types
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 3 |
 | Id | 434 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 1 |
 
 ## Fields

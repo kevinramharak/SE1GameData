@@ -1,18 +1,20 @@
 ---
 title: "Regime - Regime Feat Log"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Regime---Regime-Feat-Log-398"
-typeName: "Regime - Regime Feat Log"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "398"
-sourceDebugPath: "GameDataAdapter.DataTables[328]"
 fieldsCount: 12
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Regime---Regime-Feat-Log-398"
+  name: "Regime - Regime Feat Log"
+  id: "398"
 ---
 
 # Regime - Regime Feat Log
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 12 |
 | Id | 398 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

@@ -1,18 +1,20 @@
 ---
 title: "Name Radical Suffix Alpha"
 docKind: "type"
-libraryKey: "SE_Linguistic-5"
-libraryName: "SE_Linguistic"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "5"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Name-Radical-Suffix-Alpha-139"
-typeName: "Name Radical Suffix Alpha"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "139"
-sourceDebugPath: "GameDataAdapter.DataTables[78]"
 fieldsCount: 0
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Linguistic-5"
+  name: "SE_Linguistic"
+  id: "5"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Name-Radical-Suffix-Alpha-139"
+  name: "Name Radical Suffix Alpha"
+  id: "139"
 ---
 
 # Name Radical Suffix Alpha
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 0 |
 | Id | 139 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 11 |
 
 ## Fields

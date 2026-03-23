@@ -1,18 +1,20 @@
 ---
 title: "Regime Statistics"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Regime-Statistics-292"
-typeName: "Regime Statistics"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "292"
-sourceDebugPath: "GameDataAdapter.DataTables[226]"
 fieldsCount: 4
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Regime-Statistics-292"
+  name: "Regime Statistics"
+  id: "292"
 ---
 
 # Regime Statistics
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 4 |
 | Id | 292 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

@@ -1,12 +1,14 @@
 ---
 title: "SE_IO"
 docKind: "library"
-libraryKey: "SE_IO-0"
-libraryName: "SE_IO"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "0"
 isSyntheticRoot: false
 typeCount: 6
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_IO-0"
+  name: "SE_IO"
+  id: "0"
 ---
 
 # SE_IO

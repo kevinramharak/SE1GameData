@@ -1,18 +1,20 @@
 ---
 title: "Trader Items"
 docKind: "type"
-libraryKey: "SE_Trade-12"
-libraryName: "SE_Trade"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "12"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Trader-Items-254"
-typeName: "Trader Items"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "254"
-sourceDebugPath: "GameDataAdapter.DataTables[190]"
 fieldsCount: 7
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Trade-12"
+  name: "SE_Trade"
+  id: "12"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Trader-Items-254"
+  name: "Trader Items"
+  id: "254"
 ---
 
 # Trader Items
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 7 |
 | Id | 254 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

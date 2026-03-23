@@ -22,7 +22,7 @@ interface ManifestEntry {
 
 function entryToSidebarItem(entry: ManifestEntry): DefaultTheme.SidebarItem {
   return {
-    text: entry.Text,
+    text: entry.Text + (entry.IdentifierValue ? ` (${entry.IdentifierValue})` : ''),
     link: entry.Link ?? undefined,
     collapsed: entry.Collapsed,
     items: entry.Items.map(entryToSidebarItem),
@@ -33,6 +33,7 @@ export default defineConfig({
   srcDir: 'docs',
   title: 'SE1 Game Data',
   description: 'Shadow Empire - Game Data Explorer',
+  base: '/SE1GameData/',
   cleanUrls: true,
   lastUpdated: true,
   router: {
@@ -47,16 +48,16 @@ export default defineConfig({
       // TODO: add dropdown menus
       { text: 'Guide', link: '/guide/shadow-empire' },
       { text: 'Reference', link: '/reference/root/' },
-      { text: 'Catalog', link: '/catalog/' },
+      { text: 'Catalog', link: '/catalog/libraries/' },
     ],
     sidebar: {
       '/guide/': [
         {
           text: 'Introduction',
           items: [
+            { text: 'SE1 Game Data', link: '/guide/what-is-se1-game-data' },
             { text: 'Shadow Empire', link: '/guide/shadow-empire' },
             { text: 'Modding', link: '/guide/modding' },
-            { text: 'SE1 Game Data', link: '/guide/what-is-se1-game-data' },
           ],
         },
         {
@@ -80,7 +81,7 @@ export default defineConfig({
       '/catalog/': [
         {
           text: 'Catalog',
-          link: '/catalog/',
+          link: '/catalog/libraries/',
           items: manifest.Catalog.map((entry) => entryToSidebarItem(entry)),
         },
       ],

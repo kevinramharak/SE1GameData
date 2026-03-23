@@ -1,18 +1,20 @@
 ---
 title: "Heavy Tank"
 docKind: "type"
-libraryKey: "root"
-libraryName: "root"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "Root"
-typeGroupKey: "sub-formation-types"
-typeGroupName: "Sub Formation Types"
-typeKey: "Heavy-Tank-20"
-typeName: "Heavy Tank"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "20"
-sourceDebugPath: "GameDataAdapter.SubFormationTypes[11]"
 fieldsCount: 1
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "root"
+  name: "root"
+  id: "Root"
+typeGroup:
+  key: "sub-formation-types"
+  name: "Sub Formation Types"
+type:
+  key: "Heavy-Tank-20"
+  name: "Heavy Tank"
+  id: "20"
 ---
 
 # Heavy Tank

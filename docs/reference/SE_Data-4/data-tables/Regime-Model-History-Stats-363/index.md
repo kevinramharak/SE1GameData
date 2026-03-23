@@ -1,18 +1,20 @@
 ---
 title: "Regime Model History Stats"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Regime-Model-History-Stats-363"
-typeName: "Regime Model History Stats"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "363"
-sourceDebugPath: "GameDataAdapter.DataTables[294]"
 fieldsCount: 3
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Regime-Model-History-Stats-363"
+  name: "Regime Model History Stats"
+  id: "363"
 ---
 
 # Regime Model History Stats
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 3 |
 | Id | 363 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

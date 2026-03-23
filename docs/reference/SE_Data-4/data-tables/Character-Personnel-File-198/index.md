@@ -1,18 +1,20 @@
 ---
 title: "Character Personnel File"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Character-Personnel-File-198"
-typeName: "Character Personnel File"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "198"
-sourceDebugPath: "GameDataAdapter.DataTables[134]"
 fieldsCount: 4
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Character-Personnel-File-198"
+  name: "Character Personnel File"
+  id: "198"
 ---
 
 # Character Personnel File
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 4 |
 | Id | 198 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

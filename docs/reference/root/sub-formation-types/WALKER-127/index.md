@@ -1,18 +1,20 @@
 ---
 title: "WALKER"
 docKind: "type"
-libraryKey: "root"
-libraryName: "root"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "Root"
-typeGroupKey: "sub-formation-types"
-typeGroupName: "Sub Formation Types"
-typeKey: "WALKER-127"
-typeName: "WALKER"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "127"
-sourceDebugPath: "GameDataAdapter.SubFormationTypes[30]"
 fieldsCount: 1
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "root"
+  name: "root"
+  id: "Root"
+typeGroup:
+  key: "sub-formation-types"
+  name: "Sub Formation Types"
+type:
+  key: "WALKER-127"
+  name: "WALKER"
+  id: "127"
 ---
 
 # WALKER

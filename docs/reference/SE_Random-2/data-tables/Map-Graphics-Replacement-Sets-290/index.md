@@ -1,18 +1,20 @@
 ---
 title: "Map Graphics Replacement Sets"
 docKind: "type"
-libraryKey: "SE_Random-2"
-libraryName: "SE_Random"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "2"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Map-Graphics-Replacement-Sets-290"
-typeName: "Map Graphics Replacement Sets"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "290"
-sourceDebugPath: "GameDataAdapter.DataTables[224]"
 fieldsCount: 11
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Random-2"
+  name: "SE_Random"
+  id: "2"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Map-Graphics-Replacement-Sets-290"
+  name: "Map Graphics Replacement Sets"
+  id: "290"
 ---
 
 # Map Graphics Replacement Sets
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 11 |
 | Id | 290 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 40 |
 
 ## Fields

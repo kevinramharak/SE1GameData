@@ -1,18 +1,20 @@
 ---
 title: "Flex Story Logic"
 docKind: "type"
-libraryKey: "SE_Crime-25"
-libraryName: "SE_Crime"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "25"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-Story-Logic-416"
-typeName: "Flex Story Logic"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "416"
-sourceDebugPath: "GameDataAdapter.DataTables[345]"
 fieldsCount: 11
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Crime-25"
+  name: "SE_Crime"
+  id: "25"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-Story-Logic-416"
+  name: "Flex Story Logic"
+  id: "416"
 ---
 
 # Flex Story Logic
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 11 |
 | Id | 416 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 144 |
 
 ## Fields

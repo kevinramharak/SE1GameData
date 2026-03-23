@@ -1,18 +1,20 @@
 ---
 title: "Tooltips Stringlist"
 docKind: "type"
-libraryKey: "SE_Crime-25"
-libraryName: "SE_Crime"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "25"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Tooltips-Stringlist-427"
-typeName: "Tooltips Stringlist"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "427"
-sourceDebugPath: "GameDataAdapter.DataTables[353]"
 fieldsCount: 5
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Crime-25"
+  name: "SE_Crime"
+  id: "25"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Tooltips-Stringlist-427"
+  name: "Tooltips Stringlist"
+  id: "427"
 ---
 
 # Tooltips Stringlist
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 5 |
 | Id | 427 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 1 |
 
 ## Fields

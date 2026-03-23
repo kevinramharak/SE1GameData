@@ -1,18 +1,20 @@
 ---
 title: "Medium Sea Prefix"
 docKind: "type"
-libraryKey: "SE_Linguistic-5"
-libraryName: "SE_Linguistic"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "5"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Medium-Sea-Prefix-220"
-typeName: "Medium Sea Prefix"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "220"
-sourceDebugPath: "GameDataAdapter.DataTables[156]"
 fieldsCount: 0
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Linguistic-5"
+  name: "SE_Linguistic"
+  id: "5"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Medium-Sea-Prefix-220"
+  name: "Medium Sea Prefix"
+  id: "220"
 ---
 
 # Medium Sea Prefix
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 0 |
 | Id | 220 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 24 |
 
 ## Fields

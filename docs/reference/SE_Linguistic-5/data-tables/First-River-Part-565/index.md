@@ -1,18 +1,20 @@
 ---
 title: "First River Part"
 docKind: "type"
-libraryKey: "SE_Linguistic-5"
-libraryName: "SE_Linguistic"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "5"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "First-River-Part-565"
-typeName: "First River Part"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "565"
-sourceDebugPath: "GameDataAdapter.DataTables[487]"
 fieldsCount: 1
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Linguistic-5"
+  name: "SE_Linguistic"
+  id: "5"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "First-River-Part-565"
+  name: "First River Part"
+  id: "565"
 ---
 
 # First River Part
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 1 |
 | Id | 565 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 92 |
 
 ## Fields

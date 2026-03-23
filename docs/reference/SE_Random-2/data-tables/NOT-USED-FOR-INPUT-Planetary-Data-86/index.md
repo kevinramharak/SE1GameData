@@ -1,18 +1,20 @@
 ---
 title: "NOT USED FOR INPUT Planetary Data"
 docKind: "type"
-libraryKey: "SE_Random-2"
-libraryName: "SE_Random"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "2"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "NOT-USED-FOR-INPUT-Planetary-Data-86"
-typeName: "NOT USED FOR INPUT Planetary Data"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "86"
-sourceDebugPath: "GameDataAdapter.DataTables[26]"
 fieldsCount: 24
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Random-2"
+  name: "SE_Random"
+  id: "2"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "NOT-USED-FOR-INPUT-Planetary-Data-86"
+  name: "NOT USED FOR INPUT Planetary Data"
+  id: "86"
 ---
 
 # NOT USED FOR INPUT Planetary Data
@@ -25,7 +27,6 @@ fieldsCount: 24
 | --- | --- |
 | ColumnCount | 24 |
 | Id | 86 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 123 |
 
 ## Fields

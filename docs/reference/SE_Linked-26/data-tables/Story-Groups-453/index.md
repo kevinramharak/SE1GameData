@@ -1,18 +1,20 @@
 ---
 title: "Story Groups"
 docKind: "type"
-libraryKey: "SE_Linked-26"
-libraryName: "SE_Linked"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "26"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Story-Groups-453"
-typeName: "Story Groups"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "453"
-sourceDebugPath: "GameDataAdapter.DataTables[378]"
 fieldsCount: 5
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Linked-26"
+  name: "SE_Linked"
+  id: "26"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Story-Groups-453"
+  name: "Story Groups"
+  id: "453"
 ---
 
 # Story Groups
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 5 |
 | Id | 453 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 2 |
 
 ## Fields

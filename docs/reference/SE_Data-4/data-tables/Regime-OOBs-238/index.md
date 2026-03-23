@@ -1,18 +1,20 @@
 ---
 title: "Regime OOBs"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Regime-OOBs-238"
-typeName: "Regime OOBs"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "238"
-sourceDebugPath: "GameDataAdapter.DataTables[174]"
 fieldsCount: 7
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Regime-OOBs-238"
+  name: "Regime OOBs"
+  id: "238"
 ---
 
 # Regime OOBs
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 7 |
 | Id | 238 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

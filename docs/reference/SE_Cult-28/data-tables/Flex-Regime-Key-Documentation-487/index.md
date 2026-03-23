@@ -1,18 +1,20 @@
 ---
 title: "Flex Regime Key Documentation"
 docKind: "type"
-libraryKey: "SE_Cult-28"
-libraryName: "SE_Cult"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "28"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-Regime-Key-Documentation-487"
-typeName: "Flex Regime Key Documentation"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "487"
-sourceDebugPath: "GameDataAdapter.DataTables[412]"
 fieldsCount: 6
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Cult-28"
+  name: "SE_Cult"
+  id: "28"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-Regime-Key-Documentation-487"
+  name: "Flex Regime Key Documentation"
+  id: "487"
 ---
 
 # Flex Regime Key Documentation
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 6 |
 | Id | 487 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 1 |
 
 ## Fields

@@ -1,18 +1,20 @@
 ---
 title: "Hex Names"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Hex-Names-382"
-typeName: "Hex Names"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "382"
-sourceDebugPath: "GameDataAdapter.DataTables[312]"
 fieldsCount: 5
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Hex-Names-382"
+  name: "Hex Names"
+  id: "382"
 ---
 
 # Hex Names
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 5 |
 | Id | 382 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

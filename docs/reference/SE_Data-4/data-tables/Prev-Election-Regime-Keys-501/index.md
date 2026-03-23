@@ -1,18 +1,20 @@
 ---
 title: "Prev Election Regime Keys"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Prev-Election-Regime-Keys-501"
-typeName: "Prev Election Regime Keys"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "501"
-sourceDebugPath: "GameDataAdapter.DataTables[426]"
 fieldsCount: 3
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Prev-Election-Regime-Keys-501"
+  name: "Prev Election Regime Keys"
+  id: "501"
 ---
 
 # Prev Election Regime Keys
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 3 |
 | Id | 501 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

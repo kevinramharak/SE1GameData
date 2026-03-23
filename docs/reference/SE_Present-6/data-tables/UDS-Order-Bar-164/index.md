@@ -1,18 +1,20 @@
 ---
 title: "UDS Order Bar"
 docKind: "type"
-libraryKey: "SE_Present-6"
-libraryName: "SE_Present"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "6"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "UDS-Order-Bar-164"
-typeName: "UDS Order Bar"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "164"
-sourceDebugPath: "GameDataAdapter.DataTables[102]"
 fieldsCount: 10
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Present-6"
+  name: "SE_Present"
+  id: "6"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "UDS-Order-Bar-164"
+  name: "UDS Order Bar"
+  id: "164"
 ---
 
 # UDS Order Bar
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 10 |
 | Id | 164 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 10 |
 
 ## Fields

@@ -1,18 +1,20 @@
 ---
 title: "Flex Asset Types"
 docKind: "type"
-libraryKey: "SE_Politics-31"
-libraryName: "SE_Politics"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "31"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-Asset-Types-588"
-typeName: "Flex Asset Types"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "588"
-sourceDebugPath: "GameDataAdapter.DataTables[510]"
 fieldsCount: 32
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Politics-31"
+  name: "SE_Politics"
+  id: "31"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-Asset-Types-588"
+  name: "Flex Asset Types"
+  id: "588"
 ---
 
 # Flex Asset Types
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 32 |
 | Id | 588 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 8 |
 
 ## Fields

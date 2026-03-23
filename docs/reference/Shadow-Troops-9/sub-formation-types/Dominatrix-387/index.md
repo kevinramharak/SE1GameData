@@ -1,18 +1,20 @@
 ---
 title: "Dominatrix"
 docKind: "type"
-libraryKey: "Shadow-Troops-9"
-libraryName: "Shadow Troops"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "9"
-typeGroupKey: "sub-formation-types"
-typeGroupName: "Sub Formation Types"
-typeKey: "Dominatrix-387"
-typeName: "Dominatrix"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "387"
-sourceDebugPath: "GameDataAdapter.SubFormationTypes[139]"
 fieldsCount: 1
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "Shadow-Troops-9"
+  name: "Shadow Troops"
+  id: "9"
+typeGroup:
+  key: "sub-formation-types"
+  name: "Sub Formation Types"
+type:
+  key: "Dominatrix-387"
+  name: "Dominatrix"
+  id: "387"
 ---
 
 # Dominatrix

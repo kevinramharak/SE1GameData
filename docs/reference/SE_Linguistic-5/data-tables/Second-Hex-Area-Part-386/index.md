@@ -1,18 +1,20 @@
 ---
 title: "Second Hex Area Part"
 docKind: "type"
-libraryKey: "SE_Linguistic-5"
-libraryName: "SE_Linguistic"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "5"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Second-Hex-Area-Part-386"
-typeName: "Second Hex Area Part"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "386"
-sourceDebugPath: "GameDataAdapter.DataTables[316]"
 fieldsCount: 1
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Linguistic-5"
+  name: "SE_Linguistic"
+  id: "5"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Second-Hex-Area-Part-386"
+  name: "Second Hex Area Part"
+  id: "386"
 ---
 
 # Second Hex Area Part
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 1 |
 | Id | 386 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 74 |
 
 ## Fields

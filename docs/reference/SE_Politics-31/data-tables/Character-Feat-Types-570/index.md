@@ -1,18 +1,20 @@
 ---
 title: "Character Feat Types"
 docKind: "type"
-libraryKey: "SE_Politics-31"
-libraryName: "SE_Politics"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "31"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Character-Feat-Types-570"
-typeName: "Character Feat Types"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "570"
-sourceDebugPath: "GameDataAdapter.DataTables[492]"
 fieldsCount: 13
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Politics-31"
+  name: "SE_Politics"
+  id: "31"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Character-Feat-Types-570"
+  name: "Character Feat Types"
+  id: "570"
 ---
 
 # Character Feat Types
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 13 |
 | Id | 570 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 68 |
 
 ## Fields

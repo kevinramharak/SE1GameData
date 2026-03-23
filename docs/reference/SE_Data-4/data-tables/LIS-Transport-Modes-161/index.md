@@ -1,18 +1,20 @@
 ---
 title: "LIS Transport Modes"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "LIS-Transport-Modes-161"
-typeName: "LIS Transport Modes"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "161"
-sourceDebugPath: "GameDataAdapter.DataTables[99]"
 fieldsCount: 4
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "LIS-Transport-Modes-161"
+  name: "LIS Transport Modes"
+  id: "161"
 ---
 
 # LIS Transport Modes
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 4 |
 | Id | 161 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 2 |
 
 ## Fields

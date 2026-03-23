@@ -1,18 +1,20 @@
 ---
 title: "Tactical Bomber"
 docKind: "type"
-libraryKey: "Shadow-Troops-9"
-libraryName: "Shadow Troops"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "9"
-typeGroupKey: "reinforcement-types"
-typeGroupName: "Reinforcement Types"
-typeKey: "Tactical-Bomber-62"
-typeName: "Tactical Bomber"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "62"
-sourceDebugPath: "DataClass.{ ReinfId, ReinfName, ReinfRatio, ReinfLibId }[32]"
 fieldsCount: 2
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "Shadow-Troops-9"
+  name: "Shadow Troops"
+  id: "9"
+typeGroup:
+  key: "reinforcement-types"
+  name: "Reinforcement Types"
+type:
+  key: "Tactical-Bomber-62"
+  name: "Tactical Bomber"
+  id: "62"
 ---
 
 # Tactical Bomber

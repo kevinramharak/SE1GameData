@@ -1,18 +1,20 @@
 ---
 title: "Story Groups"
 docKind: "type"
-libraryKey: "SE_Navy-30"
-libraryName: "SE_Navy"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "30"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Story-Groups-548"
-typeName: "Story Groups"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "548"
-sourceDebugPath: "GameDataAdapter.DataTables[470]"
 fieldsCount: 5
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Navy-30"
+  name: "SE_Navy"
+  id: "30"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Story-Groups-548"
+  name: "Story Groups"
+  id: "548"
 ---
 
 # Story Groups
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 5 |
 | Id | 548 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 5 |
 
 ## Fields

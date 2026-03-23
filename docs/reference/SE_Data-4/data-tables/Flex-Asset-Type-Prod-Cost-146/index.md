@@ -1,18 +1,20 @@
 ---
 title: "Flex Asset Type Prod Cost"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-Asset-Type-Prod-Cost-146"
-typeName: "Flex Asset Type Prod Cost"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "146"
-sourceDebugPath: "GameDataAdapter.DataTables[85]"
 fieldsCount: 5
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-Asset-Type-Prod-Cost-146"
+  name: "Flex Asset Type Prod Cost"
+  id: "146"
 ---
 
 # Flex Asset Type Prod Cost
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 5 |
 | Id | 146 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

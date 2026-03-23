@@ -1,18 +1,20 @@
 ---
 title: "Log Regime Profile Changes"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Log-Regime-Profile-Changes-257"
-typeName: "Log Regime Profile Changes"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "257"
-sourceDebugPath: "GameDataAdapter.DataTables[193]"
 fieldsCount: 3
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Log-Regime-Profile-Changes-257"
+  name: "Log Regime Profile Changes"
+  id: "257"
 ---
 
 # Log Regime Profile Changes
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 3 |
 | Id | 257 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

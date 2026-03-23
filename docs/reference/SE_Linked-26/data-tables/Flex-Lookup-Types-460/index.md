@@ -1,18 +1,20 @@
 ---
 title: "Flex Lookup Types"
 docKind: "type"
-libraryKey: "SE_Linked-26"
-libraryName: "SE_Linked"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "26"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-Lookup-Types-460"
-typeName: "Flex Lookup Types"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "460"
-sourceDebugPath: "GameDataAdapter.DataTables[385]"
 fieldsCount: 6
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Linked-26"
+  name: "SE_Linked"
+  id: "26"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-Lookup-Types-460"
+  name: "Flex Lookup Types"
+  id: "460"
 ---
 
 # Flex Lookup Types
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 6 |
 | Id | 460 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 6 |
 
 ## Fields

@@ -1,18 +1,20 @@
 ---
 title: "Colony History"
 docKind: "type"
-libraryKey: "SE_Random-2"
-libraryName: "SE_Random"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "2"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Colony-History-131"
-typeName: "Colony History"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "131"
-sourceDebugPath: "GameDataAdapter.DataTables[71]"
 fieldsCount: 2
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Random-2"
+  name: "SE_Random"
+  id: "2"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Colony-History-131"
+  name: "Colony History"
+  id: "131"
 ---
 
 # Colony History
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 2 |
 | Id | 131 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

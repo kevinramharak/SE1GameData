@@ -1,18 +1,20 @@
 ---
 title: "TOE counter"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "TOE-counter-239"
-typeName: "TOE counter"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "239"
-sourceDebugPath: "GameDataAdapter.DataTables[175]"
 fieldsCount: 2
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "TOE-counter-239"
+  name: "TOE counter"
+  id: "239"
 ---
 
 # TOE counter
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 2 |
 | Id | 239 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

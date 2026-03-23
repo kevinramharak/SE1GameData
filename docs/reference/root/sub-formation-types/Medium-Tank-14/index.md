@@ -1,18 +1,20 @@
 ---
 title: "Medium Tank"
 docKind: "type"
-libraryKey: "root"
-libraryName: "root"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "Root"
-typeGroupKey: "sub-formation-types"
-typeGroupName: "Sub Formation Types"
-typeKey: "Medium-Tank-14"
-typeName: "Medium Tank"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "14"
-sourceDebugPath: "GameDataAdapter.SubFormationTypes[8]"
 fieldsCount: 1
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "root"
+  name: "root"
+  id: "Root"
+typeGroup:
+  key: "sub-formation-types"
+  name: "Sub Formation Types"
+type:
+  key: "Medium-Tank-14"
+  name: "Medium Tank"
+  id: "14"
 ---
 
 # Medium Tank

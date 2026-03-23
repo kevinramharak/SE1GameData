@@ -1,18 +1,20 @@
 ---
 title: "Helper Regime Keys"
 docKind: "type"
-libraryKey: "SE_Corporate-27"
-libraryName: "SE_Corporate"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "27"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Helper-Regime-Keys-472"
-typeName: "Helper Regime Keys"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "472"
-sourceDebugPath: "GameDataAdapter.DataTables[397]"
 fieldsCount: 5
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Corporate-27"
+  name: "SE_Corporate"
+  id: "27"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Helper-Regime-Keys-472"
+  name: "Helper Regime Keys"
+  id: "472"
 ---
 
 # Helper Regime Keys
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 5 |
 | Id | 472 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 1 |
 
 ## Fields

@@ -1,18 +1,20 @@
 ---
 title: "Tank Drawing Instr"
 docKind: "type"
-libraryKey: "SE_Model-11"
-libraryName: "SE_Model"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "11"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Tank-Drawing-Instr-445"
-typeName: "Tank Drawing Instr"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "445"
-sourceDebugPath: "GameDataAdapter.DataTables[370]"
 fieldsCount: 25
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Model-11"
+  name: "SE_Model"
+  id: "11"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Tank-Drawing-Instr-445"
+  name: "Tank Drawing Instr"
+  id: "445"
 ---
 
 # Tank Drawing Instr
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 25 |
 | Id | 445 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 599 |
 
 ## Fields

@@ -1,18 +1,20 @@
 ---
 title: "UDS Random tab"
 docKind: "type"
-libraryKey: "SE_Random-2"
-libraryName: "SE_Random"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "2"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "UDS-Random-tab-83"
-typeName: "UDS Random tab"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "83"
-sourceDebugPath: "GameDataAdapter.DataTables[23]"
 fieldsCount: 9
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Random-2"
+  name: "SE_Random"
+  id: "2"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "UDS-Random-tab-83"
+  name: "UDS Random tab"
+  id: "83"
 ---
 
 # UDS Random tab
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 9 |
 | Id | 83 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

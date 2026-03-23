@@ -1,18 +1,20 @@
 ---
 title: "Flex Model Type SFType Stat Calcs"
 docKind: "type"
-libraryKey: "SE_Model-11"
-libraryName: "SE_Model"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "11"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-Model-Type-SFType-Stat-Calcs-245"
-typeName: "Flex Model Type SFType Stat Calcs"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "245"
-sourceDebugPath: "GameDataAdapter.DataTables[181]"
 fieldsCount: 4
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Model-11"
+  name: "SE_Model"
+  id: "11"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-Model-Type-SFType-Stat-Calcs-245"
+  name: "Flex Model Type SFType Stat Calcs"
+  id: "245"
 ---
 
 # Flex Model Type SFType Stat Calcs
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 4 |
 | Id | 245 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

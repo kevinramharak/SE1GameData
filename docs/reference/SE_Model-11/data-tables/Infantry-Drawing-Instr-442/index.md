@@ -1,18 +1,20 @@
 ---
 title: "Infantry Drawing Instr."
 docKind: "type"
-libraryKey: "SE_Model-11"
-libraryName: "SE_Model"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "11"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Infantry-Drawing-Instr-442"
-typeName: "Infantry Drawing Instr."
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "442"
-sourceDebugPath: "GameDataAdapter.DataTables[367]"
 fieldsCount: 25
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Model-11"
+  name: "SE_Model"
+  id: "11"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Infantry-Drawing-Instr-442"
+  name: "Infantry Drawing Instr."
+  id: "442"
 ---
 
 # Infantry Drawing Instr.
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 25 |
 | Id | 442 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 512 |
 
 ## Fields

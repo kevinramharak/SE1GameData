@@ -1,18 +1,20 @@
 ---
 title: "Language Based Zone Fullname"
 docKind: "type"
-libraryKey: "SE_Linguistic-5"
-libraryName: "SE_Linguistic"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "5"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Language-Based-Zone-Fullname-322"
-typeName: "Language Based Zone Fullname"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "322"
-sourceDebugPath: "GameDataAdapter.DataTables[255]"
 fieldsCount: 2
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Linguistic-5"
+  name: "SE_Linguistic"
+  id: "5"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Language-Based-Zone-Fullname-322"
+  name: "Language Based Zone Fullname"
+  id: "322"
 ---
 
 # Language Based Zone Fullname
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 2 |
 | Id | 322 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 167 |
 
 ## Fields

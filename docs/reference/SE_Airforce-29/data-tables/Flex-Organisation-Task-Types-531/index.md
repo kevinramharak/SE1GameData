@@ -1,18 +1,20 @@
 ---
 title: "Flex Organisation Task Types"
 docKind: "type"
-libraryKey: "SE_Airforce-29"
-libraryName: "SE_Airforce"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "29"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-Organisation-Task-Types-531"
-typeName: "Flex Organisation Task Types"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "531"
-sourceDebugPath: "GameDataAdapter.DataTables[453]"
 fieldsCount: 8
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Airforce-29"
+  name: "SE_Airforce"
+  id: "29"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-Organisation-Task-Types-531"
+  name: "Flex Organisation Task Types"
+  id: "531"
 ---
 
 # Flex Organisation Task Types
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 8 |
 | Id | 531 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 2 |
 
 ## Fields

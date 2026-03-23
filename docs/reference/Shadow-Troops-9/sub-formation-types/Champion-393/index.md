@@ -1,18 +1,20 @@
 ---
 title: "Champion"
 docKind: "type"
-libraryKey: "Shadow-Troops-9"
-libraryName: "Shadow Troops"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "9"
-typeGroupKey: "sub-formation-types"
-typeGroupName: "Sub Formation Types"
-typeKey: "Champion-393"
-typeName: "Champion"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "393"
-sourceDebugPath: "GameDataAdapter.SubFormationTypes[142]"
 fieldsCount: 1
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "Shadow-Troops-9"
+  name: "Shadow Troops"
+  id: "9"
+typeGroup:
+  key: "sub-formation-types"
+  name: "Sub Formation Types"
+type:
+  key: "Champion-393"
+  name: "Champion"
+  id: "393"
 ---
 
 # Champion

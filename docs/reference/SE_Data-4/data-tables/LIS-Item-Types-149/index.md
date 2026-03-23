@@ -1,18 +1,20 @@
 ---
 title: "LIS Item Types"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "LIS-Item-Types-149"
-typeName: "LIS Item Types"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "149"
-sourceDebugPath: "GameDataAdapter.DataTables[88]"
 fieldsCount: 4
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "LIS-Item-Types-149"
+  name: "LIS Item Types"
+  id: "149"
 ---
 
 # LIS Item Types
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 4 |
 | Id | 149 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 22 |
 
 ## Fields

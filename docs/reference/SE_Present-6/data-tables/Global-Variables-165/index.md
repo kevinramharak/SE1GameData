@@ -1,18 +1,20 @@
 ---
 title: "Global Variables"
 docKind: "type"
-libraryKey: "SE_Present-6"
-libraryName: "SE_Present"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "6"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Global-Variables-165"
-typeName: "Global Variables"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "165"
-sourceDebugPath: "GameDataAdapter.DataTables[103]"
 fieldsCount: 1
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Present-6"
+  name: "SE_Present"
+  id: "6"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Global-Variables-165"
+  name: "Global Variables"
+  id: "165"
 ---
 
 # Global Variables
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 1 |
 | Id | 165 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 1 |
 
 ## Fields

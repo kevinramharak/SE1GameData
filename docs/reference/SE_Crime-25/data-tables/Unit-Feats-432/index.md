@@ -1,18 +1,20 @@
 ---
 title: "Unit Feats"
 docKind: "type"
-libraryKey: "SE_Crime-25"
-libraryName: "SE_Crime"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "25"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Unit-Feats-432"
-typeName: "Unit Feats"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "432"
-sourceDebugPath: "GameDataAdapter.DataTables[357]"
 fieldsCount: 14
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Crime-25"
+  name: "SE_Crime"
+  id: "25"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Unit-Feats-432"
+  name: "Unit Feats"
+  id: "432"
 ---
 
 # Unit Feats
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 14 |
 | Id | 432 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 2 |
 
 ## Fields

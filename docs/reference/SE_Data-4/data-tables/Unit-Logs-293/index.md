@@ -1,18 +1,20 @@
 ---
 title: "Unit Logs"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Unit-Logs-293"
-typeName: "Unit Logs"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "293"
-sourceDebugPath: "GameDataAdapter.DataTables[227]"
 fieldsCount: 4
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Unit-Logs-293"
+  name: "Unit Logs"
+  id: "293"
 ---
 
 # Unit Logs
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 4 |
 | Id | 293 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

@@ -1,18 +1,20 @@
 ---
 title: "Buggy"
 docKind: "type"
-libraryKey: "root"
-libraryName: "root"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "Root"
-typeGroupKey: "sub-formation-types"
-typeGroupName: "Sub Formation Types"
-typeKey: "Buggy-125"
-typeName: "Buggy"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "125"
-sourceDebugPath: "GameDataAdapter.SubFormationTypes[29]"
 fieldsCount: 1
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "root"
+  name: "root"
+  id: "Root"
+typeGroup:
+  key: "sub-formation-types"
+  name: "Sub Formation Types"
+type:
+  key: "Buggy-125"
+  name: "Buggy"
+  id: "125"
 ---
 
 # Buggy

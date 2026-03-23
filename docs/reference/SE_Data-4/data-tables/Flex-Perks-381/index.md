@@ -1,18 +1,20 @@
 ---
 title: "Flex Perks"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-Perks-381"
-typeName: "Flex Perks"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "381"
-sourceDebugPath: "GameDataAdapter.DataTables[311]"
 fieldsCount: 14
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-Perks-381"
+  name: "Flex Perks"
+  id: "381"
 ---
 
 # Flex Perks
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 14 |
 | Id | 381 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

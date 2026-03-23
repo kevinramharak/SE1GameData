@@ -1,18 +1,20 @@
 ---
 title: "Diplomatic Story, format Beta, batch 1"
 docKind: "type"
-libraryKey: "SE_Diplomatic-15"
-libraryName: "SE_Diplomatic"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "15"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Diplomatic-Story,-format-Beta,-batch-1-283"
-typeName: "Diplomatic Story, format Beta, batch 1"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "283"
-sourceDebugPath: "GameDataAdapter.DataTables[218]"
 fieldsCount: 97
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Diplomatic-15"
+  name: "SE_Diplomatic"
+  id: "15"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Diplomatic-Story,-format-Beta,-batch-1-283"
+  name: "Diplomatic Story, format Beta, batch 1"
+  id: "283"
 ---
 
 # Diplomatic Story, format Beta, batch 1
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 97 |
 | Id | 283 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 24 |
 
 ## Fields

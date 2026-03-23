@@ -1,18 +1,20 @@
 ---
 title: "Zone Inv Orders"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Zone-Inv-Orders-564"
-typeName: "Zone Inv Orders"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "564"
-sourceDebugPath: "GameDataAdapter.DataTables[486]"
 fieldsCount: 3
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Zone-Inv-Orders-564"
+  name: "Zone Inv Orders"
+  id: "564"
 ---
 
 # Zone Inv Orders
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 3 |
 | Id | 564 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

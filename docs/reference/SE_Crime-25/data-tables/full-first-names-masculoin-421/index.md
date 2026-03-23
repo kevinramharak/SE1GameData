@@ -1,18 +1,20 @@
 ---
 title: "full first names masculoin"
 docKind: "type"
-libraryKey: "SE_Crime-25"
-libraryName: "SE_Crime"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "25"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "full-first-names-masculoin-421"
-typeName: "full first names masculoin"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "421"
-sourceDebugPath: "GameDataAdapter.DataTables[348]"
 fieldsCount: 1
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Crime-25"
+  name: "SE_Crime"
+  id: "25"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "full-first-names-masculoin-421"
+  name: "full first names masculoin"
+  id: "421"
 ---
 
 # full first names masculoin
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 1 |
 | Id | 421 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 4 |
 
 ## Fields

@@ -1,18 +1,20 @@
 ---
 title: "Story Groups"
 docKind: "type"
-libraryKey: "Story_Complex1-18"
-libraryName: "Story_Complex1"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "18"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Story-Groups-339"
-typeName: "Story Groups"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "339"
-sourceDebugPath: "GameDataAdapter.DataTables[270]"
 fieldsCount: 5
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "Story_Complex1-18"
+  name: "Story_Complex1"
+  id: "18"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Story-Groups-339"
+  name: "Story Groups"
+  id: "339"
 ---
 
 # Story Groups
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 5 |
 | Id | 339 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 7 |
 
 ## Fields

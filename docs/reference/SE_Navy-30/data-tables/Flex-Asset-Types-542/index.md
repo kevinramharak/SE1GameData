@@ -1,18 +1,20 @@
 ---
 title: "Flex Asset Types"
 docKind: "type"
-libraryKey: "SE_Navy-30"
-libraryName: "SE_Navy"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "30"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-Asset-Types-542"
-typeName: "Flex Asset Types"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "542"
-sourceDebugPath: "GameDataAdapter.DataTables[464]"
 fieldsCount: 32
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Navy-30"
+  name: "SE_Navy"
+  id: "30"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-Asset-Types-542"
+  name: "Flex Asset Types"
+  id: "542"
 ---
 
 # Flex Asset Types
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 32 |
 | Id | 542 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 9 |
 
 ## Fields

@@ -1,18 +1,20 @@
 ---
 title: "IO Temporary Stringlist #3"
 docKind: "type"
-libraryKey: "SE_IO-0"
-libraryName: "SE_IO"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "0"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "IO-Temporary-Stringlist--3-393"
-typeName: "IO Temporary Stringlist #3"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "393"
-sourceDebugPath: "GameDataAdapter.DataTables[323]"
 fieldsCount: 0
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_IO-0"
+  name: "SE_IO"
+  id: "0"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "IO-Temporary-Stringlist--3-393"
+  name: "IO Temporary Stringlist #3"
+  id: "393"
 ---
 
 # IO Temporary Stringlist #3
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 0 |
 | Id | 393 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

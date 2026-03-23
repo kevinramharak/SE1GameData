@@ -1,18 +1,20 @@
 ---
 title: "Raider Militia"
 docKind: "type"
-libraryKey: "Shadow-Troops-9"
-libraryName: "Shadow Troops"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "9"
-typeGroupKey: "sub-formation-types"
-typeGroupName: "Sub Formation Types"
-typeKey: "Raider-Militia-279"
-typeName: "Raider Militia"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "279"
-sourceDebugPath: "GameDataAdapter.SubFormationTypes[86]"
 fieldsCount: 1
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "Shadow-Troops-9"
+  name: "Shadow Troops"
+  id: "9"
+typeGroup:
+  key: "sub-formation-types"
+  name: "Sub Formation Types"
+type:
+  key: "Raider-Militia-279"
+  name: "Raider Militia"
+  id: "279"
 ---
 
 # Raider Militia

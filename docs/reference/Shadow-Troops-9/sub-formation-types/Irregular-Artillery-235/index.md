@@ -1,18 +1,20 @@
 ---
 title: "Irregular Artillery"
 docKind: "type"
-libraryKey: "Shadow-Troops-9"
-libraryName: "Shadow Troops"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "9"
-typeGroupKey: "sub-formation-types"
-typeGroupName: "Sub Formation Types"
-typeKey: "Irregular-Artillery-235"
-typeName: "Irregular Artillery"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "235"
-sourceDebugPath: "GameDataAdapter.SubFormationTypes[66]"
 fieldsCount: 1
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "Shadow-Troops-9"
+  name: "Shadow Troops"
+  id: "9"
+typeGroup:
+  key: "sub-formation-types"
+  name: "Sub Formation Types"
+type:
+  key: "Irregular-Artillery-235"
+  name: "Irregular Artillery"
+  id: "235"
 ---
 
 # Irregular Artillery

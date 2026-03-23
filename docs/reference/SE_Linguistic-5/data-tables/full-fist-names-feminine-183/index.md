@@ -1,18 +1,20 @@
 ---
 title: "full fist names feminine"
 docKind: "type"
-libraryKey: "SE_Linguistic-5"
-libraryName: "SE_Linguistic"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "5"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "full-fist-names-feminine-183"
-typeName: "full fist names feminine"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "183"
-sourceDebugPath: "GameDataAdapter.DataTables[119]"
 fieldsCount: 1
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Linguistic-5"
+  name: "SE_Linguistic"
+  id: "5"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "full-fist-names-feminine-183"
+  name: "full fist names feminine"
+  id: "183"
 ---
 
 # full fist names feminine
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 1 |
 | Id | 183 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 210 |
 
 ## Fields

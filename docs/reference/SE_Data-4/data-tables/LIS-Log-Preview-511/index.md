@@ -1,18 +1,20 @@
 ---
 title: "LIS Log Preview"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "LIS-Log-Preview-511"
-typeName: "LIS Log Preview"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "511"
-sourceDebugPath: "GameDataAdapter.DataTables[433]"
 fieldsCount: 9
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "LIS-Log-Preview-511"
+  name: "LIS Log Preview"
+  id: "511"
 ---
 
 # LIS Log Preview
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 9 |
 | Id | 511 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

@@ -1,18 +1,20 @@
 ---
 title: "Warmongers"
 docKind: "type"
-libraryKey: "Shadow-Troops-9"
-libraryName: "Shadow Troops"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "9"
-typeGroupKey: "sub-formation-types"
-typeGroupName: "Sub Formation Types"
-typeKey: "Warmongers-333"
-typeName: "Warmongers"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "333"
-sourceDebugPath: "GameDataAdapter.SubFormationTypes[112]"
 fieldsCount: 1
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "Shadow-Troops-9"
+  name: "Shadow Troops"
+  id: "9"
+typeGroup:
+  key: "sub-formation-types"
+  name: "Sub Formation Types"
+type:
+  key: "Warmongers-333"
+  name: "Warmongers"
+  id: "333"
 ---
 
 # Warmongers

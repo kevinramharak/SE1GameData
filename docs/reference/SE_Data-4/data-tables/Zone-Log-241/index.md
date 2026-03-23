@@ -1,18 +1,20 @@
 ---
 title: "Zone Log"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Zone-Log-241"
-typeName: "Zone Log"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "241"
-sourceDebugPath: "GameDataAdapter.DataTables[177]"
 fieldsCount: 2
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Zone-Log-241"
+  name: "Zone Log"
+  id: "241"
 ---
 
 # Zone Log
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 2 |
 | Id | 241 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

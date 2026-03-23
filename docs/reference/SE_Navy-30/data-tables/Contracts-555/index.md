@@ -1,18 +1,20 @@
 ---
 title: "Contracts"
 docKind: "type"
-libraryKey: "SE_Navy-30"
-libraryName: "SE_Navy"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "30"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Contracts-555"
-typeName: "Contracts"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "555"
-sourceDebugPath: "GameDataAdapter.DataTables[477]"
 fieldsCount: 12
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Navy-30"
+  name: "SE_Navy"
+  id: "30"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Contracts-555"
+  name: "Contracts"
+  id: "555"
 ---
 
 # Contracts
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 12 |
 | Id | 555 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

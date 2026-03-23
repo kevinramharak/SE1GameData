@@ -1,12 +1,14 @@
 ---
 title: "SE_Airforce"
 docKind: "library"
-libraryKey: "SE_Airforce-29"
-libraryName: "SE_Airforce"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "29"
 isSyntheticRoot: false
 typeCount: 18
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Airforce-29"
+  name: "SE_Airforce"
+  id: "29"
 ---
 
 # SE_Airforce

@@ -1,18 +1,20 @@
 ---
 title: "Flex Culture Group"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-Culture-Group-310"
-typeName: "Flex Culture Group"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "310"
-sourceDebugPath: "GameDataAdapter.DataTables[243]"
 fieldsCount: 10
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-Culture-Group-310"
+  name: "Flex Culture Group"
+  id: "310"
 ---
 
 # Flex Culture Group
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 10 |
 | Id | 310 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

@@ -1,18 +1,20 @@
 ---
 title: "LifeType Nutritional Values"
 docKind: "type"
-libraryKey: "SE_Random-2"
-libraryName: "SE_Random"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "2"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "LifeType-Nutritional-Values-106"
-typeName: "LifeType Nutritional Values"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "106"
-sourceDebugPath: "GameDataAdapter.DataTables[46]"
 fieldsCount: 2
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Random-2"
+  name: "SE_Random"
+  id: "2"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "LifeType-Nutritional-Values-106"
+  name: "LifeType Nutritional Values"
+  id: "106"
 ---
 
 # LifeType Nutritional Values
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 2 |
 | Id | 106 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 3 |
 
 ## Fields

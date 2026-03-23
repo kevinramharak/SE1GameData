@@ -1,18 +1,20 @@
 ---
 title: "Name Planetary Suffix"
 docKind: "type"
-libraryKey: "SE_Linguistic-5"
-libraryName: "SE_Linguistic"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "5"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Name-Planetary-Suffix-142"
-typeName: "Name Planetary Suffix"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "142"
-sourceDebugPath: "GameDataAdapter.DataTables[81]"
 fieldsCount: 0
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Linguistic-5"
+  name: "SE_Linguistic"
+  id: "5"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Name-Planetary-Suffix-142"
+  name: "Name Planetary Suffix"
+  id: "142"
 ---
 
 # Name Planetary Suffix
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 0 |
 | Id | 142 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 27 |
 
 ## Fields

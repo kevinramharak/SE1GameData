@@ -1,18 +1,20 @@
 ---
 title: "Medium Sea Radical"
 docKind: "type"
-libraryKey: "SE_Linguistic-5"
-libraryName: "SE_Linguistic"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "5"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Medium-Sea-Radical-223"
-typeName: "Medium Sea Radical"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "223"
-sourceDebugPath: "GameDataAdapter.DataTables[159]"
 fieldsCount: 0
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Linguistic-5"
+  name: "SE_Linguistic"
+  id: "5"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Medium-Sea-Radical-223"
+  name: "Medium Sea Radical"
+  id: "223"
 ---
 
 # Medium Sea Radical
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 0 |
 | Id | 223 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 11 |
 
 ## Fields

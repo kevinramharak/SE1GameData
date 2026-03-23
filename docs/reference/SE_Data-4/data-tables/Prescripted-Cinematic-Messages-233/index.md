@@ -1,18 +1,20 @@
 ---
 title: "Prescripted Cinematic Messages"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Prescripted-Cinematic-Messages-233"
-typeName: "Prescripted Cinematic Messages"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "233"
-sourceDebugPath: "GameDataAdapter.DataTables[169]"
 fieldsCount: 6
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Prescripted-Cinematic-Messages-233"
+  name: "Prescripted Cinematic Messages"
+  id: "233"
 ---
 
 # Prescripted Cinematic Messages
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 6 |
 | Id | 233 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 1 |
 
 ## Fields

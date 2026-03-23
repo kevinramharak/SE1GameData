@@ -1,18 +1,20 @@
 ---
 title: "full last names"
 docKind: "type"
-libraryKey: "SE_Corporate-27"
-libraryName: "SE_Corporate"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "27"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "full-last-names-470"
-typeName: "full last names"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "470"
-sourceDebugPath: "GameDataAdapter.DataTables[395]"
 fieldsCount: 1
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Corporate-27"
+  name: "SE_Corporate"
+  id: "27"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "full-last-names-470"
+  name: "full last names"
+  id: "470"
 ---
 
 # full last names
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 1 |
 | Id | 470 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

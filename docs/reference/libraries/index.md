@@ -1,7 +1,6 @@
 ---
 title: "Libraries"
 docKind: "library-index"
-libraryCount: 33
 ---
 
 # Libraries

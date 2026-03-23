@@ -1,18 +1,20 @@
 ---
 title: "Story Trigger Count"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Story-Trigger-Count-359"
-typeName: "Story Trigger Count"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "359"
-sourceDebugPath: "GameDataAdapter.DataTables[290]"
 fieldsCount: 7
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Story-Trigger-Count-359"
+  name: "Story Trigger Count"
+  id: "359"
 ---
 
 # Story Trigger Count
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 7 |
 | Id | 359 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

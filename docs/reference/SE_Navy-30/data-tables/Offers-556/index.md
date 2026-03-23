@@ -1,18 +1,20 @@
 ---
 title: "Offers"
 docKind: "type"
-libraryKey: "SE_Navy-30"
-libraryName: "SE_Navy"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "30"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Offers-556"
-typeName: "Offers"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "556"
-sourceDebugPath: "GameDataAdapter.DataTables[478]"
 fieldsCount: 10
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Navy-30"
+  name: "SE_Navy"
+  id: "30"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Offers-556"
+  name: "Offers"
+  id: "556"
 ---
 
 # Offers
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 10 |
 | Id | 556 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

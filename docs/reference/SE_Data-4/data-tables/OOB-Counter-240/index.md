@@ -1,18 +1,20 @@
 ---
 title: "OOB Counter"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "OOB-Counter-240"
-typeName: "OOB Counter"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "240"
-sourceDebugPath: "GameDataAdapter.DataTables[176]"
 fieldsCount: 2
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "OOB-Counter-240"
+  name: "OOB Counter"
+  id: "240"
 ---
 
 # OOB Counter
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 2 |
 | Id | 240 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

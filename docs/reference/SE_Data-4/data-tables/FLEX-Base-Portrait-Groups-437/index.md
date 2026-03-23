@@ -1,18 +1,20 @@
 ---
 title: "FLEX Base Portrait Groups"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "FLEX-Base-Portrait-Groups-437"
-typeName: "FLEX Base Portrait Groups"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "437"
-sourceDebugPath: "GameDataAdapter.DataTables[362]"
 fieldsCount: 10
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "FLEX-Base-Portrait-Groups-437"
+  name: "FLEX Base Portrait Groups"
+  id: "437"
 ---
 
 # FLEX Base Portrait Groups
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 10 |
 | Id | 437 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

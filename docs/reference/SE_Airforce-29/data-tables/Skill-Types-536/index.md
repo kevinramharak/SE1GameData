@@ -1,18 +1,20 @@
 ---
 title: "Skill Types"
 docKind: "type"
-libraryKey: "SE_Airforce-29"
-libraryName: "SE_Airforce"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "29"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Skill-Types-536"
-typeName: "Skill Types"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "536"
-sourceDebugPath: "GameDataAdapter.DataTables[458]"
 fieldsCount: 15
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Airforce-29"
+  name: "SE_Airforce"
+  id: "29"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Skill-Types-536"
+  name: "Skill Types"
+  id: "536"
 ---
 
 # Skill Types
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 15 |
 | Id | 536 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 6 |
 
 ## Fields

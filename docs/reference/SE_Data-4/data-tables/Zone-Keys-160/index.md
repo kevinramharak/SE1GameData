@@ -1,18 +1,20 @@
 ---
 title: "Zone Keys"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Zone-Keys-160"
-typeName: "Zone Keys"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "160"
-sourceDebugPath: "GameDataAdapter.DataTables[98]"
 fieldsCount: 2
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Zone-Keys-160"
+  name: "Zone Keys"
+  id: "160"
 ---
 
 # Zone Keys
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 2 |
 | Id | 160 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

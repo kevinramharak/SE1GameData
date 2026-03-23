@@ -1,18 +1,20 @@
 ---
 title: "Danger Story, Epsilon Format 1"
 docKind: "type"
-libraryKey: "Story_Unrest-20"
-libraryName: "Story_Unrest"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "20"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Danger-Story,-Epsilon-Format-1-355"
-typeName: "Danger Story, Epsilon Format 1"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "355"
-sourceDebugPath: "GameDataAdapter.DataTables[286]"
 fieldsCount: 82
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "Story_Unrest-20"
+  name: "Story_Unrest"
+  id: "20"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Danger-Story,-Epsilon-Format-1-355"
+  name: "Danger Story, Epsilon Format 1"
+  id: "355"
 ---
 
 # Danger Story, Epsilon Format 1
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 82 |
 | Id | 355 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 46 |
 
 ## Fields

@@ -1,12 +1,14 @@
 ---
 title: "SE_Present"
 docKind: "library"
-libraryKey: "SE_Present-6"
-libraryName: "SE_Present"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "6"
 isSyntheticRoot: false
 typeCount: 5
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Present-6"
+  name: "SE_Present"
+  id: "6"
 ---
 
 # SE_Present

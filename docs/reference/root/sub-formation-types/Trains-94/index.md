@@ -1,18 +1,20 @@
 ---
 title: "Trains"
 docKind: "type"
-libraryKey: "root"
-libraryName: "root"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "Root"
-typeGroupKey: "sub-formation-types"
-typeGroupName: "Sub Formation Types"
-typeKey: "Trains-94"
-typeName: "Trains"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "94"
-sourceDebugPath: "GameDataAdapter.SubFormationTypes[24]"
 fieldsCount: 1
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "root"
+  name: "root"
+  id: "Root"
+typeGroup:
+  key: "sub-formation-types"
+  name: "Sub Formation Types"
+type:
+  key: "Trains-94"
+  name: "Trains"
+  id: "94"
 ---
 
 # Trains

@@ -1,12 +1,14 @@
 ---
 title: "Shadow Troops"
 docKind: "library"
-libraryKey: "Shadow-Troops-9"
-libraryName: "Shadow Troops"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "9"
 isSyntheticRoot: false
 typeCount: 130
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "Shadow-Troops-9"
+  name: "Shadow Troops"
+  id: "9"
 ---
 
 # Shadow Troops

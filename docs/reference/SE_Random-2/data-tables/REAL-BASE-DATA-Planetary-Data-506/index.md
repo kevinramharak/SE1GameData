@@ -1,18 +1,20 @@
 ---
 title: "REAL BASE DATA Planetary Data"
 docKind: "type"
-libraryKey: "SE_Random-2"
-libraryName: "SE_Random"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "2"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "REAL-BASE-DATA-Planetary-Data-506"
-typeName: "REAL BASE DATA Planetary Data"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "506"
-sourceDebugPath: "GameDataAdapter.DataTables[431]"
 fieldsCount: 24
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Random-2"
+  name: "SE_Random"
+  id: "2"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "REAL-BASE-DATA-Planetary-Data-506"
+  name: "REAL BASE DATA Planetary Data"
+  id: "506"
 ---
 
 # REAL BASE DATA Planetary Data
@@ -25,7 +27,6 @@ fieldsCount: 24
 | --- | --- |
 | ColumnCount | 24 |
 | Id | 506 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 123 |
 
 ## Fields

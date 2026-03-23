@@ -1,18 +1,20 @@
 ---
 title: "Char name prefix"
 docKind: "type"
-libraryKey: "SE_Linguistic-5"
-libraryName: "SE_Linguistic"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "5"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Char-name-prefix-173"
-typeName: "Char name prefix"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "173"
-sourceDebugPath: "GameDataAdapter.DataTables[111]"
 fieldsCount: 0
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Linguistic-5"
+  name: "SE_Linguistic"
+  id: "5"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Char-name-prefix-173"
+  name: "Char name prefix"
+  id: "173"
 ---
 
 # Char name prefix
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 0 |
 | Id | 173 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 25 |
 
 ## Fields

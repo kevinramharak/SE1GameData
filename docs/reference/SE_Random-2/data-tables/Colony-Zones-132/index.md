@@ -1,18 +1,20 @@
 ---
 title: "Colony Zones"
 docKind: "type"
-libraryKey: "SE_Random-2"
-libraryName: "SE_Random"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "2"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Colony-Zones-132"
-typeName: "Colony Zones"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "132"
-sourceDebugPath: "GameDataAdapter.DataTables[72]"
 fieldsCount: 20
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Random-2"
+  name: "SE_Random"
+  id: "2"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Colony-Zones-132"
+  name: "Colony Zones"
+  id: "132"
 ---
 
 # Colony Zones
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 20 |
 | Id | 132 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

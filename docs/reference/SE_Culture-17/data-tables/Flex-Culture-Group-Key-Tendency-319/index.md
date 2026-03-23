@@ -1,18 +1,20 @@
 ---
 title: "Flex Culture Group Key Tendency"
 docKind: "type"
-libraryKey: "SE_Culture-17"
-libraryName: "SE_Culture"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "17"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-Culture-Group-Key-Tendency-319"
-typeName: "Flex Culture Group Key Tendency"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "319"
-sourceDebugPath: "GameDataAdapter.DataTables[252]"
 fieldsCount: 4
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Culture-17"
+  name: "SE_Culture"
+  id: "17"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-Culture-Group-Key-Tendency-319"
+  name: "Flex Culture Group Key Tendency"
+  id: "319"
 ---
 
 # Flex Culture Group Key Tendency
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 4 |
 | Id | 319 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 97 |
 
 ## Fields

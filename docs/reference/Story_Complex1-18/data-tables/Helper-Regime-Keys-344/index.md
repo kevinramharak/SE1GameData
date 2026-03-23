@@ -1,18 +1,20 @@
 ---
 title: "Helper Regime Keys"
 docKind: "type"
-libraryKey: "Story_Complex1-18"
-libraryName: "Story_Complex1"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "18"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Helper-Regime-Keys-344"
-typeName: "Helper Regime Keys"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "344"
-sourceDebugPath: "GameDataAdapter.DataTables[275]"
 fieldsCount: 4
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "Story_Complex1-18"
+  name: "Story_Complex1"
+  id: "18"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Helper-Regime-Keys-344"
+  name: "Helper Regime Keys"
+  id: "344"
 ---
 
 # Helper Regime Keys
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 4 |
 | Id | 344 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

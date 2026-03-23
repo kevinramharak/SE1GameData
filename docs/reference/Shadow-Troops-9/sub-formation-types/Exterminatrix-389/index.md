@@ -1,18 +1,20 @@
 ---
 title: "Exterminatrix"
 docKind: "type"
-libraryKey: "Shadow-Troops-9"
-libraryName: "Shadow Troops"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "9"
-typeGroupKey: "sub-formation-types"
-typeGroupName: "Sub Formation Types"
-typeKey: "Exterminatrix-389"
-typeName: "Exterminatrix"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "389"
-sourceDebugPath: "GameDataAdapter.SubFormationTypes[140]"
 fieldsCount: 1
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "Shadow-Troops-9"
+  name: "Shadow Troops"
+  id: "9"
+typeGroup:
+  key: "sub-formation-types"
+  name: "Sub Formation Types"
+type:
+  key: "Exterminatrix-389"
+  name: "Exterminatrix"
+  id: "389"
 ---
 
 # Exterminatrix

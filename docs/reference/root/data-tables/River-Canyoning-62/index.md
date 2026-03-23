@@ -1,18 +1,20 @@
 ---
 title: "River Canyoning"
 docKind: "type"
-libraryKey: "root"
-libraryName: "root"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "Root"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "River-Canyoning-62"
-typeName: "River Canyoning"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "62"
-sourceDebugPath: "GameDataAdapter.DataTables[4]"
 fieldsCount: 2
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "root"
+  name: "root"
+  id: "Root"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "River-Canyoning-62"
+  name: "River Canyoning"
+  id: "62"
 ---
 
 # River Canyoning
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 2 |
 | Id | 62 |
-| IsEditableInSimpleEditor | False |
 | RowCount | 0 |
 
 ## Fields

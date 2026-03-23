@@ -1,18 +1,20 @@
 ---
 title: "Regime Symbols"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Regime-Symbols-327"
-typeName: "Regime Symbols"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "327"
-sourceDebugPath: "GameDataAdapter.DataTables[260]"
 fieldsCount: 2
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Regime-Symbols-327"
+  name: "Regime Symbols"
+  id: "327"
 ---
 
 # Regime Symbols
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 2 |
 | Id | 327 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 30 |
 
 ## Fields

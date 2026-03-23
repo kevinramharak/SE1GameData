@@ -1,18 +1,20 @@
 ---
 title: "Flex Tech Type Groups"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-Tech-Type-Groups-443"
-typeName: "Flex Tech Type Groups"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "443"
-sourceDebugPath: "GameDataAdapter.DataTables[368]"
 fieldsCount: 6
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-Tech-Type-Groups-443"
+  name: "Flex Tech Type Groups"
+  id: "443"
 ---
 
 # Flex Tech Type Groups
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 6 |
 | Id | 443 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

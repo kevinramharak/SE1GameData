@@ -1,18 +1,20 @@
 ---
 title: "FLEX action card target logic"
 docKind: "type"
-libraryKey: "SE_Linked-26"
-libraryName: "SE_Linked"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "26"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "FLEX-action-card-target-logic-463"
-typeName: "FLEX action card target logic"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "463"
-sourceDebugPath: "GameDataAdapter.DataTables[388]"
 fieldsCount: 4
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Linked-26"
+  name: "SE_Linked"
+  id: "26"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "FLEX-action-card-target-logic-463"
+  name: "FLEX action card target logic"
+  id: "463"
 ---
 
 # FLEX action card target logic
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 4 |
 | Id | 463 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 1 |
 
 ## Fields

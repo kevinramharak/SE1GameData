@@ -1,12 +1,14 @@
 ---
 title: "SE_Trade"
 docKind: "library"
-libraryKey: "SE_Trade-12"
-libraryName: "SE_Trade"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "12"
 isSyntheticRoot: false
 typeCount: 7
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Trade-12"
+  name: "SE_Trade"
+  id: "12"
 ---
 
 # SE_Trade

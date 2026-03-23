@@ -1,18 +1,20 @@
 ---
 title: "Asset prefix 1"
 docKind: "type"
-libraryKey: "SE_Linguistic-5"
-libraryName: "SE_Linguistic"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "5"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Asset-prefix-1-213"
-typeName: "Asset prefix 1"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "213"
-sourceDebugPath: "GameDataAdapter.DataTables[149]"
 fieldsCount: 0
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Linguistic-5"
+  name: "SE_Linguistic"
+  id: "5"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Asset-prefix-1-213"
+  name: "Asset prefix 1"
+  id: "213"
 ---
 
 # Asset prefix 1
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 0 |
 | Id | 213 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 10 |
 
 ## Fields

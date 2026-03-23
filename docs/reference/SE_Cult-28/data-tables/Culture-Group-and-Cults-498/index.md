@@ -1,18 +1,20 @@
 ---
 title: "Culture Group and Cults"
 docKind: "type"
-libraryKey: "SE_Cult-28"
-libraryName: "SE_Cult"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "28"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Culture-Group-and-Cults-498"
-typeName: "Culture Group and Cults"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "498"
-sourceDebugPath: "GameDataAdapter.DataTables[423]"
 fieldsCount: 7
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Cult-28"
+  name: "SE_Cult"
+  id: "28"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Culture-Group-and-Cults-498"
+  name: "Culture Group and Cults"
+  id: "498"
 ---
 
 # Culture Group and Cults
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 7 |
 | Id | 498 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 16 |
 
 ## Fields

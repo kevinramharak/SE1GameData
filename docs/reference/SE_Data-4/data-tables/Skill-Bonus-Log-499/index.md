@@ -1,18 +1,20 @@
 ---
 title: "Skill Bonus Log"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Skill-Bonus-Log-499"
-typeName: "Skill Bonus Log"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "499"
-sourceDebugPath: "GameDataAdapter.DataTables[424]"
 fieldsCount: 9
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Skill-Bonus-Log-499"
+  name: "Skill Bonus Log"
+  id: "499"
 ---
 
 # Skill Bonus Log
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 9 |
 | Id | 499 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

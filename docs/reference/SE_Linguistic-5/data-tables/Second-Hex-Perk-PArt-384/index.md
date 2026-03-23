@@ -1,18 +1,20 @@
 ---
 title: "Second Hex Perk PArt"
 docKind: "type"
-libraryKey: "SE_Linguistic-5"
-libraryName: "SE_Linguistic"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "5"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Second-Hex-Perk-PArt-384"
-typeName: "Second Hex Perk PArt"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "384"
-sourceDebugPath: "GameDataAdapter.DataTables[314]"
 fieldsCount: 1
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Linguistic-5"
+  name: "SE_Linguistic"
+  id: "5"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Second-Hex-Perk-PArt-384"
+  name: "Second Hex Perk PArt"
+  id: "384"
 ---
 
 # Second Hex Perk PArt
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 1 |
 | Id | 384 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 124 |
 
 ## Fields

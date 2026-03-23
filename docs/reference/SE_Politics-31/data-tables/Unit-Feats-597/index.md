@@ -1,18 +1,20 @@
 ---
 title: "Unit Feats"
 docKind: "type"
-libraryKey: "SE_Politics-31"
-libraryName: "SE_Politics"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "31"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Unit-Feats-597"
-typeName: "Unit Feats"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "597"
-sourceDebugPath: "GameDataAdapter.DataTables[519]"
 fieldsCount: 14
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Politics-31"
+  name: "SE_Politics"
+  id: "31"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Unit-Feats-597"
+  name: "Unit Feats"
+  id: "597"
 ---
 
 # Unit Feats
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 14 |
 | Id | 597 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 24 |
 
 ## Fields

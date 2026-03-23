@@ -1,18 +1,20 @@
 ---
 title: "101 - 104 : Various Complex Stories"
 docKind: "type"
-libraryKey: "Story_Complex1-18"
-libraryName: "Story_Complex1"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "18"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "101---104---Various-Complex-Stories-337"
-typeName: "101 - 104 : Various Complex Stories"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "337"
-sourceDebugPath: "GameDataAdapter.DataTables[268]"
 fieldsCount: 134
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "Story_Complex1-18"
+  name: "Story_Complex1"
+  id: "18"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "101---104---Various-Complex-Stories-337"
+  name: "101 - 104 : Various Complex Stories"
+  id: "337"
 ---
 
 # 101 - 104 : Various Complex Stories
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 134 |
 | Id | 337 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 36 |
 
 ## Fields

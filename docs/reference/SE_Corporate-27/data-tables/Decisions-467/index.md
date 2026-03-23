@@ -1,18 +1,20 @@
 ---
 title: "Decisions"
 docKind: "type"
-libraryKey: "SE_Corporate-27"
-libraryName: "SE_Corporate"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "27"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Decisions-467"
-typeName: "Decisions"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "467"
-sourceDebugPath: "GameDataAdapter.DataTables[392]"
 fieldsCount: 134
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Corporate-27"
+  name: "SE_Corporate"
+  id: "27"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Decisions-467"
+  name: "Decisions"
+  id: "467"
 ---
 
 # Decisions
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 134 |
 | Id | 467 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 9 |
 
 ## Fields

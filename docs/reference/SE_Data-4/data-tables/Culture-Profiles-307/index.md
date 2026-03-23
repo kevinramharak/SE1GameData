@@ -1,18 +1,20 @@
 ---
 title: "Culture Profiles"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Culture-Profiles-307"
-typeName: "Culture Profiles"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "307"
-sourceDebugPath: "GameDataAdapter.DataTables[240]"
 fieldsCount: 2
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Culture-Profiles-307"
+  name: "Culture Profiles"
+  id: "307"
 ---
 
 # Culture Profiles
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 2 |
 | Id | 307 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

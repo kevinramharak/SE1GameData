@@ -1,18 +1,20 @@
 ---
 title: "n/a"
 docKind: "type"
-libraryKey: "root"
-libraryName: "root"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "Root"
-typeGroupKey: "sub-formation-types"
-typeGroupName: "Sub Formation Types"
-typeKey: "n-a-124"
-typeName: "n/a"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "124"
-sourceDebugPath: "GameDataAdapter.SubFormationTypes[28]"
 fieldsCount: 1
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "root"
+  name: "root"
+  id: "Root"
+typeGroup:
+  key: "sub-formation-types"
+  name: "Sub Formation Types"
+type:
+  key: "n-a-124"
+  name: "n/a"
+  id: "124"
 ---
 
 # n/a

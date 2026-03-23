@@ -1,18 +1,20 @@
 ---
 title: "Respiration Types"
 docKind: "type"
-libraryKey: "SE_Random-2"
-libraryName: "SE_Random"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "2"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Respiration-Types-109"
-typeName: "Respiration Types"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "109"
-sourceDebugPath: "GameDataAdapter.DataTables[49]"
 fieldsCount: 8
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Random-2"
+  name: "SE_Random"
+  id: "2"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Respiration-Types-109"
+  name: "Respiration Types"
+  id: "109"
 ---
 
 # Respiration Types
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 8 |
 | Id | 109 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 6 |
 
 ## Fields

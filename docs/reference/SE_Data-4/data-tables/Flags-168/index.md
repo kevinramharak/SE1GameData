@@ -1,18 +1,20 @@
 ---
 title: "Flags"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flags-168"
-typeName: "Flags"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "168"
-sourceDebugPath: "GameDataAdapter.DataTables[106]"
 fieldsCount: 7
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flags-168"
+  name: "Flags"
+  id: "168"
 ---
 
 # Flags
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 7 |
 | Id | 168 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 48 |
 
 ## Fields

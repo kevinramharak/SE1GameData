@@ -1,12 +1,14 @@
 ---
 title: "SE_Politics"
 docKind: "library"
-libraryKey: "SE_Politics-31"
-libraryName: "SE_Politics"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "31"
 isSyntheticRoot: false
 typeCount: 32
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Politics-31"
+  name: "SE_Politics"
+  id: "31"
 ---
 
 # SE_Politics

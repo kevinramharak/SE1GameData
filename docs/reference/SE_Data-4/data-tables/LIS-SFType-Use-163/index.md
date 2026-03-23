@@ -1,18 +1,20 @@
 ---
 title: "LIS SFType Use"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "LIS-SFType-Use-163"
-typeName: "LIS SFType Use"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "163"
-sourceDebugPath: "GameDataAdapter.DataTables[101]"
 fieldsCount: 5
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "LIS-SFType-Use-163"
+  name: "LIS SFType Use"
+  id: "163"
 ---
 
 # LIS SFType Use
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 5 |
 | Id | 163 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

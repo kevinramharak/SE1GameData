@@ -1,18 +1,20 @@
 ---
 title: "Flex Organisation Types"
 docKind: "type"
-libraryKey: "SE_Airforce-29"
-libraryName: "SE_Airforce"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "29"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-Organisation-Types-530"
-typeName: "Flex Organisation Types"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "530"
-sourceDebugPath: "GameDataAdapter.DataTables[452]"
 fieldsCount: 8
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Airforce-29"
+  name: "SE_Airforce"
+  id: "29"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-Organisation-Types-530"
+  name: "Flex Organisation Types"
+  id: "530"
 ---
 
 # Flex Organisation Types
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 8 |
 | Id | 530 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 1 |
 
 ## Fields

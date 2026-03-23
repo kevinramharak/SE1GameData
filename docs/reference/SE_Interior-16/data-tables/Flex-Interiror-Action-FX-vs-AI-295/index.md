@@ -1,18 +1,20 @@
 ---
 title: "Flex Interiror Action FX vs AI"
 docKind: "type"
-libraryKey: "SE_Interior-16"
-libraryName: "SE_Interior"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "16"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-Interiror-Action-FX-vs-AI-295"
-typeName: "Flex Interiror Action FX vs AI"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "295"
-sourceDebugPath: "GameDataAdapter.DataTables[229]"
 fieldsCount: 7
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Interior-16"
+  name: "SE_Interior"
+  id: "16"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-Interiror-Action-FX-vs-AI-295"
+  name: "Flex Interiror Action FX vs AI"
+  id: "295"
 ---
 
 # Flex Interiror Action FX vs AI
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 7 |
 | Id | 295 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 32 |
 
 ## Fields

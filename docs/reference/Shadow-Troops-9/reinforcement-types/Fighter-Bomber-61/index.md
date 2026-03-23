@@ -1,18 +1,20 @@
 ---
 title: "Fighter-Bomber"
 docKind: "type"
-libraryKey: "Shadow-Troops-9"
-libraryName: "Shadow Troops"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "9"
-typeGroupKey: "reinforcement-types"
-typeGroupName: "Reinforcement Types"
-typeKey: "Fighter-Bomber-61"
-typeName: "Fighter-Bomber"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "61"
-sourceDebugPath: "DataClass.{ ReinfId, ReinfName, ReinfRatio, ReinfLibId }[31]"
 fieldsCount: 2
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "Shadow-Troops-9"
+  name: "Shadow Troops"
+  id: "9"
+typeGroup:
+  key: "reinforcement-types"
+  name: "Reinforcement Types"
+type:
+  key: "Fighter-Bomber-61"
+  name: "Fighter-Bomber"
+  id: "61"
 ---
 
 # Fighter-Bomber

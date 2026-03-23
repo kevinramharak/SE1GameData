@@ -1,18 +1,20 @@
 ---
 title: "Flex Asset Type Construction Cost"
 docKind: "type"
-libraryKey: "SE_Airforce-29"
-libraryName: "SE_Airforce"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "29"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-Asset-Type-Construction-Cost-528"
-typeName: "Flex Asset Type Construction Cost"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "528"
-sourceDebugPath: "GameDataAdapter.DataTables[450]"
 fieldsCount: 3
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Airforce-29"
+  name: "SE_Airforce"
+  id: "29"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-Asset-Type-Construction-Cost-528"
+  name: "Flex Asset Type Construction Cost"
+  id: "528"
 ---
 
 # Flex Asset Type Construction Cost
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 3 |
 | Id | 528 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 21 |
 
 ## Fields

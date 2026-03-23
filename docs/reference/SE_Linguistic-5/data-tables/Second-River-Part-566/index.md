@@ -1,18 +1,20 @@
 ---
 title: "Second River Part"
 docKind: "type"
-libraryKey: "SE_Linguistic-5"
-libraryName: "SE_Linguistic"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "5"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Second-River-Part-566"
-typeName: "Second River Part"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "566"
-sourceDebugPath: "GameDataAdapter.DataTables[488]"
 fieldsCount: 1
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Linguistic-5"
+  name: "SE_Linguistic"
+  id: "5"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Second-River-Part-566"
+  name: "Second River Part"
+  id: "566"
 ---
 
 # Second River Part
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 1 |
 | Id | 566 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 16 |
 
 ## Fields

@@ -1,18 +1,20 @@
 ---
 title: "Flex Model Type Choices"
 docKind: "type"
-libraryKey: "SE_Model-11"
-libraryName: "SE_Model"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "11"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-Model-Type-Choices-248"
-typeName: "Flex Model Type Choices"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "248"
-sourceDebugPath: "GameDataAdapter.DataTables[184]"
 fieldsCount: 12
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Model-11"
+  name: "SE_Model"
+  id: "11"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-Model-Type-Choices-248"
+  name: "Flex Model Type Choices"
+  id: "248"
 ---
 
 # Flex Model Type Choices
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 12 |
 | Id | 248 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 131 |
 
 ## Fields

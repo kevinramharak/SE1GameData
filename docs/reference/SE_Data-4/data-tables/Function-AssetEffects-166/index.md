@@ -1,18 +1,20 @@
 ---
 title: "Function AssetEffects"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Function-AssetEffects-166"
-typeName: "Function AssetEffects"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "166"
-sourceDebugPath: "GameDataAdapter.DataTables[104]"
 fieldsCount: 7
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Function-AssetEffects-166"
+  name: "Function AssetEffects"
+  id: "166"
 ---
 
 # Function AssetEffects
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 7 |
 | Id | 166 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

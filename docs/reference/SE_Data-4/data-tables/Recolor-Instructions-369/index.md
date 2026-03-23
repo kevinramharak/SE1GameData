@@ -1,18 +1,20 @@
 ---
 title: "Recolor Instructions"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Recolor-Instructions-369"
-typeName: "Recolor Instructions"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "369"
-sourceDebugPath: "GameDataAdapter.DataTables[300]"
 fieldsCount: 8
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Recolor-Instructions-369"
+  name: "Recolor Instructions"
+  id: "369"
 ---
 
 # Recolor Instructions
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 8 |
 | Id | 369 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 192 |
 
 ## Fields

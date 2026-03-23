@@ -1,18 +1,20 @@
 ---
 title: "Flex Model Graphics"
 docKind: "type"
-libraryKey: "SE_Model-11"
-libraryName: "SE_Model"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "11"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-Model-Graphics-330"
-typeName: "Flex Model Graphics"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "330"
-sourceDebugPath: "GameDataAdapter.DataTables[263]"
 fieldsCount: 5
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Model-11"
+  name: "SE_Model"
+  id: "11"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-Model-Graphics-330"
+  name: "Flex Model Graphics"
+  id: "330"
 ---
 
 # Flex Model Graphics
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 5 |
 | Id | 330 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 33 |
 
 ## Fields

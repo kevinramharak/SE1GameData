@@ -1,18 +1,20 @@
 ---
 title: "Trade Regions"
 docKind: "type"
-libraryKey: "SE_Trade-12"
-libraryName: "SE_Trade"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "12"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Trade-Regions-252"
-typeName: "Trade Regions"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "252"
-sourceDebugPath: "GameDataAdapter.DataTables[188]"
 fieldsCount: 12
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Trade-12"
+  name: "SE_Trade"
+  id: "12"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Trade-Regions-252"
+  name: "Trade Regions"
+  id: "252"
 ---
 
 # Trade Regions
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 12 |
 | Id | 252 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

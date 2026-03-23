@@ -1,18 +1,20 @@
 ---
 title: "Tooltips Stringlist"
 docKind: "type"
-libraryKey: "SE_Politics-31"
-libraryName: "SE_Politics"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "31"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Tooltips-Stringlist-600"
-typeName: "Tooltips Stringlist"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "600"
-sourceDebugPath: "GameDataAdapter.DataTables[522]"
 fieldsCount: 5
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Politics-31"
+  name: "SE_Politics"
+  id: "31"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Tooltips-Stringlist-600"
+  name: "Tooltips Stringlist"
+  id: "600"
 ---
 
 # Tooltips Stringlist
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 5 |
 | Id | 600 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 54 |
 
 ## Fields

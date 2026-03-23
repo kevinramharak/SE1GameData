@@ -1,18 +1,20 @@
 ---
 title: "Flex Fate Actions"
 docKind: "type"
-libraryKey: "SE_Fate-21"
-libraryName: "SE_Fate"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "21"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-Fate-Actions-373"
-typeName: "Flex Fate Actions"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "373"
-sourceDebugPath: "GameDataAdapter.DataTables[304]"
 fieldsCount: 19
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Fate-21"
+  name: "SE_Fate"
+  id: "21"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-Fate-Actions-373"
+  name: "Flex Fate Actions"
+  id: "373"
 ---
 
 # Flex Fate Actions
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 19 |
 | Id | 373 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 150 |
 
 ## Fields

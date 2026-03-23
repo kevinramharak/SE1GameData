@@ -1,18 +1,20 @@
 ---
 title: "Flex Diplomatic Action FX vs AI"
 docKind: "type"
-libraryKey: "SE_Crime-25"
-libraryName: "SE_Crime"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "25"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-Diplomatic-Action-FX-vs-AI-430"
-typeName: "Flex Diplomatic Action FX vs AI"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "430"
-sourceDebugPath: "GameDataAdapter.DataTables[355]"
 fieldsCount: 8
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Crime-25"
+  name: "SE_Crime"
+  id: "25"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-Diplomatic-Action-FX-vs-AI-430"
+  name: "Flex Diplomatic Action FX vs AI"
+  id: "430"
 ---
 
 # Flex Diplomatic Action FX vs AI
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 8 |
 | Id | 430 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 44 |
 
 ## Fields

@@ -1,18 +1,20 @@
 ---
 title: "Helper Regime Feat Types"
 docKind: "type"
-libraryKey: "SE_Politics-31"
-libraryName: "SE_Politics"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "31"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Helper-Regime-Feat-Types-586"
-typeName: "Helper Regime Feat Types"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "586"
-sourceDebugPath: "GameDataAdapter.DataTables[508]"
 fieldsCount: 23
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Politics-31"
+  name: "SE_Politics"
+  id: "31"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Helper-Regime-Feat-Types-586"
+  name: "Helper Regime Feat Types"
+  id: "586"
 ---
 
 # Helper Regime Feat Types
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 23 |
 | Id | 586 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 66 |
 
 ## Fields

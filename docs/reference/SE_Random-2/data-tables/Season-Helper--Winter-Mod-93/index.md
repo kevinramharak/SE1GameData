@@ -1,18 +1,20 @@
 ---
 title: "Season Helper: Winter Mod"
 docKind: "type"
-libraryKey: "SE_Random-2"
-libraryName: "SE_Random"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "2"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Season-Helper--Winter-Mod-93"
-typeName: "Season Helper: Winter Mod"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "93"
-sourceDebugPath: "GameDataAdapter.DataTables[33]"
 fieldsCount: 16
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Random-2"
+  name: "SE_Random"
+  id: "2"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Season-Helper--Winter-Mod-93"
+  name: "Season Helper: Winter Mod"
+  id: "93"
 ---
 
 # Season Helper: Winter Mod
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 16 |
 | Id | 93 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 17 |
 
 ## Fields

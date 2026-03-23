@@ -1,18 +1,20 @@
 ---
 title: "Flex Regular Story Text"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-Regular-Story-Text-260"
-typeName: "Flex Regular Story Text"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "260"
-sourceDebugPath: "GameDataAdapter.DataTables[195]"
 fieldsCount: 5
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-Regular-Story-Text-260"
+  name: "Flex Regular Story Text"
+  id: "260"
 ---
 
 # Flex Regular Story Text
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 5 |
 | Id | 260 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

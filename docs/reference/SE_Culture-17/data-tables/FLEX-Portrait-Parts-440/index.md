@@ -1,18 +1,20 @@
 ---
 title: "FLEX Portrait Parts"
 docKind: "type"
-libraryKey: "SE_Culture-17"
-libraryName: "SE_Culture"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "17"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "FLEX-Portrait-Parts-440"
-typeName: "FLEX Portrait Parts"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "440"
-sourceDebugPath: "GameDataAdapter.DataTables[365]"
 fieldsCount: 5
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Culture-17"
+  name: "SE_Culture"
+  id: "17"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "FLEX-Portrait-Parts-440"
+  name: "FLEX Portrait Parts"
+  id: "440"
 ---
 
 # FLEX Portrait Parts
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 5 |
 | Id | 440 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 91 |
 
 ## Fields

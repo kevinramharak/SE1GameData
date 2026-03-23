@@ -1,18 +1,20 @@
 ---
 title: "Flex Unit Feats"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-Unit-Feats-402"
-typeName: "Flex Unit Feats"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "402"
-sourceDebugPath: "GameDataAdapter.DataTables[332]"
 fieldsCount: 15
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-Unit-Feats-402"
+  name: "Flex Unit Feats"
+  id: "402"
 ---
 
 # Flex Unit Feats
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 15 |
 | Id | 402 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

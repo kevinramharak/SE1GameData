@@ -1,18 +1,20 @@
 ---
 title: "13-15 Leader and Unit Basic Stories"
 docKind: "type"
-libraryKey: "Story_Alpha1-13"
-libraryName: "Story_Alpha1"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "13"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "13-15-Leader-and-Unit-Basic-Stories-411"
-typeName: "13-15 Leader and Unit Basic Stories"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "411"
-sourceDebugPath: "GameDataAdapter.DataTables[341]"
 fieldsCount: 134
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "Story_Alpha1-13"
+  name: "Story_Alpha1"
+  id: "13"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "13-15-Leader-and-Unit-Basic-Stories-411"
+  name: "13-15 Leader and Unit Basic Stories"
+  id: "411"
 ---
 
 # 13-15 Leader and Unit Basic Stories
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 134 |
 | Id | 411 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 15 |
 
 ## Fields

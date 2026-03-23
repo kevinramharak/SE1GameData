@@ -1,18 +1,20 @@
 ---
 title: "Flex Story Decision Rel. Effects"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-Story-Decision-Rel.-Effects-263"
-typeName: "Flex Story Decision Rel. Effects"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "263"
-sourceDebugPath: "GameDataAdapter.DataTables[198]"
 fieldsCount: 3
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-Story-Decision-Rel.-Effects-263"
+  name: "Flex Story Decision Rel. Effects"
+  id: "263"
 ---
 
 # Flex Story Decision Rel. Effects
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 3 |
 | Id | 263 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

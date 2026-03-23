@@ -1,18 +1,20 @@
 ---
 title: "Beach Height Map"
 docKind: "type"
-libraryKey: "root"
-libraryName: "root"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "Root"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Beach-Height-Map-61"
-typeName: "Beach Height Map"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "61"
-sourceDebugPath: "GameDataAdapter.DataTables[3]"
 fieldsCount: 7
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "root"
+  name: "root"
+  id: "Root"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Beach-Height-Map-61"
+  name: "Beach Height Map"
+  id: "61"
 ---
 
 # Beach Height Map
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 7 |
 | Id | 61 |
-| IsEditableInSimpleEditor | False |
 | RowCount | 0 |
 
 ## Fields

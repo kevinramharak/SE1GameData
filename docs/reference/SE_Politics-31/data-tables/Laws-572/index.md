@@ -1,18 +1,20 @@
 ---
 title: "Laws"
 docKind: "type"
-libraryKey: "SE_Politics-31"
-libraryName: "SE_Politics"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "31"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Laws-572"
-typeName: "Laws"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "572"
-sourceDebugPath: "GameDataAdapter.DataTables[494]"
 fieldsCount: 20
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Politics-31"
+  name: "SE_Politics"
+  id: "31"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Laws-572"
+  name: "Laws"
+  id: "572"
 ---
 
 # Laws
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 20 |
 | Id | 572 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 59 |
 
 ## Fields

@@ -1,18 +1,20 @@
 ---
 title: "Dissolution Major Events"
 docKind: "type"
-libraryKey: "SE_Random-2"
-libraryName: "SE_Random"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "2"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Dissolution-Major-Events-133"
-typeName: "Dissolution Major Events"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "133"
-sourceDebugPath: "GameDataAdapter.DataTables[73]"
 fieldsCount: 25
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Random-2"
+  name: "SE_Random"
+  id: "2"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Dissolution-Major-Events-133"
+  name: "Dissolution Major Events"
+  id: "133"
 ---
 
 # Dissolution Major Events
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 25 |
 | Id | 133 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 57 |
 
 ## Fields

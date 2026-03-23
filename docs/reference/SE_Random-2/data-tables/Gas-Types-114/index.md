@@ -1,18 +1,20 @@
 ---
 title: "Gas Types"
 docKind: "type"
-libraryKey: "SE_Random-2"
-libraryName: "SE_Random"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "2"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Gas-Types-114"
-typeName: "Gas Types"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "114"
-sourceDebugPath: "GameDataAdapter.DataTables[54]"
 fieldsCount: 7
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Random-2"
+  name: "SE_Random"
+  id: "2"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Gas-Types-114"
+  name: "Gas Types"
+  id: "114"
 ---
 
 # Gas Types
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 7 |
 | Id | 114 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 20 |
 
 ## Fields

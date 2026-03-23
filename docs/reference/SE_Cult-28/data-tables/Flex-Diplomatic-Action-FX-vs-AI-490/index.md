@@ -1,18 +1,20 @@
 ---
 title: "Flex Diplomatic Action FX vs AI"
 docKind: "type"
-libraryKey: "SE_Cult-28"
-libraryName: "SE_Cult"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "28"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-Diplomatic-Action-FX-vs-AI-490"
-typeName: "Flex Diplomatic Action FX vs AI"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "490"
-sourceDebugPath: "GameDataAdapter.DataTables[415]"
 fieldsCount: 8
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Cult-28"
+  name: "SE_Cult"
+  id: "28"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-Diplomatic-Action-FX-vs-AI-490"
+  name: "Flex Diplomatic Action FX vs AI"
+  id: "490"
 ---
 
 # Flex Diplomatic Action FX vs AI
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 8 |
 | Id | 490 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 12 |
 
 ## Fields

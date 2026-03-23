@@ -1,18 +1,20 @@
 ---
 title: "Linked Stories"
 docKind: "type"
-libraryKey: "SE_Linked-26"
-libraryName: "SE_Linked"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "26"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Linked-Stories-454"
-typeName: "Linked Stories"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "454"
-sourceDebugPath: "GameDataAdapter.DataTables[379]"
 fieldsCount: 245
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Linked-26"
+  name: "SE_Linked"
+  id: "26"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Linked-Stories-454"
+  name: "Linked Stories"
+  id: "454"
 ---
 
 # Linked Stories
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 245 |
 | Id | 454 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 10 |
 
 ## Fields

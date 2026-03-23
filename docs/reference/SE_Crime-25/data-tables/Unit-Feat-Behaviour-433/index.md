@@ -1,18 +1,20 @@
 ---
 title: "Unit Feat Behaviour"
 docKind: "type"
-libraryKey: "SE_Crime-25"
-libraryName: "SE_Crime"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "25"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Unit-Feat-Behaviour-433"
-typeName: "Unit Feat Behaviour"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "433"
-sourceDebugPath: "GameDataAdapter.DataTables[358]"
 fieldsCount: 10
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Crime-25"
+  name: "SE_Crime"
+  id: "25"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Unit-Feat-Behaviour-433"
+  name: "Unit Feat Behaviour"
+  id: "433"
 ---
 
 # Unit Feat Behaviour
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 10 |
 | Id | 433 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 3 |
 
 ## Fields

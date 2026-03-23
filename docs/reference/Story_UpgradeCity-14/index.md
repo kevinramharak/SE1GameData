@@ -1,12 +1,14 @@
 ---
 title: "Story_UpgradeCity"
 docKind: "library"
-libraryKey: "Story_UpgradeCity-14"
-libraryName: "Story_UpgradeCity"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "14"
 isSyntheticRoot: false
 typeCount: 6
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "Story_UpgradeCity-14"
+  name: "Story_UpgradeCity"
+  id: "14"
 ---
 
 # Story_UpgradeCity

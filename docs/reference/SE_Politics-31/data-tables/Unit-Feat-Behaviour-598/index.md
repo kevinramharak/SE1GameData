@@ -1,18 +1,20 @@
 ---
 title: "Unit Feat Behaviour"
 docKind: "type"
-libraryKey: "SE_Politics-31"
-libraryName: "SE_Politics"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "31"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Unit-Feat-Behaviour-598"
-typeName: "Unit Feat Behaviour"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "598"
-sourceDebugPath: "GameDataAdapter.DataTables[520]"
 fieldsCount: 10
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Politics-31"
+  name: "SE_Politics"
+  id: "31"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Unit-Feat-Behaviour-598"
+  name: "Unit Feat Behaviour"
+  id: "598"
 ---
 
 # Unit Feat Behaviour
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 10 |
 | Id | 598 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 35 |
 
 ## Fields

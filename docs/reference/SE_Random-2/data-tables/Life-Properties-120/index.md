@@ -1,18 +1,20 @@
 ---
 title: "Life Properties"
 docKind: "type"
-libraryKey: "SE_Random-2"
-libraryName: "SE_Random"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "2"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Life-Properties-120"
-typeName: "Life Properties"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "120"
-sourceDebugPath: "GameDataAdapter.DataTables[60]"
 fieldsCount: 30
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Random-2"
+  name: "SE_Random"
+  id: "2"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Life-Properties-120"
+  name: "Life Properties"
+  id: "120"
 ---
 
 # Life Properties
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 30 |
 | Id | 120 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 17 |
 
 ## Fields

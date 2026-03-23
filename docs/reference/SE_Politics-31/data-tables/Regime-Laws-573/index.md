@@ -1,18 +1,20 @@
 ---
 title: "Regime Laws"
 docKind: "type"
-libraryKey: "SE_Politics-31"
-libraryName: "SE_Politics"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "31"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Regime-Laws-573"
-typeName: "Regime Laws"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "573"
-sourceDebugPath: "GameDataAdapter.DataTables[495]"
 fieldsCount: 8
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Politics-31"
+  name: "SE_Politics"
+  id: "31"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Regime-Laws-573"
+  name: "Regime Laws"
+  id: "573"
 ---
 
 # Regime Laws
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 8 |
 | Id | 573 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

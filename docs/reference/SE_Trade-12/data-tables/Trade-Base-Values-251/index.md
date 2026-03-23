@@ -1,18 +1,20 @@
 ---
 title: "Trade Base Values"
 docKind: "type"
-libraryKey: "SE_Trade-12"
-libraryName: "SE_Trade"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "12"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Trade-Base-Values-251"
-typeName: "Trade Base Values"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "251"
-sourceDebugPath: "GameDataAdapter.DataTables[187]"
 fieldsCount: 7
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Trade-12"
+  name: "SE_Trade"
+  id: "12"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Trade-Base-Values-251"
+  name: "Trade Base Values"
+  id: "251"
 ---
 
 # Trade Base Values
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 7 |
 | Id | 251 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 8 |
 
 ## Fields

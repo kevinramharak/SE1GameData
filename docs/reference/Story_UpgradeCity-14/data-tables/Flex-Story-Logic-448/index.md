@@ -1,18 +1,20 @@
 ---
 title: "Flex Story Logic"
 docKind: "type"
-libraryKey: "Story_UpgradeCity-14"
-libraryName: "Story_UpgradeCity"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "14"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-Story-Logic-448"
-typeName: "Flex Story Logic"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "448"
-sourceDebugPath: "GameDataAdapter.DataTables[373]"
 fieldsCount: 11
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "Story_UpgradeCity-14"
+  name: "Story_UpgradeCity"
+  id: "14"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-Story-Logic-448"
+  name: "Flex Story Logic"
+  id: "448"
 ---
 
 # Flex Story Logic
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 11 |
 | Id | 448 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 6 |
 
 ## Fields

@@ -1,18 +1,20 @@
 ---
 title: "Regime Feat Types Stratagems"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Regime-Feat-Types-Stratagems-389"
-typeName: "Regime Feat Types Stratagems"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "389"
-sourceDebugPath: "GameDataAdapter.DataTables[319]"
 fieldsCount: 1
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Regime-Feat-Types-Stratagems-389"
+  name: "Regime Feat Types Stratagems"
+  id: "389"
 ---
 
 # Regime Feat Types Stratagems
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 1 |
 | Id | 389 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

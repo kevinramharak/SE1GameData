@@ -1,12 +1,14 @@
 ---
 title: "SE_Graphics"
 docKind: "library"
-libraryKey: "SE_Graphics-8"
-libraryName: "SE_Graphics"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "8"
 isSyntheticRoot: false
 typeCount: 0
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Graphics-8"
+  name: "SE_Graphics"
+  id: "8"
 ---
 
 # SE_Graphics

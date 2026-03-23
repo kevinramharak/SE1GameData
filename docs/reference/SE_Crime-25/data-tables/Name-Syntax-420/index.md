@@ -1,18 +1,20 @@
 ---
 title: "Name Syntax"
 docKind: "type"
-libraryKey: "SE_Crime-25"
-libraryName: "SE_Crime"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "25"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Name-Syntax-420"
-typeName: "Name Syntax"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "420"
-sourceDebugPath: "GameDataAdapter.DataTables[347]"
 fieldsCount: 10
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Crime-25"
+  name: "SE_Crime"
+  id: "25"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Name-Syntax-420"
+  name: "Name Syntax"
+  id: "420"
 ---
 
 # Name Syntax
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 10 |
 | Id | 420 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 2 |
 
 ## Fields

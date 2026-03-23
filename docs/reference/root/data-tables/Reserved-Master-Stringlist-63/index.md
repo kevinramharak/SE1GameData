@@ -1,18 +1,20 @@
 ---
 title: "Reserved Master Stringlist"
 docKind: "type"
-libraryKey: "root"
-libraryName: "root"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "Root"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Reserved-Master-Stringlist-63"
-typeName: "Reserved Master Stringlist"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "63"
-sourceDebugPath: "GameDataAdapter.DataTables[5]"
 fieldsCount: 0
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "root"
+  name: "root"
+  id: "Root"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Reserved-Master-Stringlist-63"
+  name: "Reserved Master Stringlist"
+  id: "63"
 ---
 
 # Reserved Master Stringlist
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | -1 |
 | Id | 63 |
-| IsEditableInSimpleEditor | False |
 | RowCount | 0 |
 
 ## Fields

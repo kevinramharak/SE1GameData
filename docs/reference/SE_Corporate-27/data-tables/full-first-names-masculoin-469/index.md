@@ -1,18 +1,20 @@
 ---
 title: "full first names masculoin"
 docKind: "type"
-libraryKey: "SE_Corporate-27"
-libraryName: "SE_Corporate"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "27"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "full-first-names-masculoin-469"
-typeName: "full first names masculoin"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "469"
-sourceDebugPath: "GameDataAdapter.DataTables[394]"
 fieldsCount: 1
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Corporate-27"
+  name: "SE_Corporate"
+  id: "27"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "full-first-names-masculoin-469"
+  name: "full first names masculoin"
+  id: "469"
 ---
 
 # full first names masculoin
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 1 |
 | Id | 469 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

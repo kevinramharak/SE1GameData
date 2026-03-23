@@ -1,18 +1,20 @@
 ---
 title: "Evolutionary Steps"
 docKind: "type"
-libraryKey: "SE_Random-2"
-libraryName: "SE_Random"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "2"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Evolutionary-Steps-118"
-typeName: "Evolutionary Steps"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "118"
-sourceDebugPath: "GameDataAdapter.DataTables[58]"
 fieldsCount: 4
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Random-2"
+  name: "SE_Random"
+  id: "2"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Evolutionary-Steps-118"
+  name: "Evolutionary Steps"
+  id: "118"
 ---
 
 # Evolutionary Steps
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 4 |
 | Id | 118 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 60 |
 
 ## Fields

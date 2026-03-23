@@ -1,18 +1,20 @@
 ---
 title: "Solvent Types"
 docKind: "type"
-libraryKey: "SE_Random-2"
-libraryName: "SE_Random"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "2"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Solvent-Types-110"
-typeName: "Solvent Types"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "110"
-sourceDebugPath: "GameDataAdapter.DataTables[50]"
 fieldsCount: 10
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Random-2"
+  name: "SE_Random"
+  id: "2"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Solvent-Types-110"
+  name: "Solvent Types"
+  id: "110"
 ---
 
 # Solvent Types
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 10 |
 | Id | 110 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 6 |
 
 ## Fields

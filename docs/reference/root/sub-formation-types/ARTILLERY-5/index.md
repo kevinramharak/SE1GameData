@@ -1,18 +1,20 @@
 ---
 title: "ARTILLERY"
 docKind: "type"
-libraryKey: "root"
-libraryName: "root"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "Root"
-typeGroupKey: "sub-formation-types"
-typeGroupName: "Sub Formation Types"
-typeKey: "ARTILLERY-5"
-typeName: "ARTILLERY"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "5"
-sourceDebugPath: "GameDataAdapter.SubFormationTypes[3]"
 fieldsCount: 1
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "root"
+  name: "root"
+  id: "Root"
+typeGroup:
+  key: "sub-formation-types"
+  name: "Sub Formation Types"
+type:
+  key: "ARTILLERY-5"
+  name: "ARTILLERY"
+  id: "5"
 ---
 
 # ARTILLERY

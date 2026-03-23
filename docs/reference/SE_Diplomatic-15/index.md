@@ -1,12 +1,14 @@
 ---
 title: "SE_Diplomatic"
 docKind: "library"
-libraryKey: "SE_Diplomatic-15"
-libraryName: "SE_Diplomatic"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "15"
 isSyntheticRoot: false
 typeCount: 9
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Diplomatic-15"
+  name: "SE_Diplomatic"
+  id: "15"
 ---
 
 # SE_Diplomatic

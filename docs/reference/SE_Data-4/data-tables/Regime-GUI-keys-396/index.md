@@ -1,18 +1,20 @@
 ---
 title: "Regime GUI keys"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Regime-GUI-keys-396"
-typeName: "Regime GUI keys"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "396"
-sourceDebugPath: "GameDataAdapter.DataTables[326]"
 fieldsCount: 2
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Regime-GUI-keys-396"
+  name: "Regime GUI keys"
+  id: "396"
 ---
 
 # Regime GUI keys
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 2 |
 | Id | 396 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

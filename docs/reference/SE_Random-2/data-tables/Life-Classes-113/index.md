@@ -1,18 +1,20 @@
 ---
 title: "Life Classes"
 docKind: "type"
-libraryKey: "SE_Random-2"
-libraryName: "SE_Random"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "2"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Life-Classes-113"
-typeName: "Life Classes"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "113"
-sourceDebugPath: "GameDataAdapter.DataTables[53]"
 fieldsCount: 12
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Random-2"
+  name: "SE_Random"
+  id: "2"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Life-Classes-113"
+  name: "Life Classes"
+  id: "113"
 ---
 
 # Life Classes
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 12 |
 | Id | 113 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 21 |
 
 ## Fields

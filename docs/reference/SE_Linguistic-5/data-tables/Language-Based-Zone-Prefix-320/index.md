@@ -1,18 +1,20 @@
 ---
 title: "Language Based Zone Prefix"
 docKind: "type"
-libraryKey: "SE_Linguistic-5"
-libraryName: "SE_Linguistic"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "5"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Language-Based-Zone-Prefix-320"
-typeName: "Language Based Zone Prefix"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "320"
-sourceDebugPath: "GameDataAdapter.DataTables[253]"
 fieldsCount: 2
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Linguistic-5"
+  name: "SE_Linguistic"
+  id: "5"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Language-Based-Zone-Prefix-320"
+  name: "Language Based Zone Prefix"
+  id: "320"
 ---
 
 # Language Based Zone Prefix
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 2 |
 | Id | 320 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 170 |
 
 ## Fields

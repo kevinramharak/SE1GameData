@@ -1,18 +1,20 @@
 ---
 title: "Language Based Empire Prefix"
 docKind: "type"
-libraryKey: "SE_Linguistic-5"
-libraryName: "SE_Linguistic"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "5"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Language-Based-Empire-Prefix-324"
-typeName: "Language Based Empire Prefix"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "324"
-sourceDebugPath: "GameDataAdapter.DataTables[257]"
 fieldsCount: 8
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Linguistic-5"
+  name: "SE_Linguistic"
+  id: "5"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Language-Based-Empire-Prefix-324"
+  name: "Language Based Empire Prefix"
+  id: "324"
 ---
 
 # Language Based Empire Prefix
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 8 |
 | Id | 324 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 63 |
 
 ## Fields

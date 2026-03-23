@@ -1,18 +1,20 @@
 ---
 title: "Wardog"
 docKind: "type"
-libraryKey: "Shadow-Troops-9"
-libraryName: "Shadow Troops"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "9"
-typeGroupKey: "sub-formation-types"
-typeGroupName: "Sub Formation Types"
-typeKey: "Wardog-381"
-typeName: "Wardog"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "381"
-sourceDebugPath: "GameDataAdapter.SubFormationTypes[136]"
 fieldsCount: 1
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "Shadow-Troops-9"
+  name: "Shadow Troops"
+  id: "9"
+typeGroup:
+  key: "sub-formation-types"
+  name: "Sub Formation Types"
+type:
+  key: "Wardog-381"
+  name: "Wardog"
+  id: "381"
 ---
 
 # Wardog

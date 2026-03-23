@@ -1,18 +1,20 @@
 ---
 title: "Flex Tech-ModelType Effects"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-Tech-ModelType-Effects-227"
-typeName: "Flex Tech-ModelType Effects"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "227"
-sourceDebugPath: "GameDataAdapter.DataTables[163]"
 fieldsCount: 6
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-Tech-ModelType-Effects-227"
+  name: "Flex Tech-ModelType Effects"
+  id: "227"
 ---
 
 # Flex Tech-ModelType Effects
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 6 |
 | Id | 227 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

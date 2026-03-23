@@ -1,18 +1,20 @@
 ---
 title: "Election Voterblock History"
 docKind: "type"
-libraryKey: "SE_Politics-31"
-libraryName: "SE_Politics"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "31"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Election-Voterblock-History-575"
-typeName: "Election Voterblock History"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "575"
-sourceDebugPath: "GameDataAdapter.DataTables[497]"
 fieldsCount: 8
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Politics-31"
+  name: "SE_Politics"
+  id: "31"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Election-Voterblock-History-575"
+  name: "Election Voterblock History"
+  id: "575"
 ---
 
 # Election Voterblock History
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 8 |
 | Id | 575 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

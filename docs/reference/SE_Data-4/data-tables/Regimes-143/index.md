@@ -1,18 +1,20 @@
 ---
 title: "Regimes"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Regimes-143"
-typeName: "Regimes"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "143"
-sourceDebugPath: "GameDataAdapter.DataTables[82]"
 fieldsCount: 14
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Regimes-143"
+  name: "Regimes"
+  id: "143"
 ---
 
 # Regimes
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 14 |
 | Id | 143 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

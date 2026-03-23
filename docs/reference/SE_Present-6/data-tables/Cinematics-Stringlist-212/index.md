@@ -1,18 +1,20 @@
 ---
 title: "Cinematics Stringlist"
 docKind: "type"
-libraryKey: "SE_Present-6"
-libraryName: "SE_Present"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "6"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Cinematics-Stringlist-212"
-typeName: "Cinematics Stringlist"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "212"
-sourceDebugPath: "GameDataAdapter.DataTables[148]"
 fieldsCount: 9
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Present-6"
+  name: "SE_Present"
+  id: "6"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Cinematics-Stringlist-212"
+  name: "Cinematics Stringlist"
+  id: "212"
 ---
 
 # Cinematics Stringlist
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 9 |
 | Id | 212 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

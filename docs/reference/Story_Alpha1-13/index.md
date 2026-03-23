@@ -1,12 +1,14 @@
 ---
 title: "Story_Alpha1"
 docKind: "library"
-libraryKey: "Story_Alpha1-13"
-libraryName: "Story_Alpha1"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "13"
 isSyntheticRoot: false
 typeCount: 3
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "Story_Alpha1-13"
+  name: "Story_Alpha1"
+  id: "13"
 ---
 
 # Story_Alpha1

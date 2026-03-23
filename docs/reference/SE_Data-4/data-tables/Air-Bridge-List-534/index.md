@@ -1,18 +1,20 @@
 ---
 title: "Air Bridge List"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Air-Bridge-List-534"
-typeName: "Air Bridge List"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "534"
-sourceDebugPath: "GameDataAdapter.DataTables[456]"
 fieldsCount: 12
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Air-Bridge-List-534"
+  name: "Air Bridge List"
+  id: "534"
 ---
 
 # Air Bridge List
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 12 |
 | Id | 534 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

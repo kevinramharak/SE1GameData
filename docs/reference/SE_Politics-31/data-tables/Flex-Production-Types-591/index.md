@@ -1,18 +1,20 @@
 ---
 title: "Flex Production Types"
 docKind: "type"
-libraryKey: "SE_Politics-31"
-libraryName: "SE_Politics"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "31"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-Production-Types-591"
-typeName: "Flex Production Types"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "591"
-sourceDebugPath: "GameDataAdapter.DataTables[513]"
 fieldsCount: 6
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Politics-31"
+  name: "SE_Politics"
+  id: "31"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-Production-Types-591"
+  name: "Flex Production Types"
+  id: "591"
 ---
 
 # Flex Production Types
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 6 |
 | Id | 591 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 15 |
 
 ## Fields

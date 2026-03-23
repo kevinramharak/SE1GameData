@@ -1,18 +1,20 @@
 ---
 title: "Flex Tech Types"
 docKind: "type"
-libraryKey: "SE_Politics-31"
-libraryName: "SE_Politics"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "31"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-Tech-Types-599"
-typeName: "Flex Tech Types"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "599"
-sourceDebugPath: "GameDataAdapter.DataTables[521]"
 fieldsCount: 22
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Politics-31"
+  name: "SE_Politics"
+  id: "31"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-Tech-Types-599"
+  name: "Flex Tech Types"
+  id: "599"
 ---
 
 # Flex Tech Types
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 22 |
 | Id | 599 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 7 |
 
 ## Fields

@@ -1,12 +1,14 @@
 ---
 title: "SE_Interior"
 docKind: "library"
-libraryKey: "SE_Interior-16"
-libraryName: "SE_Interior"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "16"
 isSyntheticRoot: false
 typeCount: 4
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Interior-16"
+  name: "SE_Interior"
+  id: "16"
 ---
 
 # SE_Interior

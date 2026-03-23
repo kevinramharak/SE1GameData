@@ -1,18 +1,20 @@
 ---
 title: "Decisions"
 docKind: "type"
-libraryKey: "SE_Navy-30"
-libraryName: "SE_Navy"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "30"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Decisions-547"
-typeName: "Decisions"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "547"
-sourceDebugPath: "GameDataAdapter.DataTables[469]"
 fieldsCount: 134
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Navy-30"
+  name: "SE_Navy"
+  id: "30"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Decisions-547"
+  name: "Decisions"
+  id: "547"
 ---
 
 # Decisions
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 134 |
 | Id | 547 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 34 |
 
 ## Fields

@@ -1,18 +1,20 @@
 ---
 title: "Story Hooks"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Story-Hooks-497"
-typeName: "Story Hooks"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "497"
-sourceDebugPath: "GameDataAdapter.DataTables[422]"
 fieldsCount: 7
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Story-Hooks-497"
+  name: "Story Hooks"
+  id: "497"
 ---
 
 # Story Hooks
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 7 |
 | Id | 497 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

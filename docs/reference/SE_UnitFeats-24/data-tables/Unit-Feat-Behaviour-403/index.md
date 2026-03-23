@@ -1,18 +1,20 @@
 ---
 title: "Unit Feat Behaviour"
 docKind: "type"
-libraryKey: "SE_UnitFeats-24"
-libraryName: "SE_UnitFeats"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "24"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Unit-Feat-Behaviour-403"
-typeName: "Unit Feat Behaviour"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "403"
-sourceDebugPath: "GameDataAdapter.DataTables[333]"
 fieldsCount: 10
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_UnitFeats-24"
+  name: "SE_UnitFeats"
+  id: "24"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Unit-Feat-Behaviour-403"
+  name: "Unit Feat Behaviour"
+  id: "403"
 ---
 
 # Unit Feat Behaviour
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 10 |
 | Id | 403 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 61 |
 
 ## Fields

@@ -1,18 +1,20 @@
 ---
 title: "APC"
 docKind: "type"
-libraryKey: "root"
-libraryName: "root"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "Root"
-typeGroupKey: "sub-formation-types"
-typeGroupName: "Sub Formation Types"
-typeKey: "APC-129"
-typeName: "APC"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "129"
-sourceDebugPath: "GameDataAdapter.SubFormationTypes[32]"
 fieldsCount: 1
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "root"
+  name: "root"
+  id: "Root"
+typeGroup:
+  key: "sub-formation-types"
+  name: "Sub Formation Types"
+type:
+  key: "APC-129"
+  name: "APC"
+  id: "129"
 ---
 
 # APC

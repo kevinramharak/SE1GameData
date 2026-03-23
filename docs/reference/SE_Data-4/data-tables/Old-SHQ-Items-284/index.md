@@ -1,18 +1,20 @@
 ---
 title: "Old SHQ Items"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Old-SHQ-Items-284"
-typeName: "Old SHQ Items"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "284"
-sourceDebugPath: "GameDataAdapter.DataTables[219]"
 fieldsCount: 3
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Old-SHQ-Items-284"
+  name: "Old SHQ Items"
+  id: "284"
 ---
 
 # Old SHQ Items
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 3 |
 | Id | 284 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

@@ -1,9 +1,9 @@
 ---
 title: "Reinforcement Types"
-docKind: "catalog-type-group"
-typeGroupKey: "reinforcement-types"
-typeGroupName: "Reinforcement Types"
-entryCount: 38
+docKind: "type-group-catalog-index"
+typeGroup:
+  key: "reinforcement-types"
+  name: "Reinforcement Types"
 ---
 
 # Reinforcement Types

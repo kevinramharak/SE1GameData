@@ -1,18 +1,20 @@
 ---
 title: "AI Story Modifiers"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "AI-Story-Modifiers-407"
-typeName: "AI Story Modifiers"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "407"
-sourceDebugPath: "GameDataAdapter.DataTables[337]"
 fieldsCount: 8
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "AI-Story-Modifiers-407"
+  name: "AI Story Modifiers"
+  id: "407"
 ---
 
 # AI Story Modifiers
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 8 |
 | Id | 407 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 12 |
 
 ## Fields

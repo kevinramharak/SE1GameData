@@ -1,18 +1,20 @@
 ---
 title: "Flex Story Decisions"
 docKind: "type"
-libraryKey: "Story_UpgradeCity-14"
-libraryName: "Story_UpgradeCity"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "14"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-Story-Decisions-269"
-typeName: "Flex Story Decisions"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "269"
-sourceDebugPath: "GameDataAdapter.DataTables[204]"
 fieldsCount: 4
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "Story_UpgradeCity-14"
+  name: "Story_UpgradeCity"
+  id: "14"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-Story-Decisions-269"
+  name: "Flex Story Decisions"
+  id: "269"
 ---
 
 # Flex Story Decisions
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 4 |
 | Id | 269 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 12 |
 
 ## Fields

@@ -1,18 +1,20 @@
 ---
 title: "Flex TOE Types"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-TOE-Types-237"
-typeName: "Flex TOE Types"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "237"
-sourceDebugPath: "GameDataAdapter.DataTables[173]"
 fieldsCount: 18
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-TOE-Types-237"
+  name: "Flex TOE Types"
+  id: "237"
 ---
 
 # Flex TOE Types
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 18 |
 | Id | 237 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 612 |
 
 ## Fields

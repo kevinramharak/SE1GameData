@@ -1,18 +1,20 @@
 ---
 title: "Bids"
 docKind: "type"
-libraryKey: "SE_Navy-30"
-libraryName: "SE_Navy"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "30"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Bids-557"
-typeName: "Bids"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "557"
-sourceDebugPath: "GameDataAdapter.DataTables[479]"
 fieldsCount: 10
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Navy-30"
+  name: "SE_Navy"
+  id: "30"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Bids-557"
+  name: "Bids"
+  id: "557"
 ---
 
 # Bids
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 10 |
 | Id | 557 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

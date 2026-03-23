@@ -1,18 +1,20 @@
 ---
 title: "Start of Turn SHQ items"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Start-of-Turn-SHQ-items-273"
-typeName: "Start of Turn SHQ items"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "273"
-sourceDebugPath: "GameDataAdapter.DataTables[208]"
 fieldsCount: 3
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Start-of-Turn-SHQ-items-273"
+  name: "Start of Turn SHQ items"
+  id: "273"
 ---
 
 # Start of Turn SHQ items
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 3 |
 | Id | 273 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

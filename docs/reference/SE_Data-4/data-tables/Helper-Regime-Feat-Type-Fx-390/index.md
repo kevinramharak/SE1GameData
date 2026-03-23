@@ -1,18 +1,20 @@
 ---
 title: "Helper Regime Feat Type Fx"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Helper-Regime-Feat-Type-Fx-390"
-typeName: "Helper Regime Feat Type Fx"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "390"
-sourceDebugPath: "GameDataAdapter.DataTables[320]"
 fieldsCount: 5
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Helper-Regime-Feat-Type-Fx-390"
+  name: "Helper Regime Feat Type Fx"
+  id: "390"
 ---
 
 # Helper Regime Feat Type Fx
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 5 |
 | Id | 390 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 55 |
 
 ## Fields

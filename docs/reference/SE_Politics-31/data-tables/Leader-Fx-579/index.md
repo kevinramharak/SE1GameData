@@ -1,18 +1,20 @@
 ---
 title: "Leader Fx"
 docKind: "type"
-libraryKey: "SE_Politics-31"
-libraryName: "SE_Politics"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "31"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Leader-Fx-579"
-typeName: "Leader Fx"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "579"
-sourceDebugPath: "GameDataAdapter.DataTables[501]"
 fieldsCount: 135
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Politics-31"
+  name: "SE_Politics"
+  id: "31"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Leader-Fx-579"
+  name: "Leader Fx"
+  id: "579"
 ---
 
 # Leader Fx
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 135 |
 | Id | 579 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 9 |
 
 ## Fields

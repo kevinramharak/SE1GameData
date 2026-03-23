@@ -1,18 +1,20 @@
 ---
 title: "Helper Faction Creation"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Helper-Faction-Creation-201"
-typeName: "Helper Faction Creation"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "201"
-sourceDebugPath: "GameDataAdapter.DataTables[137]"
 fieldsCount: 8
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Helper-Faction-Creation-201"
+  name: "Helper Faction Creation"
+  id: "201"
 ---
 
 # Helper Faction Creation
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 8 |
 | Id | 201 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 33 |
 
 ## Fields

@@ -1,18 +1,20 @@
 ---
 title: "UDS Management Tabs Format"
 docKind: "type"
-libraryKey: "SE_Present-6"
-libraryName: "SE_Present"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "6"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "UDS-Management-Tabs-Format-79"
-typeName: "UDS Management Tabs Format"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "79"
-sourceDebugPath: "GameDataAdapter.DataTables[21]"
 fieldsCount: 13
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Present-6"
+  name: "SE_Present"
+  id: "6"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "UDS-Management-Tabs-Format-79"
+  name: "UDS Management Tabs Format"
+  id: "79"
 ---
 
 # UDS Management Tabs Format
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 13 |
 | Id | 79 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

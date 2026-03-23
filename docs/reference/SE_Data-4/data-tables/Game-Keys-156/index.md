@@ -1,18 +1,20 @@
 ---
 title: "Game Keys"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Game-Keys-156"
-typeName: "Game Keys"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "156"
-sourceDebugPath: "GameDataAdapter.DataTables[95]"
 fieldsCount: 2
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Game-Keys-156"
+  name: "Game Keys"
+  id: "156"
 ---
 
 # Game Keys
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 2 |
 | Id | 156 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 80 |
 
 ## Fields

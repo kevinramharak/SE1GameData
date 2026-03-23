@@ -1,18 +1,20 @@
 ---
 title: "Flex Interior Action FX vs Human"
 docKind: "type"
-libraryKey: "SE_Interior-16"
-libraryName: "SE_Interior"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "16"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-Interior-Action-FX-vs-Human-296"
-typeName: "Flex Interior Action FX vs Human"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "296"
-sourceDebugPath: "GameDataAdapter.DataTables[230]"
 fieldsCount: 5
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Interior-16"
+  name: "SE_Interior"
+  id: "16"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-Interior-Action-FX-vs-Human-296"
+  name: "Flex Interior Action FX vs Human"
+  id: "296"
 ---
 
 # Flex Interior Action FX vs Human
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 5 |
 | Id | 296 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

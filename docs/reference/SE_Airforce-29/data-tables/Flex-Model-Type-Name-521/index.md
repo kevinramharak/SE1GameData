@@ -1,18 +1,20 @@
 ---
 title: "Flex Model Type Name"
 docKind: "type"
-libraryKey: "SE_Airforce-29"
-libraryName: "SE_Airforce"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "29"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-Model-Type-Name-521"
-typeName: "Flex Model Type Name"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "521"
-sourceDebugPath: "GameDataAdapter.DataTables[443]"
 fieldsCount: 3
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Airforce-29"
+  name: "SE_Airforce"
+  id: "29"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-Model-Type-Name-521"
+  name: "Flex Model Type Name"
+  id: "521"
 ---
 
 # Flex Model Type Name
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 3 |
 | Id | 521 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 180 |
 
 ## Fields

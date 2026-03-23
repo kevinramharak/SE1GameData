@@ -1,18 +1,20 @@
 ---
 title: "Faction Law Vote History"
 docKind: "type"
-libraryKey: "SE_Politics-31"
-libraryName: "SE_Politics"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "31"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Faction-Law-Vote-History-576"
-typeName: "Faction Law Vote History"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "576"
-sourceDebugPath: "GameDataAdapter.DataTables[498]"
 fieldsCount: 5
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Politics-31"
+  name: "SE_Politics"
+  id: "31"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Faction-Law-Vote-History-576"
+  name: "Faction Law Vote History"
+  id: "576"
 ---
 
 # Faction Law Vote History
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 5 |
 | Id | 576 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

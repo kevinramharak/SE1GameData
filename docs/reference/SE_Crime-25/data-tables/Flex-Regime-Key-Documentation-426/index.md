@@ -1,18 +1,20 @@
 ---
 title: "Flex Regime Key Documentation"
 docKind: "type"
-libraryKey: "SE_Crime-25"
-libraryName: "SE_Crime"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "25"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-Regime-Key-Documentation-426"
-typeName: "Flex Regime Key Documentation"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "426"
-sourceDebugPath: "GameDataAdapter.DataTables[352]"
 fieldsCount: 6
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Crime-25"
+  name: "SE_Crime"
+  id: "25"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-Regime-Key-Documentation-426"
+  name: "Flex Regime Key Documentation"
+  id: "426"
 ---
 
 # Flex Regime Key Documentation
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 6 |
 | Id | 426 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 1 |
 
 ## Fields

@@ -1,12 +1,14 @@
 ---
 title: "root"
 docKind: "library"
-libraryKey: "root"
-libraryName: "root"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "Root"
 isSyntheticRoot: true
 typeCount: 72
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "root"
+  name: "root"
+  id: "Root"
 ---
 
 # root

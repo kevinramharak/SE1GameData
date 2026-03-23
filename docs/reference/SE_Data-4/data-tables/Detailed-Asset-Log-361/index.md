@@ -1,18 +1,20 @@
 ---
 title: "Detailed Asset Log"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Detailed-Asset-Log-361"
-typeName: "Detailed Asset Log"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "361"
-sourceDebugPath: "GameDataAdapter.DataTables[292]"
 fieldsCount: 5
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Detailed-Asset-Log-361"
+  name: "Detailed Asset Log"
+  id: "361"
 ---
 
 # Detailed Asset Log
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 5 |
 | Id | 361 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

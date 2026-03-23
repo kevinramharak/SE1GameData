@@ -1,18 +1,20 @@
 ---
 title: "Reserved"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Reserved-197"
-typeName: "Reserved"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "197"
-sourceDebugPath: "GameDataAdapter.DataTables[133]"
 fieldsCount: 2
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Reserved-197"
+  name: "Reserved"
+  id: "197"
 ---
 
 # Reserved
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 2 |
 | Id | 197 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

@@ -1,18 +1,20 @@
 ---
 title: "char name suffix feminine"
 docKind: "type"
-libraryKey: "SE_Linguistic-5"
-libraryName: "SE_Linguistic"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "5"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "char-name-suffix-feminine-182"
-typeName: "char name suffix feminine"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "182"
-sourceDebugPath: "GameDataAdapter.DataTables[118]"
 fieldsCount: 0
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Linguistic-5"
+  name: "SE_Linguistic"
+  id: "5"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "char-name-suffix-feminine-182"
+  name: "char name suffix feminine"
+  id: "182"
 ---
 
 # char name suffix feminine
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 0 |
 | Id | 182 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 11 |
 
 ## Fields

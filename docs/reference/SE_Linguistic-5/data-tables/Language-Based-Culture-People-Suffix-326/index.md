@@ -1,18 +1,20 @@
 ---
 title: "Language Based Culture People Suffix"
 docKind: "type"
-libraryKey: "SE_Linguistic-5"
-libraryName: "SE_Linguistic"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "5"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Language-Based-Culture-People-Suffix-326"
-typeName: "Language Based Culture People Suffix"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "326"
-sourceDebugPath: "GameDataAdapter.DataTables[259]"
 fieldsCount: 2
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Linguistic-5"
+  name: "SE_Linguistic"
+  id: "5"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Language-Based-Culture-People-Suffix-326"
+  name: "Language Based Culture People Suffix"
+  id: "326"
 ---
 
 # Language Based Culture People Suffix
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 2 |
 | Id | 326 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 9 |
 
 ## Fields

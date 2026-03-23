@@ -1,18 +1,20 @@
 ---
 title: "Organisations Tasks"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Organisations-Tasks-185"
-typeName: "Organisations Tasks"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "185"
-sourceDebugPath: "GameDataAdapter.DataTables[121]"
 fieldsCount: 4
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Organisations-Tasks-185"
+  name: "Organisations Tasks"
+  id: "185"
 ---
 
 # Organisations Tasks
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 4 |
 | Id | 185 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

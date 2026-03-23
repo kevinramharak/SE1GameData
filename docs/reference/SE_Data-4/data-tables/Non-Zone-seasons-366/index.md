@@ -1,18 +1,20 @@
 ---
 title: "Non-Zone seasons"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Non-Zone-seasons-366"
-typeName: "Non-Zone seasons"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "366"
-sourceDebugPath: "GameDataAdapter.DataTables[297]"
 fieldsCount: 4
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Non-Zone-seasons-366"
+  name: "Non-Zone seasons"
+  id: "366"
 ---
 
 # Non-Zone seasons
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 4 |
 | Id | 366 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

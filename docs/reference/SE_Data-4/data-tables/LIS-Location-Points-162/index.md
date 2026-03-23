@@ -1,18 +1,20 @@
 ---
 title: "LIS Location Points"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "LIS-Location-Points-162"
-typeName: "LIS Location Points"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "162"
-sourceDebugPath: "GameDataAdapter.DataTables[100]"
 fieldsCount: 5
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "LIS-Location-Points-162"
+  name: "LIS Location Points"
+  id: "162"
 ---
 
 # LIS Location Points
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 5 |
 | Id | 162 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 1 |
 
 ## Fields

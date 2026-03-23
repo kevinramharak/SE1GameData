@@ -1,18 +1,20 @@
 ---
 title: "Zone Assets"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Zone-Assets-148"
-typeName: "Zone Assets"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "148"
-sourceDebugPath: "GameDataAdapter.DataTables[87]"
 fieldsCount: 15
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Zone-Assets-148"
+  name: "Zone Assets"
+  id: "148"
 ---
 
 # Zone Assets
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 15 |
 | Id | 148 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

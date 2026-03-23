@@ -1,18 +1,20 @@
 ---
 title: "Flex Story Decision Cost"
 docKind: "type"
-libraryKey: "Story_UpgradeCity-14"
-libraryName: "Story_UpgradeCity"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "14"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-Story-Decision-Cost-270"
-typeName: "Flex Story Decision Cost"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "270"
-sourceDebugPath: "GameDataAdapter.DataTables[205]"
 fieldsCount: 3
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "Story_UpgradeCity-14"
+  name: "Story_UpgradeCity"
+  id: "14"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-Story-Decision-Cost-270"
+  name: "Flex Story Decision Cost"
+  id: "270"
 ---
 
 # Flex Story Decision Cost
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 3 |
 | Id | 270 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 6 |
 
 ## Fields

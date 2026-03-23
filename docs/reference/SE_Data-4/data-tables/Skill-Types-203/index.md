@@ -1,18 +1,20 @@
 ---
 title: "Skill Types"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Skill-Types-203"
-typeName: "Skill Types"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "203"
-sourceDebugPath: "GameDataAdapter.DataTables[139]"
 fieldsCount: 15
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Skill-Types-203"
+  name: "Skill Types"
+  id: "203"
 ---
 
 # Skill Types
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 15 |
 | Id | 203 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 41 |
 
 ## Fields

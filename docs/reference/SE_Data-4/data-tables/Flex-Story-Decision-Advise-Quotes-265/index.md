@@ -1,18 +1,20 @@
 ---
 title: "Flex Story Decision Advise Quotes"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-Story-Decision-Advise-Quotes-265"
-typeName: "Flex Story Decision Advise Quotes"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "265"
-sourceDebugPath: "GameDataAdapter.DataTables[200]"
 fieldsCount: 4
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-Story-Decision-Advise-Quotes-265"
+  name: "Flex Story Decision Advise Quotes"
+  id: "265"
 ---
 
 # Flex Story Decision Advise Quotes
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 4 |
 | Id | 265 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

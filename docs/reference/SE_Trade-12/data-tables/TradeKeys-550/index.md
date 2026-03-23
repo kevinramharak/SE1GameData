@@ -1,18 +1,20 @@
 ---
 title: "TradeKeys"
 docKind: "type"
-libraryKey: "SE_Trade-12"
-libraryName: "SE_Trade"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "12"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "TradeKeys-550"
-typeName: "TradeKeys"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "550"
-sourceDebugPath: "GameDataAdapter.DataTables[472]"
 fieldsCount: 2
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Trade-12"
+  name: "SE_Trade"
+  id: "12"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "TradeKeys-550"
+  name: "TradeKeys"
+  id: "550"
 ---
 
 # TradeKeys
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 2 |
 | Id | 550 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

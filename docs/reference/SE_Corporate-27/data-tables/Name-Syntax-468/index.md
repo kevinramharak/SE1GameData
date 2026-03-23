@@ -1,18 +1,20 @@
 ---
 title: "Name Syntax"
 docKind: "type"
-libraryKey: "SE_Corporate-27"
-libraryName: "SE_Corporate"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "27"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Name-Syntax-468"
-typeName: "Name Syntax"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "468"
-sourceDebugPath: "GameDataAdapter.DataTables[393]"
 fieldsCount: 10
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Corporate-27"
+  name: "SE_Corporate"
+  id: "27"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Name-Syntax-468"
+  name: "Name Syntax"
+  id: "468"
 ---
 
 # Name Syntax
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 10 |
 | Id | 468 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

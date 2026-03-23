@@ -1,18 +1,20 @@
 ---
 title: "Flex Model Type Name"
 docKind: "type"
-libraryKey: "SE_Model-11"
-libraryName: "SE_Model"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "11"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-Model-Type-Name-249"
-typeName: "Flex Model Type Name"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "249"
-sourceDebugPath: "GameDataAdapter.DataTables[185]"
 fieldsCount: 3
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Model-11"
+  name: "SE_Model"
+  id: "11"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-Model-Type-Name-249"
+  name: "Flex Model Type Name"
+  id: "249"
 ---
 
 # Flex Model Type Name
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 3 |
 | Id | 249 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 230 |
 
 ## Fields

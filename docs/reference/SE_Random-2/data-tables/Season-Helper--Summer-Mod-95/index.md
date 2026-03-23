@@ -1,18 +1,20 @@
 ---
 title: "Season Helper: Summer Mod"
 docKind: "type"
-libraryKey: "SE_Random-2"
-libraryName: "SE_Random"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "2"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Season-Helper--Summer-Mod-95"
-typeName: "Season Helper: Summer Mod"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "95"
-sourceDebugPath: "GameDataAdapter.DataTables[35]"
 fieldsCount: 16
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Random-2"
+  name: "SE_Random"
+  id: "2"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Season-Helper--Summer-Mod-95"
+  name: "Season Helper: Summer Mod"
+  id: "95"
 ---
 
 # Season Helper: Summer Mod
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 16 |
 | Id | 95 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 17 |
 
 ## Fields

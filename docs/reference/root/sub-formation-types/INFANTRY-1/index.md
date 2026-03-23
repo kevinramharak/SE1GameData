@@ -1,18 +1,20 @@
 ---
 title: "INFANTRY"
 docKind: "type"
-libraryKey: "root"
-libraryName: "root"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "Root"
-typeGroupKey: "sub-formation-types"
-typeGroupName: "Sub Formation Types"
-typeKey: "INFANTRY-1"
-typeName: "INFANTRY"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "1"
-sourceDebugPath: "GameDataAdapter.SubFormationTypes[0]"
 fieldsCount: 1
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "root"
+  name: "root"
+  id: "Root"
+typeGroup:
+  key: "sub-formation-types"
+  name: "Sub Formation Types"
+type:
+  key: "INFANTRY-1"
+  name: "INFANTRY"
+  id: "1"
 ---
 
 # INFANTRY

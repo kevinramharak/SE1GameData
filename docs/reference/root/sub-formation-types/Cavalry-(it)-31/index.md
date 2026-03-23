@@ -1,18 +1,20 @@
 ---
 title: "Cavalry (it)"
 docKind: "type"
-libraryKey: "root"
-libraryName: "root"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "Root"
-typeGroupKey: "sub-formation-types"
-typeGroupName: "Sub Formation Types"
-typeKey: "Cavalry-(it)-31"
-typeName: "Cavalry (it)"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "31"
-sourceDebugPath: "GameDataAdapter.SubFormationTypes[16]"
 fieldsCount: 1
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "root"
+  name: "root"
+  id: "Root"
+typeGroup:
+  key: "sub-formation-types"
+  name: "Sub Formation Types"
+type:
+  key: "Cavalry-(it)-31"
+  name: "Cavalry (it)"
+  id: "31"
 ---
 
 # Cavalry (it)

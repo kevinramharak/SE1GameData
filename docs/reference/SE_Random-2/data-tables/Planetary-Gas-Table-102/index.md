@@ -1,18 +1,20 @@
 ---
 title: "Planetary Gas Table"
 docKind: "type"
-libraryKey: "SE_Random-2"
-libraryName: "SE_Random"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "2"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Planetary-Gas-Table-102"
-typeName: "Planetary Gas Table"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "102"
-sourceDebugPath: "GameDataAdapter.DataTables[42]"
 fieldsCount: 1
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Random-2"
+  name: "SE_Random"
+  id: "2"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Planetary-Gas-Table-102"
+  name: "Planetary Gas Table"
+  id: "102"
 ---
 
 # Planetary Gas Table
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 1 |
 | Id | 102 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

@@ -1,18 +1,20 @@
 ---
 title: "Tracks"
 docKind: "type"
-libraryKey: "SE_DSS-3"
-libraryName: "SE_DSS"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "3"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Tracks-87"
-typeName: "Tracks"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "87"
-sourceDebugPath: "GameDataAdapter.DataTables[27]"
 fieldsCount: 5
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_DSS-3"
+  name: "SE_DSS"
+  id: "3"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Tracks-87"
+  name: "Tracks"
+  id: "87"
 ---
 
 # Tracks
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 5 |
 | Id | 87 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 13 |
 
 ## Fields

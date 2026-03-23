@@ -1,18 +1,20 @@
 ---
 title: "Patronage"
 docKind: "type"
-libraryKey: "SE_Politics-31"
-libraryName: "SE_Politics"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "31"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Patronage-593"
-typeName: "Patronage"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "593"
-sourceDebugPath: "GameDataAdapter.DataTables[515]"
 fieldsCount: 3
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Politics-31"
+  name: "SE_Politics"
+  id: "31"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Patronage-593"
+  name: "Patronage"
+  id: "593"
 ---
 
 # Patronage
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 3 |
 | Id | 593 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

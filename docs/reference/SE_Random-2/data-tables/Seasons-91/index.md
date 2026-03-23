@@ -1,18 +1,20 @@
 ---
 title: "Seasons"
 docKind: "type"
-libraryKey: "SE_Random-2"
-libraryName: "SE_Random"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "2"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Seasons-91"
-typeName: "Seasons"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "91"
-sourceDebugPath: "GameDataAdapter.DataTables[31]"
 fieldsCount: 9
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Random-2"
+  name: "SE_Random"
+  id: "2"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Seasons-91"
+  name: "Seasons"
+  id: "91"
 ---
 
 # Seasons
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 9 |
 | Id | 91 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

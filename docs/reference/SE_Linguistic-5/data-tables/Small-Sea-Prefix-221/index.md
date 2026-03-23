@@ -1,18 +1,20 @@
 ---
 title: "Small Sea Prefix"
 docKind: "type"
-libraryKey: "SE_Linguistic-5"
-libraryName: "SE_Linguistic"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "5"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Small-Sea-Prefix-221"
-typeName: "Small Sea Prefix"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "221"
-sourceDebugPath: "GameDataAdapter.DataTables[157]"
 fieldsCount: 0
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Linguistic-5"
+  name: "SE_Linguistic"
+  id: "5"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Small-Sea-Prefix-221"
+  name: "Small Sea Prefix"
+  id: "221"
 ---
 
 # Small Sea Prefix
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 0 |
 | Id | 221 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 59 |
 
 ## Fields

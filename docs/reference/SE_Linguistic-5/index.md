@@ -1,12 +1,14 @@
 ---
 title: "SE_Linguistic"
 docKind: "library"
-libraryKey: "SE_Linguistic-5"
-libraryName: "SE_Linguistic"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "5"
 isSyntheticRoot: false
 typeCount: 49
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Linguistic-5"
+  name: "SE_Linguistic"
+  id: "5"
 ---
 
 # SE_Linguistic

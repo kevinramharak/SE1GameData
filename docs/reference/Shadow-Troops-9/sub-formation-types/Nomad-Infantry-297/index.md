@@ -1,18 +1,20 @@
 ---
 title: "Nomad Infantry"
 docKind: "type"
-libraryKey: "Shadow-Troops-9"
-libraryName: "Shadow Troops"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "9"
-typeGroupKey: "sub-formation-types"
-typeGroupName: "Sub Formation Types"
-typeKey: "Nomad-Infantry-297"
-typeName: "Nomad Infantry"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "297"
-sourceDebugPath: "GameDataAdapter.SubFormationTypes[94]"
 fieldsCount: 1
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "Shadow-Troops-9"
+  name: "Shadow Troops"
+  id: "9"
+typeGroup:
+  key: "sub-formation-types"
+  name: "Sub Formation Types"
+type:
+  key: "Nomad-Infantry-297"
+  name: "Nomad Infantry"
+  id: "297"
 ---
 
 # Nomad Infantry

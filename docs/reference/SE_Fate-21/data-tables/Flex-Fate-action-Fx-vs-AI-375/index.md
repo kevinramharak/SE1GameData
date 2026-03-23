@@ -1,18 +1,20 @@
 ---
 title: "Flex Fate action Fx vs AI"
 docKind: "type"
-libraryKey: "SE_Fate-21"
-libraryName: "SE_Fate"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "21"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-Fate-action-Fx-vs-AI-375"
-typeName: "Flex Fate action Fx vs AI"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "375"
-sourceDebugPath: "GameDataAdapter.DataTables[306]"
 fieldsCount: 7
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Fate-21"
+  name: "SE_Fate"
+  id: "21"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-Fate-action-Fx-vs-AI-375"
+  name: "Flex Fate action Fx vs AI"
+  id: "375"
 ---
 
 # Flex Fate action Fx vs AI
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 7 |
 | Id | 375 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 363 |
 
 ## Fields

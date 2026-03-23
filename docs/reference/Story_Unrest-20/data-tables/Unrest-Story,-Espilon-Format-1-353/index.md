@@ -1,18 +1,20 @@
 ---
 title: "Unrest Story, Espilon Format 1"
 docKind: "type"
-libraryKey: "Story_Unrest-20"
-libraryName: "Story_Unrest"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "20"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Unrest-Story,-Espilon-Format-1-353"
-typeName: "Unrest Story, Espilon Format 1"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "353"
-sourceDebugPath: "GameDataAdapter.DataTables[284]"
 fieldsCount: 71
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "Story_Unrest-20"
+  name: "Story_Unrest"
+  id: "20"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Unrest-Story,-Espilon-Format-1-353"
+  name: "Unrest Story, Espilon Format 1"
+  id: "353"
 ---
 
 # Unrest Story, Espilon Format 1
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 71 |
 | Id | 353 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 14 |
 
 ## Fields

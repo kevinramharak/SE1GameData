@@ -1,9 +1,9 @@
 ---
 title: "Data Tables"
-docKind: "catalog-type-group"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-entryCount: 524
+docKind: "type-group-catalog-index"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
 ---
 
 # Data Tables

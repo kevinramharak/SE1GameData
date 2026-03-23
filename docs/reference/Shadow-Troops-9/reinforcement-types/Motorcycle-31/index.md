@@ -1,18 +1,20 @@
 ---
 title: "Motorcycle"
 docKind: "type"
-libraryKey: "Shadow-Troops-9"
-libraryName: "Shadow Troops"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "9"
-typeGroupKey: "reinforcement-types"
-typeGroupName: "Reinforcement Types"
-typeKey: "Motorcycle-31"
-typeName: "Motorcycle"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "31"
-sourceDebugPath: "DataClass.{ ReinfId, ReinfName, ReinfRatio, ReinfLibId }[5]"
 fieldsCount: 2
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "Shadow-Troops-9"
+  name: "Shadow Troops"
+  id: "9"
+typeGroup:
+  key: "reinforcement-types"
+  name: "Reinforcement Types"
+type:
+  key: "Motorcycle-31"
+  name: "Motorcycle"
+  id: "31"
 ---
 
 # Motorcycle

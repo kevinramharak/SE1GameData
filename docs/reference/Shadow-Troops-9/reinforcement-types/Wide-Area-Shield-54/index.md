@@ -1,18 +1,20 @@
 ---
 title: "Wide Area Shield"
 docKind: "type"
-libraryKey: "Shadow-Troops-9"
-libraryName: "Shadow Troops"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "9"
-typeGroupKey: "reinforcement-types"
-typeGroupName: "Reinforcement Types"
-typeKey: "Wide-Area-Shield-54"
-typeName: "Wide Area Shield"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "54"
-sourceDebugPath: "DataClass.{ ReinfId, ReinfName, ReinfRatio, ReinfLibId }[24]"
 fieldsCount: 2
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "Shadow-Troops-9"
+  name: "Shadow Troops"
+  id: "9"
+typeGroup:
+  key: "reinforcement-types"
+  name: "Reinforcement Types"
+type:
+  key: "Wide-Area-Shield-54"
+  name: "Wide Area Shield"
+  id: "54"
 ---
 
 # Wide Area Shield

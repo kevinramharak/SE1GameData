@@ -1,18 +1,20 @@
 ---
 title: "Flex Story Triggers"
 docKind: "type"
-libraryKey: "Story_UpgradeCity-14"
-libraryName: "Story_UpgradeCity"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "14"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-Story-Triggers-268"
-typeName: "Flex Story Triggers"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "268"
-sourceDebugPath: "GameDataAdapter.DataTables[203]"
 fieldsCount: 24
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "Story_UpgradeCity-14"
+  name: "Story_UpgradeCity"
+  id: "14"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-Story-Triggers-268"
+  name: "Flex Story Triggers"
+  id: "268"
 ---
 
 # Flex Story Triggers
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 24 |
 | Id | 268 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 6 |
 
 ## Fields

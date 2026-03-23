@@ -1,18 +1,20 @@
 ---
 title: "204 Different Vote+Ascension"
 docKind: "type"
-libraryKey: "SE_Politics-31"
-libraryName: "SE_Politics"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "31"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "204-Different-Vote+Ascension-577"
-typeName: "204 Different Vote+Ascension"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "577"
-sourceDebugPath: "GameDataAdapter.DataTables[499]"
 fieldsCount: 134
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Politics-31"
+  name: "SE_Politics"
+  id: "31"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "204-Different-Vote+Ascension-577"
+  name: "204 Different Vote+Ascension"
+  id: "577"
 ---
 
 # 204 Different Vote+Ascension
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 134 |
 | Id | 577 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 23 |
 
 ## Fields

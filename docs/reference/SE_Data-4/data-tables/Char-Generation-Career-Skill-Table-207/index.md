@@ -1,18 +1,20 @@
 ---
 title: "Char Generation Career-Skill Table"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Char-Generation-Career-Skill-Table-207"
-typeName: "Char Generation Career-Skill Table"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "207"
-sourceDebugPath: "GameDataAdapter.DataTables[143]"
 fieldsCount: 1
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Char-Generation-Career-Skill-Table-207"
+  name: "Char Generation Career-Skill Table"
+  id: "207"
 ---
 
 # Char Generation Career-Skill Table
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 1 |
 | Id | 207 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 78 |
 
 ## Fields

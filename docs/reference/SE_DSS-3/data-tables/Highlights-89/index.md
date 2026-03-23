@@ -1,18 +1,20 @@
 ---
 title: "Highlights"
 docKind: "type"
-libraryKey: "SE_DSS-3"
-libraryName: "SE_DSS"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "3"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Highlights-89"
-typeName: "Highlights"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "89"
-sourceDebugPath: "GameDataAdapter.DataTables[29]"
 fieldsCount: 5
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_DSS-3"
+  name: "SE_DSS"
+  id: "3"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Highlights-89"
+  name: "Highlights"
+  id: "89"
 ---
 
 # Highlights
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 5 |
 | Id | 89 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 51 |
 
 ## Fields

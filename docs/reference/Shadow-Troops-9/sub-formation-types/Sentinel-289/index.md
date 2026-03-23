@@ -1,18 +1,20 @@
 ---
 title: "Sentinel"
 docKind: "type"
-libraryKey: "Shadow-Troops-9"
-libraryName: "Shadow Troops"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "9"
-typeGroupKey: "sub-formation-types"
-typeGroupName: "Sub Formation Types"
-typeKey: "Sentinel-289"
-typeName: "Sentinel"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "289"
-sourceDebugPath: "GameDataAdapter.SubFormationTypes[90]"
 fieldsCount: 1
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "Shadow-Troops-9"
+  name: "Shadow Troops"
+  id: "9"
+typeGroup:
+  key: "sub-formation-types"
+  name: "Sub Formation Types"
+type:
+  key: "Sentinel-289"
+  name: "Sentinel"
+  id: "289"
 ---
 
 # Sentinel

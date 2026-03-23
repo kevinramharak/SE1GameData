@@ -1,18 +1,20 @@
 ---
 title: "Old Character Log"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Old-Character-Log-365"
-typeName: "Old Character Log"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "365"
-sourceDebugPath: "GameDataAdapter.DataTables[296]"
 fieldsCount: 3
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Old-Character-Log-365"
+  name: "Old Character Log"
+  id: "365"
 ---
 
 # Old Character Log
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 3 |
 | Id | 365 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

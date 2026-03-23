@@ -1,18 +1,20 @@
 ---
 title: "Flak Gun"
 docKind: "type"
-libraryKey: "Shadow-Troops-9"
-libraryName: "Shadow Troops"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "9"
-typeGroupKey: "reinforcement-types"
-typeGroupName: "Reinforcement Types"
-typeKey: "Flak-Gun-66"
-typeName: "Flak Gun"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "66"
-sourceDebugPath: "DataClass.{ ReinfId, ReinfName, ReinfRatio, ReinfLibId }[36]"
 fieldsCount: 2
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "Shadow-Troops-9"
+  name: "Shadow Troops"
+  id: "9"
+typeGroup:
+  key: "reinforcement-types"
+  name: "Reinforcement Types"
+type:
+  key: "Flak-Gun-66"
+  name: "Flak Gun"
+  id: "66"
 ---
 
 # Flak Gun

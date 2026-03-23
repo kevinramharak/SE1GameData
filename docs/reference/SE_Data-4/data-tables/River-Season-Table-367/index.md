@@ -1,18 +1,20 @@
 ---
 title: "River Season Table"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "River-Season-Table-367"
-typeName: "River Season Table"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "367"
-sourceDebugPath: "GameDataAdapter.DataTables[298]"
 fieldsCount: 5
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "River-Season-Table-367"
+  name: "River Season Table"
+  id: "367"
 ---
 
 # River Season Table
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 5 |
 | Id | 367 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 8 |
 
 ## Fields

@@ -1,18 +1,20 @@
 ---
 title: "Globals"
 docKind: "type"
-libraryKey: "root"
-libraryName: "root"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "Root"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Globals-58"
-typeName: "Globals"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "58"
-sourceDebugPath: "GameDataAdapter.DataTables[0]"
 fieldsCount: 1
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "root"
+  name: "root"
+  id: "Root"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Globals-58"
+  name: "Globals"
+  id: "58"
 ---
 
 # Globals
@@ -25,7 +27,6 @@ fieldsCount: 1
 | --- | --- |
 | ColumnCount | 1 |
 | Id | 58 |
-| IsEditableInSimpleEditor | False |
 | RowCount | 0 |
 
 ## Fields

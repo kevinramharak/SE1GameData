@@ -1,18 +1,20 @@
 ---
 title: "MG Militia"
 docKind: "type"
-libraryKey: "Shadow-Troops-9"
-libraryName: "Shadow Troops"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "9"
-typeGroupKey: "sub-formation-types"
-typeGroupName: "Sub Formation Types"
-typeKey: "MG-Militia-205"
-typeName: "MG Militia"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "205"
-sourceDebugPath: "GameDataAdapter.SubFormationTypes[52]"
 fieldsCount: 1
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "Shadow-Troops-9"
+  name: "Shadow Troops"
+  id: "9"
+typeGroup:
+  key: "sub-formation-types"
+  name: "Sub Formation Types"
+type:
+  key: "MG-Militia-205"
+  name: "MG Militia"
+  id: "205"
 ---
 
 # MG Militia

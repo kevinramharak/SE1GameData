@@ -1,18 +1,20 @@
 ---
 title: "Helper Regime Feat Type Fx"
 docKind: "type"
-libraryKey: "SE_Politics-31"
-libraryName: "SE_Politics"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "31"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Helper-Regime-Feat-Type-Fx-587"
-typeName: "Helper Regime Feat Type Fx"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "587"
-sourceDebugPath: "GameDataAdapter.DataTables[509]"
 fieldsCount: 5
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Politics-31"
+  name: "SE_Politics"
+  id: "31"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Helper-Regime-Feat-Type-Fx-587"
+  name: "Helper Regime Feat Type Fx"
+  id: "587"
 ---
 
 # Helper Regime Feat Type Fx
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 5 |
 | Id | 587 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 25 |
 
 ## Fields

@@ -1,18 +1,20 @@
 ---
 title: "New Stringlist"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "New-Stringlist-514"
-typeName: "New Stringlist"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "514"
-sourceDebugPath: "GameDataAdapter.DataTables[436]"
 fieldsCount: 4
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "New-Stringlist-514"
+  name: "New Stringlist"
+  id: "514"
 ---
 
 # New Stringlist
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 4 |
 | Id | 514 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

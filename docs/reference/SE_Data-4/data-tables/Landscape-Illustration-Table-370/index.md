@@ -1,18 +1,20 @@
 ---
 title: "Landscape Illustration Table"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Landscape-Illustration-Table-370"
-typeName: "Landscape Illustration Table"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "370"
-sourceDebugPath: "GameDataAdapter.DataTables[301]"
 fieldsCount: 9
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Landscape-Illustration-Table-370"
+  name: "Landscape Illustration Table"
+  id: "370"
 ---
 
 # Landscape Illustration Table
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 9 |
 | Id | 370 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 40 |
 
 ## Fields

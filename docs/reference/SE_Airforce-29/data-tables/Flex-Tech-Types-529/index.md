@@ -1,18 +1,20 @@
 ---
 title: "Flex Tech Types"
 docKind: "type"
-libraryKey: "SE_Airforce-29"
-libraryName: "SE_Airforce"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "29"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-Tech-Types-529"
-typeName: "Flex Tech Types"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "529"
-sourceDebugPath: "GameDataAdapter.DataTables[451]"
 fieldsCount: 22
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Airforce-29"
+  name: "SE_Airforce"
+  id: "29"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-Tech-Types-529"
+  name: "Flex Tech Types"
+  id: "529"
 ---
 
 # Flex Tech Types
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 22 |
 | Id | 529 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 20 |
 
 ## Fields

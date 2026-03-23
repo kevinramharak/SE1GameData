@@ -1,12 +1,14 @@
 ---
 title: "SE_Data"
 docKind: "library"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
 isSyntheticRoot: false
 typeCount: 178
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
 ---
 
 # SE_Data

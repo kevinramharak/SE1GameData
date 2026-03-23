@@ -1,18 +1,20 @@
 ---
 title: "Flex Tech-ModelType Effects"
 docKind: "type"
-libraryKey: "SE_Airforce-29"
-libraryName: "SE_Airforce"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "29"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-Tech-ModelType-Effects-518"
-typeName: "Flex Tech-ModelType Effects"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "518"
-sourceDebugPath: "GameDataAdapter.DataTables[440]"
 fieldsCount: 6
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Airforce-29"
+  name: "SE_Airforce"
+  id: "29"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-Tech-ModelType-Effects-518"
+  name: "Flex Tech-ModelType Effects"
+  id: "518"
 ---
 
 # Flex Tech-ModelType Effects
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 6 |
 | Id | 518 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 27 |
 
 ## Fields

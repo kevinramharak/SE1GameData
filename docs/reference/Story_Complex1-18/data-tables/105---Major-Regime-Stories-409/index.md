@@ -1,18 +1,20 @@
 ---
 title: "105 : Major Regime Stories"
 docKind: "type"
-libraryKey: "Story_Complex1-18"
-libraryName: "Story_Complex1"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "18"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "105---Major-Regime-Stories-409"
-typeName: "105 : Major Regime Stories"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "409"
-sourceDebugPath: "GameDataAdapter.DataTables[339]"
 fieldsCount: 158
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "Story_Complex1-18"
+  name: "Story_Complex1"
+  id: "18"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "105---Major-Regime-Stories-409"
+  name: "105 : Major Regime Stories"
+  id: "409"
 ---
 
 # 105 : Major Regime Stories
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 158 |
 | Id | 409 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 29 |
 
 ## Fields

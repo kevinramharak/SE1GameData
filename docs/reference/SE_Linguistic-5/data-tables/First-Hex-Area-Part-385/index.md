@@ -1,18 +1,20 @@
 ---
 title: "First Hex Area Part"
 docKind: "type"
-libraryKey: "SE_Linguistic-5"
-libraryName: "SE_Linguistic"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "5"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "First-Hex-Area-Part-385"
-typeName: "First Hex Area Part"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "385"
-sourceDebugPath: "GameDataAdapter.DataTables[315]"
 fieldsCount: 1
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Linguistic-5"
+  name: "SE_Linguistic"
+  id: "5"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "First-Hex-Area-Part-385"
+  name: "First Hex Area Part"
+  id: "385"
 ---
 
 # First Hex Area Part
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 1 |
 | Id | 385 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 174 |
 
 ## Fields

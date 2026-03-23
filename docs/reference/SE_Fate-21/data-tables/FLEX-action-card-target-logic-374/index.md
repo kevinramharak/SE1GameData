@@ -1,18 +1,20 @@
 ---
 title: "FLEX action card target logic"
 docKind: "type"
-libraryKey: "SE_Fate-21"
-libraryName: "SE_Fate"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "21"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "FLEX-action-card-target-logic-374"
-typeName: "FLEX action card target logic"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "374"
-sourceDebugPath: "GameDataAdapter.DataTables[305]"
 fieldsCount: 4
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Fate-21"
+  name: "SE_Fate"
+  id: "21"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "FLEX-action-card-target-logic-374"
+  name: "FLEX action card target logic"
+  id: "374"
 ---
 
 # FLEX action card target logic
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 4 |
 | Id | 374 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 114 |
 
 ## Fields

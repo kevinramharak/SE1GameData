@@ -1,18 +1,20 @@
 ---
 title: "Lifeform Gas Limits"
 docKind: "type"
-libraryKey: "SE_Random-2"
-libraryName: "SE_Random"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "2"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Lifeform-Gas-Limits-101"
-typeName: "Lifeform Gas Limits"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "101"
-sourceDebugPath: "GameDataAdapter.DataTables[41]"
 fieldsCount: 5
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Random-2"
+  name: "SE_Random"
+  id: "2"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Lifeform-Gas-Limits-101"
+  name: "Lifeform Gas Limits"
+  id: "101"
 ---
 
 # Lifeform Gas Limits
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 5 |
 | Id | 101 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

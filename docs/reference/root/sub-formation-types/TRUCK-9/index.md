@@ -1,18 +1,20 @@
 ---
 title: "TRUCK"
 docKind: "type"
-libraryKey: "root"
-libraryName: "root"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "Root"
-typeGroupKey: "sub-formation-types"
-typeGroupName: "Sub Formation Types"
-typeKey: "TRUCK-9"
-typeName: "TRUCK"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "9"
-sourceDebugPath: "GameDataAdapter.SubFormationTypes[6]"
 fieldsCount: 1
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "root"
+  name: "root"
+  id: "Root"
+typeGroup:
+  key: "sub-formation-types"
+  name: "Sub Formation Types"
+type:
+  key: "TRUCK-9"
+  name: "TRUCK"
+  id: "9"
 ---
 
 # TRUCK

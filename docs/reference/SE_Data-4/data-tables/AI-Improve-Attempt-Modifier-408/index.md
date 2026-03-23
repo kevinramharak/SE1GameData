@@ -1,18 +1,20 @@
 ---
 title: "AI Improve Attempt Modifier"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "AI-Improve-Attempt-Modifier-408"
-typeName: "AI Improve Attempt Modifier"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "408"
-sourceDebugPath: "GameDataAdapter.DataTables[338]"
 fieldsCount: 12
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "AI-Improve-Attempt-Modifier-408"
+  name: "AI Improve Attempt Modifier"
+  id: "408"
 ---
 
 # AI Improve Attempt Modifier
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 12 |
 | Id | 408 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 12 |
 
 ## Fields

@@ -1,18 +1,20 @@
 ---
 title: "Rebel Story, Epsilon Format 1"
 docKind: "type"
-libraryKey: "Story_Unrest-20"
-libraryName: "Story_Unrest"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "20"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Rebel-Story,-Epsilon-Format-1-357"
-typeName: "Rebel Story, Epsilon Format 1"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "357"
-sourceDebugPath: "GameDataAdapter.DataTables[288]"
 fieldsCount: 86
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "Story_Unrest-20"
+  name: "Story_Unrest"
+  id: "20"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Rebel-Story,-Epsilon-Format-1-357"
+  name: "Rebel Story, Epsilon Format 1"
+  id: "357"
 ---
 
 # Rebel Story, Epsilon Format 1
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 86 |
 | Id | 357 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 1 |
 
 ## Fields

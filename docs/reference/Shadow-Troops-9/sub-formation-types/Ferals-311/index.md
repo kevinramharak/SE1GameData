@@ -1,18 +1,20 @@
 ---
 title: "Ferals"
 docKind: "type"
-libraryKey: "Shadow-Troops-9"
-libraryName: "Shadow Troops"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "9"
-typeGroupKey: "sub-formation-types"
-typeGroupName: "Sub Formation Types"
-typeKey: "Ferals-311"
-typeName: "Ferals"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "311"
-sourceDebugPath: "GameDataAdapter.SubFormationTypes[101]"
 fieldsCount: 1
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "Shadow-Troops-9"
+  name: "Shadow Troops"
+  id: "9"
+typeGroup:
+  key: "sub-formation-types"
+  name: "Sub Formation Types"
+type:
+  key: "Ferals-311"
+  name: "Ferals"
+  id: "311"
 ---
 
 # Ferals

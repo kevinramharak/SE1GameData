@@ -1,18 +1,20 @@
 ---
 title: "Lifeclass Name Table"
 docKind: "type"
-libraryKey: "SE_Linguistic-5"
-libraryName: "SE_Linguistic"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "5"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Lifeclass-Name-Table-127"
-typeName: "Lifeclass Name Table"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "127"
-sourceDebugPath: "GameDataAdapter.DataTables[67]"
 fieldsCount: 2
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Linguistic-5"
+  name: "SE_Linguistic"
+  id: "5"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Lifeclass-Name-Table-127"
+  name: "Lifeclass Name Table"
+  id: "127"
 ---
 
 # Lifeclass Name Table
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 2 |
 | Id | 127 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 60 |
 
 ## Fields

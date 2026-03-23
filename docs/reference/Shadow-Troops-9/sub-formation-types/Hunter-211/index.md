@@ -1,18 +1,20 @@
 ---
 title: "Hunter"
 docKind: "type"
-libraryKey: "Shadow-Troops-9"
-libraryName: "Shadow Troops"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "9"
-typeGroupKey: "sub-formation-types"
-typeGroupName: "Sub Formation Types"
-typeKey: "Hunter-211"
-typeName: "Hunter"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "211"
-sourceDebugPath: "GameDataAdapter.SubFormationTypes[55]"
 fieldsCount: 1
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "Shadow-Troops-9"
+  name: "Shadow Troops"
+  id: "9"
+typeGroup:
+  key: "sub-formation-types"
+  name: "Sub Formation Types"
+type:
+  key: "Hunter-211"
+  name: "Hunter"
+  id: "211"
 ---
 
 # Hunter

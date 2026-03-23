@@ -1,18 +1,20 @@
 ---
 title: "Char name suffix masculin"
 docKind: "type"
-libraryKey: "SE_Linguistic-5"
-libraryName: "SE_Linguistic"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "5"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Char-name-suffix-masculin-177"
-typeName: "Char name suffix masculin"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "177"
-sourceDebugPath: "GameDataAdapter.DataTables[113]"
 fieldsCount: 0
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Linguistic-5"
+  name: "SE_Linguistic"
+  id: "5"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Char-name-suffix-masculin-177"
+  name: "Char name suffix masculin"
+  id: "177"
 ---
 
 # Char name suffix masculin
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 0 |
 | Id | 177 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 17 |
 
 ## Fields

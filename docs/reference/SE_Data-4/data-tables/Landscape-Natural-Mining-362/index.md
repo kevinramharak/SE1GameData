@@ -1,18 +1,20 @@
 ---
 title: "Landscape Natural Mining"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Landscape-Natural-Mining-362"
-typeName: "Landscape Natural Mining"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "362"
-sourceDebugPath: "GameDataAdapter.DataTables[293]"
 fieldsCount: 4
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Landscape-Natural-Mining-362"
+  name: "Landscape Natural Mining"
+  id: "362"
 ---
 
 # Landscape Natural Mining
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 4 |
 | Id | 362 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 17 |
 
 ## Fields

@@ -1,18 +1,20 @@
 ---
 title: "SSF Event Stories"
 docKind: "type"
-libraryKey: "SE_Politics-31"
-libraryName: "SE_Politics"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "31"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "SSF-Event-Stories-592"
-typeName: "SSF Event Stories"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "592"
-sourceDebugPath: "GameDataAdapter.DataTables[514]"
 fieldsCount: 252
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Politics-31"
+  name: "SE_Politics"
+  id: "31"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "SSF-Event-Stories-592"
+  name: "SSF Event Stories"
+  id: "592"
 ---
 
 # SSF Event Stories
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 252 |
 | Id | 592 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 51 |
 
 ## Fields

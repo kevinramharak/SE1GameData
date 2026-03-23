@@ -1,18 +1,20 @@
 ---
 title: "Skill Types"
 docKind: "type"
-libraryKey: "SE_Politics-31"
-libraryName: "SE_Politics"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "31"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Skill-Types-580"
-typeName: "Skill Types"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "580"
-sourceDebugPath: "GameDataAdapter.DataTables[502]"
 fieldsCount: 15
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Politics-31"
+  name: "SE_Politics"
+  id: "31"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Skill-Types-580"
+  name: "Skill Types"
+  id: "580"
 ---
 
 # Skill Types
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 15 |
 | Id | 580 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 1 |
 
 ## Fields

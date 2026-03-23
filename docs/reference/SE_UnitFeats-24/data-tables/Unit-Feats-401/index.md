@@ -1,18 +1,20 @@
 ---
 title: "Unit Feats"
 docKind: "type"
-libraryKey: "SE_UnitFeats-24"
-libraryName: "SE_UnitFeats"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "24"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Unit-Feats-401"
-typeName: "Unit Feats"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "401"
-sourceDebugPath: "GameDataAdapter.DataTables[331]"
 fieldsCount: 15
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_UnitFeats-24"
+  name: "SE_UnitFeats"
+  id: "24"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Unit-Feats-401"
+  name: "Unit Feats"
+  id: "401"
 ---
 
 # Unit Feats
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 15 |
 | Id | 401 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 46 |
 
 ## Fields

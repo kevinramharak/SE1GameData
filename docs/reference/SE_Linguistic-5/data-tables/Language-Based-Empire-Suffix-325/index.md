@@ -1,18 +1,20 @@
 ---
 title: "Language Based Empire Suffix"
 docKind: "type"
-libraryKey: "SE_Linguistic-5"
-libraryName: "SE_Linguistic"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "5"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Language-Based-Empire-Suffix-325"
-typeName: "Language Based Empire Suffix"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "325"
-sourceDebugPath: "GameDataAdapter.DataTables[258]"
 fieldsCount: 11
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Linguistic-5"
+  name: "SE_Linguistic"
+  id: "5"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Language-Based-Empire-Suffix-325"
+  name: "Language Based Empire Suffix"
+  id: "325"
 ---
 
 # Language Based Empire Suffix
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 11 |
 | Id | 325 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 65 |
 
 ## Fields

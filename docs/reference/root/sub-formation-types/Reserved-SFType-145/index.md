@@ -1,18 +1,20 @@
 ---
 title: "Reserved SFType"
 docKind: "type"
-libraryKey: "root"
-libraryName: "root"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "Root"
-typeGroupKey: "sub-formation-types"
-typeGroupName: "Sub Formation Types"
-typeKey: "Reserved-SFType-145"
-typeName: "Reserved SFType"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "145"
-sourceDebugPath: "GameDataAdapter.SubFormationTypes[48]"
 fieldsCount: 1
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "root"
+  name: "root"
+  id: "Root"
+typeGroup:
+  key: "sub-formation-types"
+  name: "Sub Formation Types"
+type:
+  key: "Reserved-SFType-145"
+  name: "Reserved SFType"
+  id: "145"
 ---
 
 # Reserved SFType

@@ -1,18 +1,20 @@
 ---
 title: "Militia Naming Table"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Militia-Naming-Table-172"
-typeName: "Militia Naming Table"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "172"
-sourceDebugPath: "GameDataAdapter.DataTables[110]"
 fieldsCount: 2
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Militia-Naming-Table-172"
+  name: "Militia Naming Table"
+  id: "172"
 ---
 
 # Militia Naming Table
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 2 |
 | Id | 172 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

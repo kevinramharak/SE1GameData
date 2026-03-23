@@ -1,18 +1,20 @@
 ---
 title: "Detailed Reports"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Detailed-Reports-211"
-typeName: "Detailed Reports"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "211"
-sourceDebugPath: "GameDataAdapter.DataTables[147]"
 fieldsCount: 7
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Detailed-Reports-211"
+  name: "Detailed Reports"
+  id: "211"
 ---
 
 # Detailed Reports
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 7 |
 | Id | 211 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

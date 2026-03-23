@@ -1,18 +1,20 @@
 ---
 title: "Blue Prints"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Blue-Prints-567"
-typeName: "Blue Prints"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "567"
-sourceDebugPath: "GameDataAdapter.DataTables[489]"
 fieldsCount: 25
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Blue-Prints-567"
+  name: "Blue Prints"
+  id: "567"
 ---
 
 # Blue Prints
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 25 |
 | Id | 567 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

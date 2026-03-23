@@ -1,18 +1,20 @@
 ---
 title: "Help Topics"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Help-Topics-504"
-typeName: "Help Topics"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "504"
-sourceDebugPath: "GameDataAdapter.DataTables[429]"
 fieldsCount: 9
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Help-Topics-504"
+  name: "Help Topics"
+  id: "504"
 ---
 
 # Help Topics
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 9 |
 | Id | 504 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 128 |
 
 ## Fields

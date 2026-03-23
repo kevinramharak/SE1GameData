@@ -1,18 +1,20 @@
 ---
 title: "Unit Feats"
 docKind: "type"
-libraryKey: "SE_Cult-28"
-libraryName: "SE_Cult"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "28"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Unit-Feats-492"
-typeName: "Unit Feats"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "492"
-sourceDebugPath: "GameDataAdapter.DataTables[417]"
 fieldsCount: 14
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Cult-28"
+  name: "SE_Cult"
+  id: "28"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Unit-Feats-492"
+  name: "Unit Feats"
+  id: "492"
 ---
 
 # Unit Feats
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 14 |
 | Id | 492 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 6 |
 
 ## Fields

@@ -1,18 +1,20 @@
 ---
 title: "New Stringlist"
 docKind: "type"
-libraryKey: "SE_Politics-31"
-libraryName: "SE_Politics"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "31"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "New-Stringlist-601"
-typeName: "New Stringlist"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "601"
-sourceDebugPath: "GameDataAdapter.DataTables[523]"
 fieldsCount: 3
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Politics-31"
+  name: "SE_Politics"
+  id: "31"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "New-Stringlist-601"
+  name: "New Stringlist"
+  id: "601"
 ---
 
 # New Stringlist
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 3 |
 | Id | 601 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 9 |
 
 ## Fields

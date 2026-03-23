@@ -1,18 +1,20 @@
 ---
 title: "Random Globals"
 docKind: "type"
-libraryKey: "SE_Random-2"
-libraryName: "SE_Random"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "2"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Random-Globals-84"
-typeName: "Random Globals"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "84"
-sourceDebugPath: "GameDataAdapter.DataTables[24]"
 fieldsCount: 1
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Random-2"
+  name: "SE_Random"
+  id: "2"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Random-Globals-84"
+  name: "Random Globals"
+  id: "84"
 ---
 
 # Random Globals
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 1 |
 | Id | 84 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

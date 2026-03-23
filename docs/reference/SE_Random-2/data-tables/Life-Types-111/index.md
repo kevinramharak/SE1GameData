@@ -1,18 +1,20 @@
 ---
 title: "Life Types"
 docKind: "type"
-libraryKey: "SE_Random-2"
-libraryName: "SE_Random"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "2"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Life-Types-111"
-typeName: "Life Types"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "111"
-sourceDebugPath: "GameDataAdapter.DataTables[51]"
 fieldsCount: 2
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Random-2"
+  name: "SE_Random"
+  id: "2"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Life-Types-111"
+  name: "Life Types"
+  id: "111"
 ---
 
 # Life Types
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 2 |
 | Id | 111 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 2 |
 
 ## Fields

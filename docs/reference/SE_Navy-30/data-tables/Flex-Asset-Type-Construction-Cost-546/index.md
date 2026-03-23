@@ -1,18 +1,20 @@
 ---
 title: "Flex Asset Type Construction Cost"
 docKind: "type"
-libraryKey: "SE_Navy-30"
-libraryName: "SE_Navy"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "30"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-Asset-Type-Construction-Cost-546"
-typeName: "Flex Asset Type Construction Cost"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "546"
-sourceDebugPath: "GameDataAdapter.DataTables[468]"
 fieldsCount: 3
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Navy-30"
+  name: "SE_Navy"
+  id: "30"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-Asset-Type-Construction-Cost-546"
+  name: "Flex Asset Type Construction Cost"
+  id: "546"
 ---
 
 # Flex Asset Type Construction Cost
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 3 |
 | Id | 546 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 19 |
 
 ## Fields

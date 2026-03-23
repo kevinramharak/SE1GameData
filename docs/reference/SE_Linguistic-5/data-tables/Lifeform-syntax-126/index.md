@@ -1,18 +1,20 @@
 ---
 title: "Lifeform syntax"
 docKind: "type"
-libraryKey: "SE_Linguistic-5"
-libraryName: "SE_Linguistic"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "5"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Lifeform-syntax-126"
-typeName: "Lifeform syntax"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "126"
-sourceDebugPath: "GameDataAdapter.DataTables[66]"
 fieldsCount: 4
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Linguistic-5"
+  name: "SE_Linguistic"
+  id: "5"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Lifeform-syntax-126"
+  name: "Lifeform syntax"
+  id: "126"
 ---
 
 # Lifeform syntax
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 4 |
 | Id | 126 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 4 |
 
 ## Fields

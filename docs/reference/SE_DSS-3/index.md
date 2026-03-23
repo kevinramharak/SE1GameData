@@ -1,12 +1,14 @@
 ---
 title: "SE_DSS"
 docKind: "library"
-libraryKey: "SE_DSS-3"
-libraryName: "SE_DSS"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "3"
 isSyntheticRoot: false
 typeCount: 3
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_DSS-3"
+  name: "SE_DSS"
+  id: "3"
 ---
 
 # SE_DSS

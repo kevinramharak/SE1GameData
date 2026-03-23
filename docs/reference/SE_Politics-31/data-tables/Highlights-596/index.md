@@ -1,18 +1,20 @@
 ---
 title: "Highlights"
 docKind: "type"
-libraryKey: "SE_Politics-31"
-libraryName: "SE_Politics"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "31"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Highlights-596"
-typeName: "Highlights"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "596"
-sourceDebugPath: "GameDataAdapter.DataTables[518]"
 fieldsCount: 5
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Politics-31"
+  name: "SE_Politics"
+  id: "31"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Highlights-596"
+  name: "Highlights"
+  id: "596"
 ---
 
 # Highlights
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 5 |
 | Id | 596 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 54 |
 
 ## Fields

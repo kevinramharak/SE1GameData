@@ -1,18 +1,20 @@
 ---
 title: "Hunt Radical"
 docKind: "type"
-libraryKey: "SE_Linguistic-5"
-libraryName: "SE_Linguistic"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "5"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Hunt-Radical-218"
-typeName: "Hunt Radical"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "218"
-sourceDebugPath: "GameDataAdapter.DataTables[154]"
 fieldsCount: 1
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Linguistic-5"
+  name: "SE_Linguistic"
+  id: "5"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Hunt-Radical-218"
+  name: "Hunt Radical"
+  id: "218"
 ---
 
 # Hunt Radical
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 1 |
 | Id | 218 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 10 |
 
 ## Fields

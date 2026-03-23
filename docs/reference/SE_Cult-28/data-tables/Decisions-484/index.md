@@ -1,18 +1,20 @@
 ---
 title: "Decisions"
 docKind: "type"
-libraryKey: "SE_Cult-28"
-libraryName: "SE_Cult"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "28"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Decisions-484"
-typeName: "Decisions"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "484"
-sourceDebugPath: "GameDataAdapter.DataTables[409]"
 fieldsCount: 134
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Cult-28"
+  name: "SE_Cult"
+  id: "28"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Decisions-484"
+  name: "Decisions"
+  id: "484"
 ---
 
 # Decisions
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 134 |
 | Id | 484 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 13 |
 
 ## Fields

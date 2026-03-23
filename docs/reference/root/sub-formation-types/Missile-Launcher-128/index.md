@@ -1,18 +1,20 @@
 ---
 title: "Missile Launcher"
 docKind: "type"
-libraryKey: "root"
-libraryName: "root"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "Root"
-typeGroupKey: "sub-formation-types"
-typeGroupName: "Sub Formation Types"
-typeKey: "Missile-Launcher-128"
-typeName: "Missile Launcher"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "128"
-sourceDebugPath: "GameDataAdapter.SubFormationTypes[31]"
 fieldsCount: 1
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "root"
+  name: "root"
+  id: "Root"
+typeGroup:
+  key: "sub-formation-types"
+  name: "Sub Formation Types"
+type:
+  key: "Missile-Launcher-128"
+  name: "Missile Launcher"
+  id: "128"
 ---
 
 # Missile Launcher

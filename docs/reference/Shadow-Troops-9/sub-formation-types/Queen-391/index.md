@@ -1,18 +1,20 @@
 ---
 title: "Queen"
 docKind: "type"
-libraryKey: "Shadow-Troops-9"
-libraryName: "Shadow Troops"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "9"
-typeGroupKey: "sub-formation-types"
-typeGroupName: "Sub Formation Types"
-typeKey: "Queen-391"
-typeName: "Queen"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "391"
-sourceDebugPath: "GameDataAdapter.SubFormationTypes[141]"
 fieldsCount: 1
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "Shadow-Troops-9"
+  name: "Shadow Troops"
+  id: "9"
+typeGroup:
+  key: "sub-formation-types"
+  name: "Sub Formation Types"
+type:
+  key: "Queen-391"
+  name: "Queen"
+  id: "391"
 ---
 
 # Queen

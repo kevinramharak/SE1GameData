@@ -1,18 +1,20 @@
 ---
 title: "Milita Trooptype Table"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Milita-Trooptype-Table-171"
-typeName: "Milita Trooptype Table"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "171"
-sourceDebugPath: "GameDataAdapter.DataTables[109]"
 fieldsCount: 7
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Milita-Trooptype-Table-171"
+  name: "Milita Trooptype Table"
+  id: "171"
 ---
 
 # Milita Trooptype Table
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 7 |
 | Id | 171 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 167 |
 
 ## Fields

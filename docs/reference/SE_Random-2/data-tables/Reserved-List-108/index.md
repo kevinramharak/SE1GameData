@@ -1,18 +1,20 @@
 ---
 title: "Reserved List"
 docKind: "type"
-libraryKey: "SE_Random-2"
-libraryName: "SE_Random"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "2"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Reserved-List-108"
-typeName: "Reserved List"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "108"
-sourceDebugPath: "GameDataAdapter.DataTables[48]"
 fieldsCount: 0
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Random-2"
+  name: "SE_Random"
+  id: "2"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Reserved-List-108"
+  name: "Reserved List"
+  id: "108"
 ---
 
 # Reserved List
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 0 |
 | Id | 108 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 1 |
 
 ## Fields

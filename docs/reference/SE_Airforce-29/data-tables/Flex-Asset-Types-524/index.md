@@ -1,18 +1,20 @@
 ---
 title: "Flex Asset Types"
 docKind: "type"
-libraryKey: "SE_Airforce-29"
-libraryName: "SE_Airforce"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "29"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-Asset-Types-524"
-typeName: "Flex Asset Types"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "524"
-sourceDebugPath: "GameDataAdapter.DataTables[446]"
 fieldsCount: 32
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Airforce-29"
+  name: "SE_Airforce"
+  id: "29"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-Asset-Types-524"
+  name: "Flex Asset Types"
+  id: "524"
 ---
 
 # Flex Asset Types
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 32 |
 | Id | 524 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 7 |
 
 ## Fields

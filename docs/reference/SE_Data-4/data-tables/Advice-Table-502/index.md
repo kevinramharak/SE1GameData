@@ -1,18 +1,20 @@
 ---
 title: "Advice Table"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Advice-Table-502"
-typeName: "Advice Table"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "502"
-sourceDebugPath: "GameDataAdapter.DataTables[427]"
 fieldsCount: 5
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Advice-Table-502"
+  name: "Advice Table"
+  id: "502"
 ---
 
 # Advice Table
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 5 |
 | Id | 502 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

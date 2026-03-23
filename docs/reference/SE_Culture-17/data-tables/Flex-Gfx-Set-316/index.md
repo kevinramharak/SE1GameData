@@ -1,18 +1,20 @@
 ---
 title: "Flex Gfx Set"
 docKind: "type"
-libraryKey: "SE_Culture-17"
-libraryName: "SE_Culture"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "17"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-Gfx-Set-316"
-typeName: "Flex Gfx Set"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "316"
-sourceDebugPath: "GameDataAdapter.DataTables[249]"
 fieldsCount: 11
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Culture-17"
+  name: "SE_Culture"
+  id: "17"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-Gfx-Set-316"
+  name: "Flex Gfx Set"
+  id: "316"
 ---
 
 # Flex Gfx Set
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 11 |
 | Id | 316 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 95 |
 
 ## Fields

@@ -1,18 +1,20 @@
 ---
 title: "AI Culture Group"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "AI-Culture-Group-405"
-typeName: "AI Culture Group"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "405"
-sourceDebugPath: "GameDataAdapter.DataTables[335]"
 fieldsCount: 6
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "AI-Culture-Group-405"
+  name: "AI Culture Group"
+  id: "405"
 ---
 
 # AI Culture Group
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 6 |
 | Id | 405 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 4 |
 
 ## Fields

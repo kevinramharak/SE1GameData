@@ -1,18 +1,20 @@
 ---
 title: "LIS Log Asset"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "LIS-Log-Asset-512"
-typeName: "LIS Log Asset"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "512"
-sourceDebugPath: "GameDataAdapter.DataTables[434]"
 fieldsCount: 9
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "LIS-Log-Asset-512"
+  name: "LIS Log Asset"
+  id: "512"
 ---
 
 # LIS Log Asset
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 9 |
 | Id | 512 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

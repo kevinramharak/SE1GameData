@@ -1,18 +1,20 @@
 ---
 title: "Regime Techs"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Regime-Techs-187"
-typeName: "Regime Techs"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "187"
-sourceDebugPath: "GameDataAdapter.DataTables[123]"
 fieldsCount: 2
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Regime-Techs-187"
+  name: "Regime Techs"
+  id: "187"
 ---
 
 # Regime Techs
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 2 |
 | Id | 187 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

@@ -1,18 +1,20 @@
 ---
 title: "Regime Relations"
 docKind: "type"
-libraryKey: "SE_Data-4"
-libraryName: "SE_Data"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "4"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Regime-Relations-275"
-typeName: "Regime Relations"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "275"
-sourceDebugPath: "GameDataAdapter.DataTables[210]"
 fieldsCount: 3
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Data-4"
+  name: "SE_Data"
+  id: "4"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Regime-Relations-275"
+  name: "Regime Relations"
+  id: "275"
 ---
 
 # Regime Relations
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 3 |
 | Id | 275 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 0 |
 
 ## Fields

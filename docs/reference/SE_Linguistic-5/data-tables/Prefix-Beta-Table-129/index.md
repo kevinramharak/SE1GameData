@@ -1,18 +1,20 @@
 ---
 title: "Prefix Beta Table"
 docKind: "type"
-libraryKey: "SE_Linguistic-5"
-libraryName: "SE_Linguistic"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "5"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Prefix-Beta-Table-129"
-typeName: "Prefix Beta Table"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "129"
-sourceDebugPath: "GameDataAdapter.DataTables[69]"
 fieldsCount: 1
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Linguistic-5"
+  name: "SE_Linguistic"
+  id: "5"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Prefix-Beta-Table-129"
+  name: "Prefix Beta Table"
+  id: "129"
 ---
 
 # Prefix Beta Table
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 1 |
 | Id | 129 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 19 |
 
 ## Fields

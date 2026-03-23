@@ -1,7 +1,6 @@
 ---
 title: "Library Catalog"
-docKind: "catalog-libraries"
-entryCount: 33
+docKind: "library-catalog-index"
 ---
 
 # Library Catalog

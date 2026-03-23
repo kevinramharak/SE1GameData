@@ -1,18 +1,20 @@
 ---
 title: "Flex Interior Actions"
 docKind: "type"
-libraryKey: "SE_Postures-19"
-libraryName: "SE_Postures"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "19"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Flex-Interior-Actions-350"
-typeName: "Flex Interior Actions"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "350"
-sourceDebugPath: "GameDataAdapter.DataTables[281]"
 fieldsCount: 18
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Postures-19"
+  name: "SE_Postures"
+  id: "19"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Flex-Interior-Actions-350"
+  name: "Flex Interior Actions"
+  id: "350"
 ---
 
 # Flex Interior Actions
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 18 |
 | Id | 350 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 24 |
 
 ## Fields

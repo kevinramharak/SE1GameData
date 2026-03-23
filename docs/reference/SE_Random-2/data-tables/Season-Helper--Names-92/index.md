@@ -1,18 +1,20 @@
 ---
 title: "Season Helper: Names"
 docKind: "type"
-libraryKey: "SE_Random-2"
-libraryName: "SE_Random"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "2"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Season-Helper--Names-92"
-typeName: "Season Helper: Names"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "92"
-sourceDebugPath: "GameDataAdapter.DataTables[32]"
 fieldsCount: 16
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Random-2"
+  name: "SE_Random"
+  id: "2"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Season-Helper--Names-92"
+  name: "Season Helper: Names"
+  id: "92"
 ---
 
 # Season Helper: Names
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 16 |
 | Id | 92 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 17 |
 
 ## Fields

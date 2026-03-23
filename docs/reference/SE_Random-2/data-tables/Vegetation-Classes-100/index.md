@@ -1,18 +1,20 @@
 ---
 title: "Vegetation Classes"
 docKind: "type"
-libraryKey: "SE_Random-2"
-libraryName: "SE_Random"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "2"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Vegetation-Classes-100"
-typeName: "Vegetation Classes"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "100"
-sourceDebugPath: "GameDataAdapter.DataTables[40]"
 fieldsCount: 3
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Random-2"
+  name: "SE_Random"
+  id: "2"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Vegetation-Classes-100"
+  name: "Vegetation Classes"
+  id: "100"
 ---
 
 # Vegetation Classes
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 3 |
 | Id | 100 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 12 |
 
 ## Fields

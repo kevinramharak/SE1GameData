@@ -1,18 +1,20 @@
 ---
 title: "Season Helper: Spring Mod"
 docKind: "type"
-libraryKey: "SE_Random-2"
-libraryName: "SE_Random"
-libraryIdentifierLabel: "Slot"
-libraryIdentifierValue: "2"
-typeGroupKey: "data-tables"
-typeGroupName: "Data Tables"
-typeKey: "Season-Helper--Spring-Mod-94"
-typeName: "Season Helper: Spring Mod"
-typeIdentifierLabel: "Id"
-typeIdentifierValue: "94"
-sourceDebugPath: "GameDataAdapter.DataTables[34]"
 fieldsCount: 16
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "SE_Random-2"
+  name: "SE_Random"
+  id: "2"
+typeGroup:
+  key: "data-tables"
+  name: "Data Tables"
+type:
+  key: "Season-Helper--Spring-Mod-94"
+  name: "Season Helper: Spring Mod"
+  id: "94"
 ---
 
 # Season Helper: Spring Mod
@@ -27,7 +29,6 @@ No description
 | --- | --- |
 | ColumnCount | 16 |
 | Id | 94 |
-| IsEditableInSimpleEditor | True |
 | RowCount | 17 |
 
 ## Fields
