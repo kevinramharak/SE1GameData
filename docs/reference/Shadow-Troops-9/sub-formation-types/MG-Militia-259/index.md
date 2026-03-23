@@ -1,0 +1,37 @@
+---
+title: "MG Militia"
+docKind: "type"
+fieldsCount: 1
+appearsIn:
+  - "archive-test.se1"
+library:
+  key: "Shadow-Troops-9"
+  name: "Shadow Troops"
+  id: "9"
+typeGroup:
+  key: "sub-formation-types"
+  name: "Sub Formation Types"
+type:
+  key: "MG-Militia-259"
+  name: "MG Militia"
+  id: "259"
+---
+
+# MG Militia
+
+Machinegunners  equiped with thermal clothing. This concerns improvised and local manufacture of usually low standards.
+
+<!-- @include: ./_notes.md -->
+
+## Metadata
+
+| Key | Value |
+| --- | --- |
+| Id | 259 |
+
+## Fields
+
+| Name | Type | Description | Value |
+| --- | --- | --- | --- |
+| Id | int |  | 259 |
+

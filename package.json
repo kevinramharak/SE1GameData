@@ -1,0 +1,19 @@
+{
+  "name": "se1gamedata",
+  "version": "0.0.1",
+  "description": "SE1GameData",
+  "type": "module",
+  "scripts": {
+    "generate": "node ./scripts/generate.ts",
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^25.5.0",
+    "vite-plugin-vue-devtools": "^8.1.0",
+    "vitepress": "^2.0.0-alpha.16",
+    "vue": "^3.5.30"
+  }
+}

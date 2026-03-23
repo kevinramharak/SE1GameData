@@ -1,0 +1,4 @@
+{
+  "editor.tabSize": 2,
+  "vue.server.includeLanguages": ["vue", "markdown"]
+}
