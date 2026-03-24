@@ -14,6 +14,11 @@ Some resources for modding:
 - [Shadow Empire Tutorial - Modyfing Existing Tables](https://docs.google.com/document/d/1CwPG0hinIayfeqjTACCyGFLU-nwHuP8YgRRf690yfmQ) by Akrakorn
 - [Shadow Empire Modding Guide](https://docs.google.com/document/d/1gS74sWD7BUxPok39RB77oX5gZbIlpsW0ow-ssRq2XlU) by Casteroid
 
+Some resources about game systems and mechanics:
+
+- [Shadow Empire Fandom Wiki](https://shadowempire.fandom.com/wiki/Shadow_Empire_Wiki) (incomplete)
+- [Grog's Guide to Human Resources Administration](https://forums.matrixgames.com/viewtopic.php?p=4653342#p4653342) (or [Steam version](https://steamcommunity.com/sharedfiles/filedetails/?id=2307478602))
+
 Additionally you might find these communities helpful:
 
 - [Matrix Games - Shadow Empire - Forum](https://forums.matrixgames.com/viewforum.php?f=10617)
