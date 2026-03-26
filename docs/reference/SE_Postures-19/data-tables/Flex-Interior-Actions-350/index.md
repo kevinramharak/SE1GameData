@@ -3,11 +3,11 @@ title: "Flex Interior Actions"
 docKind: "type"
 fieldsCount: 18
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Postures-19"
   name: "SE_Postures"
-  id: "19"
+  id: 19
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,24 +33,24 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| Card ID | Text |  |  |
-| Name | Text |  |  |
-| PP Cost | Text |  |  |
-| Event Picture | Text |  |  |
-| Text | Text |  |  |
-| Org ID | Text |  |  |
-| Org IF Logic | Text |  |  |
-| Target Type | Text |  |  |
-| Target IF Logic | Text |  |  |
-| Weight SET Logic | Text |  |  |
-| BP Cost | Text |  |  |
-| Category | Text |  |  |
-| Phase | Text |  |  |
-| UseHuman | Text |  |  |
-| New Col | Text |  |  |
-| New Col | Text |  |  |
-| New Col | Text |  |  |
-| New Col | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| Card ID | Text |  |
+| Name | Text |  |
+| PP Cost | Text |  |
+| Event Picture | Text |  |
+| Text | Text |  |
+| Org ID | Text |  |
+| Org IF Logic | Text |  |
+| Target Type | Text |  |
+| Target IF Logic | Text |  |
+| Weight SET Logic | Text |  |
+| BP Cost | Text |  |
+| Category | Text |  |
+| Phase | Text |  |
+| UseHuman | Text |  |
+| New Col | Text |  |
+| New Col | Text |  |
+| New Col | Text |  |
+| New Col | Text |  |
 

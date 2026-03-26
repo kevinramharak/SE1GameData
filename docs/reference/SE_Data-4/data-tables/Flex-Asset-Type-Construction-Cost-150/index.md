@@ -3,11 +3,11 @@ title: "Flex Asset Type Construction Cost"
 docKind: "type"
 fieldsCount: 3
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Data-4"
   name: "SE_Data"
-  id: "4"
+  id: 4
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,9 +33,9 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| Asset Type ID | Text |  |  |
-| Type | Text |  |  |
-| Specific | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| Asset Type ID | Text |  |
+| Type | Text |  |
+| Specific | Text |  |
 

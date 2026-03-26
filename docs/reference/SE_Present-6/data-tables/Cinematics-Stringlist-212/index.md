@@ -3,11 +3,11 @@ title: "Cinematics Stringlist"
 docKind: "type"
 fieldsCount: 9
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Present-6"
   name: "SE_Present"
-  id: "6"
+  id: 6
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,15 +33,15 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| Key | Text |  |  |
-| New Col | Text |  |  |
-| New Col | Text |  |  |
-| New Col | Text |  |  |
-| New Col | Text |  |  |
-| New Col | Text |  |  |
-| New Col | Text |  |  |
-| New Col | Text |  |  |
-| Value | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| Key | Text |  |
+| New Col | Text |  |
+| New Col | Text |  |
+| New Col | Text |  |
+| New Col | Text |  |
+| New Col | Text |  |
+| New Col | Text |  |
+| New Col | Text |  |
+| Value | Text |  |
 

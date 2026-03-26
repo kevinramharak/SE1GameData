@@ -3,11 +3,11 @@ title: "Spectral Classes"
 docKind: "type"
 fieldsCount: 12
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Random-2"
   name: "SE_Random"
-  id: "2"
+  id: 2
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,18 +33,18 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| ID | Text |  |  |
-| Weight | Text |  |  |
-| Name | Text |  |  |
-| Mass | Text |  |  |
-| Lifetime | Text |  |  |
-| Color Desc | Text |  |  |
-| Luminosity | Text |  |  |
-| Habitable Zone1 | Text |  |  |
-| Habitable Zone2 | Text |  |  |
-| Tidal Lock Range | Text |  |  |
-| R | Text |  |  |
-| G | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| ID | Text |  |
+| Weight | Text |  |
+| Name | Text |  |
+| Mass | Text |  |
+| Lifetime | Text |  |
+| Color Desc | Text |  |
+| Luminosity | Text |  |
+| Habitable Zone1 | Text |  |
+| Habitable Zone2 | Text |  |
+| Tidal Lock Range | Text |  |
+| R | Text |  |
+| G | Text |  |
 

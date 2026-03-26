@@ -3,11 +3,12 @@ title: "Cavalry (it)"
 docKind: "type"
 fieldsCount: 1
 appearsIn:
-  - "archive-test.se1"
+  - "VR Ruleset masterfile"
+  - "242"
 library:
   key: "root"
-  name: "root"
-  id: "Root"
+  name: "Root"
+  id: -1
 typeGroup:
   key: "sub-formation-types"
   name: "Sub Formation Types"
@@ -31,7 +32,7 @@ Cavalry is basicly mounted infantry. Contrary to some popular opinions cavalry i
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| Id | int |  | 31 |
+| Name | Type | Value |
+| --- | --- | --- |
+| Id | int | 31 |
 

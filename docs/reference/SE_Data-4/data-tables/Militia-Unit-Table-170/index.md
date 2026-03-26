@@ -3,11 +3,11 @@ title: "Militia Unit Table"
 docKind: "type"
 fieldsCount: 18
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Data-4"
   name: "SE_Data"
-  id: "4"
+  id: 4
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,24 +33,24 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| Mil. UnitType Id | Text |  |  |
-| Name | Text |  |  |
-| SizeType | Text |  |  |
-| SmallGfx | Text |  |  |
-| n/a | Text |  |  |
-| Abbrev | Text |  |  |
-| Inf Qty | Text |  |  |
-| Mot Qty | Text |  |  |
-| Art Qty | Text |  |  |
-| Armour Qty | Text |  |  |
-| Culture Type | Text |  |  |
-| Weight | Text |  |  |
-| Naming ID | Text |  |  |
-| Unit Code ID | Text |  |  |
-| subculture id | Text |  |  |
-| UnitFeat1 | Text |  |  |
-| UnitFeat2 | Text |  |  |
-| UnitFeat3 | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| Mil. UnitType Id | Text |  |
+| Name | Text |  |
+| SizeType | Text |  |
+| SmallGfx | Text |  |
+| n/a | Text |  |
+| Abbrev | Text |  |
+| Inf Qty | Text |  |
+| Mot Qty | Text |  |
+| Art Qty | Text |  |
+| Armour Qty | Text |  |
+| Culture Type | Text |  |
+| Weight | Text |  |
+| Naming ID | Text |  |
+| Unit Code ID | Text |  |
+| subculture id | Text |  |
+| UnitFeat1 | Text |  |
+| UnitFeat2 | Text |  |
+| UnitFeat3 | Text |  |
 

@@ -3,11 +3,11 @@ title: "River Season Table"
 docKind: "type"
 fieldsCount: 5
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Data-4"
   name: "SE_Data"
-  id: "4"
+  id: 4
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,11 +33,11 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| Original RT | RiverId |  |  |
-| Very Low Rain Below Zero RT | RiverId |  |  |
-| Normal Rain Below Zero LT | RiverId |  |  |
-| Above or Zero RT | RiverId |  |  |
-| RandomKey # | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| Original RT | RiverId |  |
+| Very Low Rain Below Zero RT | RiverId |  |
+| Normal Rain Below Zero LT | RiverId |  |
+| Above or Zero RT | RiverId |  |
+| RandomKey # | Text |  |
 

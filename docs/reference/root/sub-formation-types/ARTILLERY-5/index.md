@@ -3,11 +3,12 @@ title: "ARTILLERY"
 docKind: "type"
 fieldsCount: 1
 appearsIn:
-  - "archive-test.se1"
+  - "VR Ruleset masterfile"
+  - "242"
 library:
   key: "root"
-  name: "root"
-  id: "Root"
+  name: "Root"
+  id: -1
 typeGroup:
   key: "sub-formation-types"
   name: "Sub Formation Types"
@@ -31,7 +32,7 @@ The 10.5cm Kanone was a heavy German field gun first used in 1933-34. It could f
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| Id | int |  | 5 |
+| Name | Type | Value |
+| --- | --- | --- |
+| Id | int | 5 |
 

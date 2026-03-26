@@ -3,11 +3,12 @@ title: "n/a"
 docKind: "type"
 fieldsCount: 1
 appearsIn:
-  - "archive-test.se1"
+  - "VR Ruleset masterfile"
+  - "242"
 library:
   key: "root"
-  name: "root"
-  id: "Root"
+  name: "Root"
+  id: -1
 typeGroup:
   key: "sub-formation-types"
   name: "Sub Formation Types"
@@ -31,7 +32,7 @@ The 21cm Mörser gun was a heavy German howitzer which could be towed into battl
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| Id | int |  | 23 |
+| Name | Type | Value |
+| --- | --- | --- |
+| Id | int | 23 |
 

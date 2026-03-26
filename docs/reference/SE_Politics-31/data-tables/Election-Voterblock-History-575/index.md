@@ -3,11 +3,11 @@ title: "Election Voterblock History"
 docKind: "type"
 fieldsCount: 8
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Politics-31"
   name: "SE_Politics"
-  id: "31"
+  id: 31
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,14 +33,14 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| factionID | Text |  |  |
-| voterblock code | Text |  |  |
-| zoneID | Text |  |  |
-| leaderId | Text |  |  |
-| historicalUnit ID | Text |  |  |
-| - | Text |  |  |
-| - | Text |  |  |
-| votes | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| factionID | Text |  |
+| voterblock code | Text |  |
+| zoneID | Text |  |
+| leaderId | Text |  |
+| historicalUnit ID | Text |  |
+| - | Text |  |
+| - | Text |  |
+| votes | Text |  |
 

@@ -3,11 +3,11 @@ title: "Flex Model Type Description"
 docKind: "type"
 fieldsCount: 3
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Model-11"
   name: "SE_Model"
-  id: "11"
+  id: 11
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,9 +33,9 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| Model Type ID | Text |  |  |
-| If Logic | Text |  |  |
-| Group Code | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| Model Type ID | Text |  |
+| If Logic | Text |  |
+| Group Code | Text |  |
 

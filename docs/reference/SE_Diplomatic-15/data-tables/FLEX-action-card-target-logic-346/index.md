@@ -3,11 +3,11 @@ title: "FLEX action card target logic"
 docKind: "type"
 fieldsCount: 4
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Diplomatic-15"
   name: "SE_Diplomatic"
-  id: "15"
+  id: 15
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,10 +33,10 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| Card ID list [][] | Text |  |  |
-| Target IF Logic | Text |  |  |
-| Text if not TRUE | Text |  |  |
-| TRUE is 1 or 0 | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| Card ID list [][] | Text |  |
+| Target IF Logic | Text |  |
+| Text if not TRUE | Text |  |
+| TRUE is 1 or 0 | Text |  |
 

@@ -3,11 +3,11 @@ title: "Map Graphics Replacement Sets"
 docKind: "type"
 fieldsCount: 11
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Random-2"
   name: "SE_Random"
-  id: "2"
+  id: 2
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,17 +33,17 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| LT/RT | Text |  |  |
-| Type of change | Text |  |  |
-| Data | Text |  |  |
-| Chance | Text |  |  |
-| Filename | Text |  |  |
-| String to be replaced | Text |  |  |
-| Random Key | Text |  |  |
-| Random Key Value | Text |  |  |
-| Random Key | Text |  |  |
-| Random Key Value | Text |  |  |
-| Chance Modify Random Key | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| LT/RT | Text |  |
+| Type of change | Text |  |
+| Data | Text |  |
+| Chance | Text |  |
+| Filename | Text |  |
+| String to be replaced | Text |  |
+| Random Key | Text |  |
+| Random Key Value | Text |  |
+| Random Key | Text |  |
+| Random Key Value | Text |  |
+| Chance Modify Random Key | Text |  |
 

@@ -3,11 +3,12 @@ title: "Missile Launcher"
 docKind: "type"
 fieldsCount: 1
 appearsIn:
-  - "archive-test.se1"
+  - "VR Ruleset masterfile"
+  - "242"
 library:
   key: "root"
-  name: "root"
-  id: "Root"
+  name: "Root"
+  id: -1
 typeGroup:
   key: "sub-formation-types"
   name: "Sub Formation Types"
@@ -33,7 +34,7 @@ Nebelwerfer units in this game model closely the effect of high saturation rocke
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| Id | int |  | 128 |
+| Name | Type | Value |
+| --- | --- | --- |
+| Id | int | 128 |
 

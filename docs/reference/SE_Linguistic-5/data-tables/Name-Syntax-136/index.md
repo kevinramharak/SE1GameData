@@ -3,11 +3,11 @@ title: "Name Syntax"
 docKind: "type"
 fieldsCount: 10
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Linguistic-5"
   name: "SE_Linguistic"
-  id: "5"
+  id: 5
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,16 +33,16 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| item1 | Text |  |  |
-| item2 | Text |  |  |
-| item3 | Text |  |  |
-| item4 | Text |  |  |
-| item5 | Text |  |  |
-| item6 | Text |  |  |
-| item7 | Text |  |  |
-| category | Text |  |  |
-| Language ID | Text |  |  |
-| sex | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| item1 | Text |  |
+| item2 | Text |  |
+| item3 | Text |  |
+| item4 | Text |  |
+| item5 | Text |  |
+| item6 | Text |  |
+| item7 | Text |  |
+| category | Text |  |
+| Language ID | Text |  |
+| sex | Text |  |
 

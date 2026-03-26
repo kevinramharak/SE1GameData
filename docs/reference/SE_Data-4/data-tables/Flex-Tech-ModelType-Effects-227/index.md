@@ -3,11 +3,11 @@ title: "Flex Tech-ModelType Effects"
 docKind: "type"
 fieldsCount: 6
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Data-4"
   name: "SE_Data"
-  id: "4"
+  id: 4
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,12 +33,12 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| Tech Type Id | Text |  |  |
-| Model Type ID | Text |  |  |
-| Stat Type modified | Text |  |  |
-| Modifier Abs Logic | Text |  |  |
-| Modifier Rnd Logic | Text |  |  |
-| If Logic if applied? | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| Tech Type Id | Text |  |
+| Model Type ID | Text |  |
+| Stat Type modified | Text |  |
+| Modifier Abs Logic | Text |  |
+| Modifier Rnd Logic | Text |  |
+| If Logic if applied? | Text |  |
 

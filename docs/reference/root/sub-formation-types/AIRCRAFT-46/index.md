@@ -3,11 +3,12 @@ title: "AIRCRAFT"
 docKind: "type"
 fieldsCount: 1
 appearsIn:
-  - "archive-test.se1"
+  - "VR Ruleset masterfile"
+  - "242"
 library:
   key: "root"
-  name: "root"
-  id: "Root"
+  name: "Root"
+  id: -1
 typeGroup:
   key: "sub-formation-types"
   name: "Sub Formation Types"
@@ -31,7 +32,7 @@ The Messerschmitt Bf-109 was one of the first modern fighters employed in WW II 
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| Id | int |  | 46 |
+| Name | Type | Value |
+| --- | --- | --- |
+| Id | int | 46 |
 

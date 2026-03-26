@@ -3,11 +3,11 @@ title: "Flex Story Decisions"
 docKind: "type"
 fieldsCount: 5
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Data-4"
   name: "SE_Data"
-  id: "4"
+  id: 4
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,11 +33,11 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| Story ID | Text |  |  |
-| Decision ID | Text |  |  |
-| IF Logic | Text |  |  |
-| Text | Text |  |  |
-| Default Decision? | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| Story ID | Text |  |
+| Decision ID | Text |  |
+| IF Logic | Text |  |
+| Text | Text |  |
+| Default Decision? | Text |  |
 

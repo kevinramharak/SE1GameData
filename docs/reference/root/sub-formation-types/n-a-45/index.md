@@ -3,11 +3,12 @@ title: "n/a"
 docKind: "type"
 fieldsCount: 1
 appearsIn:
-  - "archive-test.se1"
+  - "VR Ruleset masterfile"
+  - "242"
 library:
   key: "root"
-  name: "root"
-  id: "Root"
+  name: "Root"
+  id: -1
 typeGroup:
   key: "sub-formation-types"
   name: "Sub Formation Types"
@@ -31,7 +32,7 @@ Development of the PaK 40 began in 1939 to provide an alternative to the 37mm Pa
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| Id | int |  | 45 |
+| Name | Type | Value |
+| --- | --- | --- |
+| Id | int | 45 |
 

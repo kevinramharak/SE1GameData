@@ -3,11 +3,11 @@ title: "Perks"
 docKind: "type"
 fieldsCount: 14
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Perks-22"
   name: "SE_Perks"
-  id: "22"
+  id: 22
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,20 +33,20 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| ID | Text |  |  |
-| Name | Text |  |  |
-| Type | Text |  |  |
-| Data | Text |  |  |
-| Maximum Value | Text |  |  |
-| Increase (CHECK) | Text |  |  |
-| Small Gfx | Text |  |  |
-| Description | Text |  |  |
-| Category | Text |  |  |
-| IF | Text |  |  |
-| SET 1 per X hex | Text |  |  |
-| Zone Center IF | Text |  |  |
-| Weight | Text |  |  |
-| Event Pic Slot | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| ID | Text |  |
+| Name | Text |  |
+| Type | Text |  |
+| Data | Text |  |
+| Maximum Value | Text |  |
+| Increase (CHECK) | Text |  |
+| Small Gfx | Text |  |
+| Description | Text |  |
+| Category | Text |  |
+| IF | Text |  |
+| SET 1 per X hex | Text |  |
+| Zone Center IF | Text |  |
+| Weight | Text |  |
+| Event Pic Slot | Text |  |
 

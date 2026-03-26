@@ -3,11 +3,11 @@ title: "Flex Model Type Choices"
 docKind: "type"
 fieldsCount: 12
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Model-11"
   name: "SE_Model"
-  id: "11"
+  id: 11
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,18 +33,18 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| Choice ID | Text |  |  |
-| Stat ID | Text |  |  |
-| Value | Text |  |  |
-| Text | Text |  |  |
-| IF Logic | Text |  |  |
-| Question Text | Text |  |  |
-| Specific ID | Text |  |  |
-| Description | Text |  |  |
-| Cost | Text |  |  |
-| Stat ID | Text |  |  |
-| Value | Text |  |  |
-| Stat ID | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| Choice ID | Text |  |
+| Stat ID | Text |  |
+| Value | Text |  |
+| Text | Text |  |
+| IF Logic | Text |  |
+| Question Text | Text |  |
+| Specific ID | Text |  |
+| Description | Text |  |
+| Cost | Text |  |
+| Stat ID | Text |  |
+| Value | Text |  |
+| Stat ID | Text |  |
 

@@ -3,11 +3,12 @@ title: "Medium Tank"
 docKind: "type"
 fieldsCount: 1
 appearsIn:
-  - "archive-test.se1"
+  - "VR Ruleset masterfile"
+  - "242"
 library:
   key: "root"
-  name: "root"
-  id: "Root"
+  name: "Root"
+  id: -1
 typeGroup:
   key: "sub-formation-types"
   name: "Sub Formation Types"
@@ -31,7 +32,7 @@ The Panzerkampfwagen IVf in this game models the PzIVd, PzIVe and PzIVf1. This i
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| Id | int |  | 14 |
+| Name | Type | Value |
+| --- | --- | --- |
+| Id | int | 14 |
 

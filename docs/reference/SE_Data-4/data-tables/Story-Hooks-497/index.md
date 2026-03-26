@@ -3,11 +3,11 @@ title: "Story Hooks"
 docKind: "type"
 fieldsCount: 7
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Data-4"
   name: "SE_Data"
-  id: "4"
+  id: 4
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,13 +33,13 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| RegimeID | Text |  |  |
-| Round | Text |  |  |
-| Type | Text |  |  |
-| Subtype | Text |  |  |
-| Title | Text |  |  |
-| Text | Text |  |  |
-| Target Instance Type | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| RegimeID | Text |  |
+| Round | Text |  |
+| Type | Text |  |
+| Subtype | Text |  |
+| Title | Text |  |
+| Text | Text |  |
+| Target Instance Type | Text |  |
 

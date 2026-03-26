@@ -3,11 +3,11 @@ title: "Flex Diplomatic Action FX vs HUMAN"
 docKind: "type"
 fieldsCount: 8
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Diplomatic-15"
   name: "SE_Diplomatic"
-  id: "15"
+  id: 15
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,14 +33,14 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| Card ID | Text |  |  |
-| IF | Text |  |  |
-| SET | Text |  |  |
-| Text | Text |  |  |
-| Talk Code | Text |  |  |
-| New Col | Text |  |  |
-| New Col | Text |  |  |
-| New Col | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| Card ID | Text |  |
+| IF | Text |  |
+| SET | Text |  |
+| Text | Text |  |
+| Talk Code | Text |  |
+| New Col | Text |  |
+| New Col | Text |  |
+| New Col | Text |  |
 

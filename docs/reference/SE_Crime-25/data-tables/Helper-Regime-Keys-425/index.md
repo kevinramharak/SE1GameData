@@ -3,11 +3,11 @@ title: "Helper Regime Keys"
 docKind: "type"
 fieldsCount: 5
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Crime-25"
   name: "SE_Crime"
-  id: "25"
+  id: 25
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,11 +33,11 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| Key | Text |  |  |
-| Type | Text |  |  |
-| Description | Text |  |  |
-| Uses Bonus | Text |  |  |
-| bonus generated | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| Key | Text |  |
+| Type | Text |  |
+| Description | Text |  |
+| Uses Bonus | Text |  |
+| bonus generated | Text |  |
 

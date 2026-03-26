@@ -3,11 +3,11 @@ title: "Flex Production Types"
 docKind: "type"
 fieldsCount: 6
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Airforce-29"
   name: "SE_Airforce"
-  id: "29"
+  id: 29
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,12 +33,12 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| ID | Text |  |  |
-| New Col | Text |  |  |
-| New Col | Text |  |  |
-| New Col | Text |  |  |
-| New Col | Text |  |  |
-| New Col | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| ID | Text |  |
+| New Col | Text |  |
+| New Col | Text |  |
+| New Col | Text |  |
+| New Col | Text |  |
+| New Col | Text |  |
 

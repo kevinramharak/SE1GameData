@@ -3,11 +3,11 @@ title: "Defendrix"
 docKind: "type"
 fieldsCount: 1
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "Shadow-Troops-9"
   name: "Shadow Troops"
-  id: "9"
+  id: 9
 typeGroup:
   key: "sub-formation-types"
   name: "Sub Formation Types"
@@ -31,7 +31,7 @@ The Defendrix is a really heavily plated and super sturdy caste of Arachnid that
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| Id | int |  | 385 |
+| Name | Type | Value |
+| --- | --- | --- |
+| Id | int | 385 |
 

@@ -3,11 +3,11 @@ title: "Flex Regime Key Documentation"
 docKind: "type"
 fieldsCount: 6
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Cult-28"
   name: "SE_Cult"
-  id: "28"
+  id: 28
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,12 +33,12 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| Regime Key | Text |  |  |
-| Full Name | Text |  |  |
-| Category | Text |  |  |
-| Sub-Category | Text |  |  |
-| Event Pic Lib | Text |  |  |
-| Event Pic ID | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| Regime Key | Text |  |
+| Full Name | Text |  |
+| Category | Text |  |
+| Sub-Category | Text |  |
+| Event Pic Lib | Text |  |
+| Event Pic ID | Text |  |
 

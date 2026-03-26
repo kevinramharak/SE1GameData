@@ -4,7 +4,7 @@
   "description": "SE1GameData",
   "type": "module",
   "scripts": {
-    "generate": "node ./scripts/generate.ts",
+    "generate": "dotnet run --project ../SE1ModTools/src/Cli -- docgen --output ./docs/",
     "docs:dev": "vitepress dev",
     "docs:build": "vitepress build",
     "docs:preview": "vitepress preview"

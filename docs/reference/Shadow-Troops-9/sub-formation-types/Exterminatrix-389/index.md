@@ -3,11 +3,11 @@ title: "Exterminatrix"
 docKind: "type"
 fieldsCount: 1
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "Shadow-Troops-9"
   name: "Shadow Troops"
-  id: "9"
+  id: 9
 typeGroup:
   key: "sub-formation-types"
   name: "Sub Formation Types"
@@ -31,7 +31,7 @@ The Exterminatrix is a special caste of Arachnids that can attack much like arti
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| Id | int |  | 389 |
+| Name | Type | Value |
+| --- | --- | --- |
+| Id | int | 389 |
 

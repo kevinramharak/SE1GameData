@@ -3,11 +3,12 @@ title: "Globals"
 docKind: "type"
 fieldsCount: 1
 appearsIn:
-  - "archive-test.se1"
+  - "VR Ruleset masterfile"
+  - "242"
 library:
   key: "root"
-  name: "root"
-  id: "Root"
+  name: "Root"
+  id: -1
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -31,7 +32,7 @@ type:
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| KEY | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| KEY | Text |  |
 

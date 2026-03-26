@@ -3,11 +3,11 @@ title: "Flex Custom Zone Info"
 docKind: "type"
 fieldsCount: 6
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Cult-28"
   name: "SE_Cult"
-  id: "28"
+  id: 28
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,12 +33,12 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| Name | Text |  |  |
-| Event Pic Library | Text |  |  |
-| Library Event Pic ID | Text |  |  |
-| Intro for Mouse Over | Text |  |  |
-| Read which Logs? | Text |  |  |
-| Log Type Code | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| Name | Text |  |
+| Event Pic Library | Text |  |
+| Library Event Pic ID | Text |  |
+| Intro for Mouse Over | Text |  |
+| Read which Logs? | Text |  |
+| Log Type Code | Text |  |
 

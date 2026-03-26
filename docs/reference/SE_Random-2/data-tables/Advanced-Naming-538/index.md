@@ -3,11 +3,11 @@ title: "Advanced Naming"
 docKind: "type"
 fieldsCount: 4
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Random-2"
   name: "SE_Random"
-  id: "2"
+  id: 2
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,10 +33,10 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| Note | Text |  |  |
-| Critter Graphic Nr | Text |  |  |
-| Name for 2nd part (bear) | Text |  |  |
-| 1st part for any | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| Note | Text |  |
+| Critter Graphic Nr | Text |  |
+| Name for 2nd part (bear) | Text |  |
+| 1st part for any | Text |  |
 

@@ -3,11 +3,11 @@ title: "Char name suffix masculin"
 docKind: "type"
 fieldsCount: 0
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Linguistic-5"
   name: "SE_Linguistic"
-  id: "5"
+  id: 5
 typeGroup:
   key: "data-tables"
   name: "Data Tables"

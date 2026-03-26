@@ -3,11 +3,11 @@ title: "Trade Zones"
 docKind: "type"
 fieldsCount: 2
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Trade-12"
   name: "SE_Trade"
-  id: "12"
+  id: 12
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,8 +33,8 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| Zone ID | Text |  |  |
-| Trader Region ID | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| Zone ID | Text |  |
+| Trader Region ID | Text |  |
 

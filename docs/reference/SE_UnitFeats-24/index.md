@@ -4,11 +4,11 @@ docKind: "library"
 isSyntheticRoot: false
 typeCount: 2
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_UnitFeats-24"
   name: "SE_UnitFeats"
-  id: "24"
+  id: 24
 ---
 
 # SE_UnitFeats
@@ -17,7 +17,7 @@ No info
 
 <!-- @include: ./_notes.md -->
 
-## Metadata
+## Properties
 
 | Key | Value |
 | --- | --- |
@@ -29,6 +29,6 @@ No info
 
 | Id | Type | Description | Fields |
 | --- | --- | --- | --- |
-| 401 | [Unit Feats](./data-tables/Unit-Feats-401/) | No description | 15 |
-| 403 | [Unit Feat Behaviour](./data-tables/Unit-Feat-Behaviour-403/) | No description | 10 |
+| `401` | [Unit Feats](./data-tables/Unit-Feats-401/) | No description | 15 |
+| `403` | [Unit Feat Behaviour](./data-tables/Unit-Feat-Behaviour-403/) | No description | 10 |
 

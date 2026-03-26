@@ -3,11 +3,11 @@ title: "Flex Culture Group Profile Tendency"
 docKind: "type"
 fieldsCount: 2
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Data-4"
   name: "SE_Data"
-  id: "4"
+  id: 4
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,8 +33,8 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| Cult.Group Id | Text |  |  |
-| Profile | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| Cult.Group Id | Text |  |
+| Profile | Text |  |
 

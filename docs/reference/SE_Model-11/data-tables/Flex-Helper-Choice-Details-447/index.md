@@ -3,11 +3,11 @@ title: "Flex Helper Choice Details"
 docKind: "type"
 fieldsCount: 1
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Model-11"
   name: "SE_Model"
-  id: "11"
+  id: 11
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,7 +33,7 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| Equipment ID | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| Equipment ID | Text |  |
 

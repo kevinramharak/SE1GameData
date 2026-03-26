@@ -3,11 +3,11 @@ title: "TradeTradeKeys"
 docKind: "type"
 fieldsCount: 3
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Trade-12"
   name: "SE_Trade"
-  id: "12"
+  id: 12
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,9 +33,9 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| Trade House Id | Text |  |  |
-| Trade House Id | Text |  |  |
-| Key Name | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| Trade House Id | Text |  |
+| Trade House Id | Text |  |
+| Key Name | Text |  |
 

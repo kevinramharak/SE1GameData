@@ -3,11 +3,12 @@ title: "n/a"
 docKind: "type"
 fieldsCount: 1
 appearsIn:
-  - "archive-test.se1"
+  - "VR Ruleset masterfile"
+  - "242"
 library:
   key: "root"
-  name: "root"
-  id: "Root"
+  name: "Root"
+  id: -1
 typeGroup:
   key: "sub-formation-types"
   name: "Sub Formation Types"
@@ -33,7 +34,7 @@ Engineers are infantry with an education and some noncombat skills. These guys w
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| Id | int |  | 34 |
+| Name | Type | Value |
+| --- | --- | --- |
+| Id | int | 34 |
 

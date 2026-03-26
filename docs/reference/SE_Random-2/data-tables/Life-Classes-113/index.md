@@ -3,11 +3,11 @@ title: "Life Classes"
 docKind: "type"
 fieldsCount: 12
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Random-2"
   name: "SE_Random"
-  id: "2"
+  id: 2
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,18 +33,18 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| ID | Text |  |  |
-| Name | Text |  |  |
-| Minimum Air Pressure | Text |  |  |
-| Good Airpressure | Text |  |  |
-| IsMaritime | YesNo |  |  |
-| Evolutionary Advantage | Text |  |  |
-| Min Sea Hex | Text |  |  |
-| Good Sea Hex | Text |  |  |
-| Prod.Mod | Text |  |  |
-| Herbi.Mod | Text |  |  |
-| CarniMod | Text |  |  |
-| Plant Level | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| ID | Text |  |
+| Name | Text |  |
+| Minimum Air Pressure | Text |  |
+| Good Airpressure | Text |  |
+| IsMaritime | YesNo |  |
+| Evolutionary Advantage | Text |  |
+| Min Sea Hex | Text |  |
+| Good Sea Hex | Text |  |
+| Prod.Mod | Text |  |
+| Herbi.Mod | Text |  |
+| CarniMod | Text |  |
+| Plant Level | Text |  |
 

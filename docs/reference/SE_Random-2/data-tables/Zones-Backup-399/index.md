@@ -3,11 +3,11 @@ title: "Zones Backup"
 docKind: "type"
 fieldsCount: 14
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Random-2"
   name: "SE_Random"
-  id: "2"
+  id: 2
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,20 +33,20 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| ID | Text |  |  |
-| Type | Text |  |  |
-| SubType | Text |  |  |
-| HexCount | Text |  |  |
-| Pop | Text |  |  |
-| Rad/year | Text |  |  |
-| Loc ID | Text |  |  |
-| Name | Text |  |  |
-| Regime ID | Text |  |  |
-| Culture ID | Text |  |  |
-| Center X | Text |  |  |
-| Center Y | Text |  |  |
-| Temperature | Text |  |  |
-| rainfall | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| ID | Text |  |
+| Type | Text |  |
+| SubType | Text |  |
+| HexCount | Text |  |
+| Pop | Text |  |
+| Rad/year | Text |  |
+| Loc ID | Text |  |
+| Name | Text |  |
+| Regime ID | Text |  |
+| Culture ID | Text |  |
+| Center X | Text |  |
+| Center Y | Text |  |
+| Temperature | Text |  |
+| rainfall | Text |  |
 

@@ -3,11 +3,11 @@ title: "IO Key and Values list"
 docKind: "type"
 fieldsCount: 1
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_IO-0"
   name: "SE_IO"
-  id: "0"
+  id: 0
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,7 +33,7 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| Key | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| Key | Text |  |
 

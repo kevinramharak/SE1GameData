@@ -3,11 +3,11 @@ title: "Flex Story Decision Cost"
 docKind: "type"
 fieldsCount: 3
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "Story_UpgradeCity-14"
   name: "Story_UpgradeCity"
-  id: "14"
+  id: 14
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,9 +33,9 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| Decision ID | Text |  |  |
-| Type | Text |  |  |
-| Specific | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| Decision ID | Text |  |
+| Type | Text |  |
+| Specific | Text |  |
 

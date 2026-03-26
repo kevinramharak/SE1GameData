@@ -3,11 +3,11 @@ title: "Story Groups"
 docKind: "type"
 fieldsCount: 5
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Data-4"
   name: "SE_Data"
-  id: "4"
+  id: 4
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,11 +33,11 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| Story Group Id | Text |  |  |
-| Name / Label | Text |  |  |
-| SET decisions per turn | Text |  |  |
-| reserve | Text |  |  |
-| SET complex stories running | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| Story Group Id | Text |  |
+| Name / Label | Text |  |
+| SET decisions per turn | Text |  |
+| reserve | Text |  |
+| SET complex stories running | Text |  |
 

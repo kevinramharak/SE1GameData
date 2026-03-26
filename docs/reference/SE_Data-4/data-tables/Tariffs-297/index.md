@@ -3,11 +3,11 @@ title: "Tariffs"
 docKind: "type"
 fieldsCount: 4
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Data-4"
   name: "SE_Data"
-  id: "4"
+  id: 4
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,10 +33,10 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| Regime ID | Text |  |  |
-| target Reg Id | Text |  |  |
-| Import Tariff % | Text |  |  |
-| export Tariff % | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| Regime ID | Text |  |
+| target Reg Id | Text |  |
+| Import Tariff % | Text |  |
+| export Tariff % | Text |  |
 

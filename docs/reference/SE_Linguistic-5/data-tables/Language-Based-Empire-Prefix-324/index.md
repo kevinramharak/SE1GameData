@@ -3,11 +3,11 @@ title: "Language Based Empire Prefix"
 docKind: "type"
 fieldsCount: 8
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Linguistic-5"
   name: "SE_Linguistic"
-  id: "5"
+  id: 5
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,14 +33,14 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| New Col | Text |  |  |
-| Language | Text |  |  |
-| LT# is Zone | Text |  |  |
-| culturegroupid | Text |  |  |
-| r | Text |  |  |
-| g | Text |  |  |
-| b | Text |  |  |
-| symbol category | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| New Col | Text |  |
+| Language | Text |  |
+| LT# is Zone | Text |  |
+| culturegroupid | Text |  |
+| r | Text |  |
+| g | Text |  |
+| b | Text |  |
+| symbol category | Text |  |
 

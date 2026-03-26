@@ -3,11 +3,12 @@ title: "River Canyoning"
 docKind: "type"
 fieldsCount: 2
 appearsIn:
-  - "archive-test.se1"
+  - "VR Ruleset masterfile"
+  - "242"
 library:
   key: "root"
-  name: "root"
-  id: "Root"
+  name: "Root"
+  id: -1
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,8 +34,8 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| New Col | Text |  |  |
-| New Col | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| New Col | Text |  |
+| New Col | Text |  |
 

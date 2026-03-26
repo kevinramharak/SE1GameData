@@ -3,11 +3,12 @@ title: "n/a"
 docKind: "type"
 fieldsCount: 1
 appearsIn:
-  - "archive-test.se1"
+  - "VR Ruleset masterfile"
+  - "242"
 library:
   key: "root"
-  name: "root"
-  id: "Root"
+  name: "Root"
+  id: -1
 typeGroup:
   key: "sub-formation-types"
   name: "Sub Formation Types"
@@ -31,7 +32,7 @@ The Junkers Ju-87b "Stuka" was a German dive bomber generally considered to be t
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| Id | int |  | 52 |
+| Name | Type | Value |
+| --- | --- | --- |
+| Id | int | 52 |
 

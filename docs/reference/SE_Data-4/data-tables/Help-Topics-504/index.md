@@ -3,11 +3,11 @@ title: "Help Topics"
 docKind: "type"
 fieldsCount: 9
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Data-4"
   name: "SE_Data"
-  id: "4"
+  id: 4
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,15 +33,15 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| Story ID | Text |  |  |
-| Type 0txt,1tit,2img | Text |  |  |
-| Hard Enter 0,1 | Text |  |  |
-| Position 0,1,2 | Text |  |  |
-| Text/Title/Img | Text |  |  |
-| Width | Text |  |  |
-| Height | Text |  |  |
-| Arrow to Image | Text |  |  |
-| Arrow X | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| Story ID | Text |  |
+| Type 0txt,1tit,2img | Text |  |
+| Hard Enter 0,1 | Text |  |
+| Position 0,1,2 | Text |  |
+| Text/Title/Img | Text |  |
+| Width | Text |  |
+| Height | Text |  |
+| Arrow to Image | Text |  |
+| Arrow X | Text |  |
 

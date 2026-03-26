@@ -3,11 +3,11 @@ title: "Char Generation Age Table"
 docKind: "type"
 fieldsCount: 5
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Data-4"
   name: "SE_Data"
-  id: "4"
+  id: 4
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,11 +33,11 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| If below Age | Text |  |  |
-| Number of careeers | Text |  |  |
-| STR % | Text |  |  |
-| CHA,WAR % | Text |  |  |
-| INT % | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| If below Age | Text |  |
+| Number of careeers | Text |  |
+| STR % | Text |  |
+| CHA,WAR % | Text |  |
+| INT % | Text |  |
 

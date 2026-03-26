@@ -3,11 +3,11 @@ title: "Character Feat Types"
 docKind: "type"
 fieldsCount: 3
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Linked-26"
   name: "SE_Linked"
-  id: "26"
+  id: 26
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,9 +33,9 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| Feat Type ID | Text |  |  |
-| Name | Text |  |  |
-| Description | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| Feat Type ID | Text |  |
+| Name | Text |  |
+| Description | Text |  |
 

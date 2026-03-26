@@ -3,11 +3,11 @@ title: "Flex Story Decision Data Effects"
 docKind: "type"
 fieldsCount: 4
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Data-4"
   name: "SE_Data"
-  id: "4"
+  id: 4
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,10 +33,10 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| Decision ID | Text |  |  |
-| Group Code | Text |  |  |
-| IF Logic | Text |  |  |
-| SET Logic | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| Decision ID | Text |  |
+| Group Code | Text |  |
+| IF Logic | Text |  |
+| SET Logic | Text |  |
 

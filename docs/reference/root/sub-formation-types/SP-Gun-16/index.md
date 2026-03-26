@@ -3,11 +3,12 @@ title: "SP Gun"
 docKind: "type"
 fieldsCount: 1
 appearsIn:
-  - "archive-test.se1"
+  - "VR Ruleset masterfile"
+  - "242"
 library:
   key: "root"
-  name: "root"
-  id: "Root"
+  name: "Root"
+  id: -1
 typeGroup:
   key: "sub-formation-types"
   name: "Sub Formation Types"
@@ -31,7 +32,7 @@ The Sturmgeschütz III assault gun was Germany's most-produced armored fighting 
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| Id | int |  | 16 |
+| Name | Type | Value |
+| --- | --- | --- |
+| Id | int | 16 |
 

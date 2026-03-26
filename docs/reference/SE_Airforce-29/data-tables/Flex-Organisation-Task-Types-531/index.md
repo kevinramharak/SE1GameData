@@ -3,11 +3,11 @@ title: "Flex Organisation Task Types"
 docKind: "type"
 fieldsCount: 8
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Airforce-29"
   name: "SE_Airforce"
-  id: "29"
+  id: 29
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,14 +33,14 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| Task Type ID | Text |  |  |
-| Name | Text |  |  |
-| Org Type ID | Text |  |  |
-| Target Type | Text |  |  |
-| New Col | Text |  |  |
-| New Col | Text |  |  |
-| New Col | Text |  |  |
-| New Col | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| Task Type ID | Text |  |
+| Name | Text |  |
+| Org Type ID | Text |  |
+| Target Type | Text |  |
+| New Col | Text |  |
+| New Col | Text |  |
+| New Col | Text |  |
+| New Col | Text |  |
 

@@ -3,11 +3,11 @@ title: "Minor Aliens, Epsilon format 2"
 docKind: "type"
 fieldsCount: 6
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Diplomatic-15"
   name: "SE_Diplomatic"
-  id: "15"
+  id: 15
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,12 +33,12 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| NAME | Text |  |  |
-| DECISION NUMBER | Text |  |  |
-| IF | Text |  |  |
-| SET | Text |  |  |
-| TEXT | Text |  |  |
-| TALK CODe | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| NAME | Text |  |
+| DECISION NUMBER | Text |  |
+| IF | Text |  |
+| SET | Text |  |
+| TEXT | Text |  |
+| TALK CODe | Text |  |
 

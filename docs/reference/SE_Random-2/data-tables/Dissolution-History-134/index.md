@@ -3,11 +3,11 @@ title: "Dissolution History"
 docKind: "type"
 fieldsCount: 2
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Random-2"
   name: "SE_Random"
-  id: "2"
+  id: 2
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,8 +33,8 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| Year | Text |  |  |
-| Text | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| Year | Text |  |
+| Text | Text |  |
 

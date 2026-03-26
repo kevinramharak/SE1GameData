@@ -3,11 +3,11 @@ title: "AI Pool items and requests"
 docKind: "type"
 fieldsCount: 8
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Data-4"
   name: "SE_Data"
-  id: "4"
+  id: 4
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,14 +33,14 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| SHQ id | Text |  |  |
-| Pool ID | Text |  |  |
-| Type | Text |  |  |
-| Specific | Text |  |  |
-| Qty in Pool | Text |  |  |
-| Qty received this turn | Text |  |  |
-| Qty received previous | Text |  |  |
-| Qty requested this turn | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| SHQ id | Text |  |
+| Pool ID | Text |  |
+| Type | Text |  |
+| Specific | Text |  |
+| Qty in Pool | Text |  |
+| Qty received this turn | Text |  |
+| Qty received previous | Text |  |
+| Qty requested this turn | Text |  |
 

@@ -3,11 +3,11 @@ title: "Subcultures"
 docKind: "type"
 fieldsCount: 5
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Culture-17"
   name: "SE_Culture"
-  id: "17"
+  id: 17
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,11 +33,11 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| Subculture ID | Text |  |  |
-| Name | Text |  |  |
-| Culture Group ID | Text |  |  |
-| Base Repl % | Text |  |  |
-| Extra % per difficulty level | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| Subculture ID | Text |  |
+| Name | Text |  |
+| Culture Group ID | Text |  |
+| Base Repl % | Text |  |
+| Extra % per difficulty level | Text |  |
 

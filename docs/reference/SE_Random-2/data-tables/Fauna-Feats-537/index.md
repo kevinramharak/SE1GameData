@@ -3,11 +3,11 @@ title: "Fauna Feats"
 docKind: "type"
 fieldsCount: 10
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Random-2"
   name: "SE_Random"
-  id: "2"
+  id: 2
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,16 +33,16 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| ID | Text |  |  |
-| Name | Text |  |  |
-| Category | Text |  |  |
-| Min.Off | Text |  |  |
-| Min.Def | Text |  |  |
-| Min.Comp | Text |  |  |
-| Min=0,Max=1 | Text |  |  |
-| Excludes FFeatId | Text |  |  |
-| New Col | Text |  |  |
-| New Col | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| ID | Text |  |
+| Name | Text |  |
+| Category | Text |  |
+| Min.Off | Text |  |
+| Min.Def | Text |  |
+| Min.Comp | Text |  |
+| Min=0,Max=1 | Text |  |
+| Excludes FFeatId | Text |  |
+| New Col | Text |  |
+| New Col | Text |  |
 

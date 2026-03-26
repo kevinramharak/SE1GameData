@@ -3,11 +3,11 @@ title: "Unit Feat Behaviour"
 docKind: "type"
 fieldsCount: 10
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Crime-25"
   name: "SE_Crime"
-  id: "25"
+  id: 25
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,16 +33,16 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| Behaviour ID | Text |  |  |
-| Unit Feat ID | Text |  |  |
-| Name | Text |  |  |
-| Regular Attack | Text |  |  |
-| Artillery Attack | Text |  |  |
-| Phase | Text |  |  |
-| Enemy Unit Group | Text |  |  |
-| Data1 | Text |  |  |
-| Data2 | Text |  |  |
-| Data3 | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| Behaviour ID | Text |  |
+| Unit Feat ID | Text |  |
+| Name | Text |  |
+| Regular Attack | Text |  |
+| Artillery Attack | Text |  |
+| Phase | Text |  |
+| Enemy Unit Group | Text |  |
+| Data1 | Text |  |
+| Data2 | Text |  |
+| Data3 | Text |  |
 

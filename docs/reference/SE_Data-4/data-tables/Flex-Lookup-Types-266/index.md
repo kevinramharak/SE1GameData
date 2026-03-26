@@ -3,11 +3,11 @@ title: "Flex Lookup Types"
 docKind: "type"
 fieldsCount: 11
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Data-4"
   name: "SE_Data"
-  id: "4"
+  id: 4
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,17 +33,17 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| Lookup Type Name | Text |  |  |
-| From Value >= | Text |  |  |
-| Too value <= | Text |  |  |
-| IF Logic | Text |  |  |
-| Optional random seed type | Text |  |  |
-| Text | Text |  |  |
-| Priority CHECK logic | Text |  |  |
-| Stringlist ID | Text |  |  |
-| Value column | Text |  |  |
-| return column | Text |  |  |
-| Extra Col | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| Lookup Type Name | Text |  |
+| From Value >= | Text |  |
+| Too value <= | Text |  |
+| IF Logic | Text |  |
+| Optional random seed type | Text |  |
+| Text | Text |  |
+| Priority CHECK logic | Text |  |
+| Stringlist ID | Text |  |
+| Value column | Text |  |
+| return column | Text |  |
+| Extra Col | Text |  |
 

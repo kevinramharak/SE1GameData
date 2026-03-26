@@ -3,11 +3,12 @@ title: "APC"
 docKind: "type"
 fieldsCount: 1
 appearsIn:
-  - "archive-test.se1"
+  - "VR Ruleset masterfile"
+  - "242"
 library:
   key: "root"
-  name: "root"
-  id: "Root"
+  name: "Root"
+  id: -1
 typeGroup:
   key: "sub-formation-types"
   name: "Sub Formation Types"
@@ -31,7 +32,7 @@ The Panzerkampfwagen II was a German light tank with a 2cm gun as a main armamen
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| Id | int |  | 129 |
+| Name | Type | Value |
+| --- | --- | --- |
+| Id | int | 129 |
 

@@ -3,11 +3,11 @@ title: "Colony Zones"
 docKind: "type"
 fieldsCount: 20
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Random-2"
   name: "SE_Random"
-  id: "2"
+  id: 2
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,26 +33,26 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| ZoneID | Text |  |  |
-| ZoneName | Text |  |  |
-| TownPop | Text |  |  |
-| AgriPop | Text |  |  |
-| MiningPop | Text |  |  |
-| X | Text |  |  |
-| Y | Text |  |  |
-| New Col | Text |  |  |
-| New Col | Text |  |  |
-| New Col | Text |  |  |
-| New Col | Text |  |  |
-| New Col | Text |  |  |
-| New Col | Text |  |  |
-| New Col | Text |  |  |
-| New Col | Text |  |  |
-| New Col | Text |  |  |
-| New Col | Text |  |  |
-| New Col | Text |  |  |
-| New Col | Text |  |  |
-| New Col | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| ZoneID | Text |  |
+| ZoneName | Text |  |
+| TownPop | Text |  |
+| AgriPop | Text |  |
+| MiningPop | Text |  |
+| X | Text |  |
+| Y | Text |  |
+| New Col | Text |  |
+| New Col | Text |  |
+| New Col | Text |  |
+| New Col | Text |  |
+| New Col | Text |  |
+| New Col | Text |  |
+| New Col | Text |  |
+| New Col | Text |  |
+| New Col | Text |  |
+| New Col | Text |  |
+| New Col | Text |  |
+| New Col | Text |  |
+| New Col | Text |  |
 

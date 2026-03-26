@@ -3,11 +3,11 @@ title: "Seasons"
 docKind: "type"
 fieldsCount: 9
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Random-2"
   name: "SE_Random"
-  id: "2"
+  id: 2
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,15 +33,15 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| ID | Number |  |  |
-| Season Name | Text |  |  |
-| Reserve | Text |  |  |
-| Reserve | Text |  |  |
-| Arctic Temperature | Number |  |  |
-| Tropical Temperature | Number |  |  |
-| Antartic Temperature | Number |  |  |
-| Winter % | Text |  |  |
-| Spring % | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| ID | Number |  |
+| Season Name | Text |  |
+| Reserve | Text |  |
+| Reserve | Text |  |
+| Arctic Temperature | Number |  |
+| Tropical Temperature | Number |  |
+| Antartic Temperature | Number |  |
+| Winter % | Text |  |
+| Spring % | Text |  |
 

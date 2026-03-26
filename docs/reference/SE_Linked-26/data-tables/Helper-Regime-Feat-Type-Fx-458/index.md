@@ -3,11 +3,11 @@ title: "Helper Regime Feat Type Fx"
 docKind: "type"
 fieldsCount: 5
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Linked-26"
   name: "SE_Linked"
-  id: "26"
+  id: 26
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,11 +33,11 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| ID | Text |  |  |
-| Type | Text |  |  |
-| Sequence | Text |  |  |
-| IF | Text |  |  |
-| THEN | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| ID | Text |  |
+| Type | Text |  |
+| Sequence | Text |  |
+| IF | Text |  |
+| THEN | Text |  |
 

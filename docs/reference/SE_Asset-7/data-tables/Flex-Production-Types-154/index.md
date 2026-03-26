@@ -3,11 +3,11 @@ title: "Flex Production Types"
 docKind: "type"
 fieldsCount: 6
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Asset-7"
   name: "SE_Asset"
-  id: "7"
+  id: 7
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,12 +33,12 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| ID | Text |  |  |
-| Shortname | Text |  |  |
-| Type | Text |  |  |
-| Specific | Text |  |  |
-| Qty | Text |  |  |
-| Special Calc. Method | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| ID | Text |  |
+| Shortname | Text |  |
+| Type | Text |  |
+| Specific | Text |  |
+| Qty | Text |  |
+| Special Calc. Method | Text |  |
 

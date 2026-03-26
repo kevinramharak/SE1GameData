@@ -3,11 +3,11 @@ title: "full first names masculoin"
 docKind: "type"
 fieldsCount: 1
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Corporate-27"
   name: "SE_Corporate"
-  id: "27"
+  id: 27
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,7 +33,7 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| Name | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| Name | Text |  |
 

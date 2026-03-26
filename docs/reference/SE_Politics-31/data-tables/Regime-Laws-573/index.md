@@ -3,11 +3,11 @@ title: "Regime Laws"
 docKind: "type"
 fieldsCount: 8
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Politics-31"
   name: "SE_Politics"
-  id: "31"
+  id: 31
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,14 +33,14 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| LawID | Text |  |  |
-| regID | Text |  |  |
-| state | Text |  |  |
-| lastEnact | Text |  |  |
-| lastRetract | Text |  |  |
-| enactInit | Text |  |  |
-| retractInit | Text |  |  |
-| lastVoteEnact | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| LawID | Text |  |
+| regID | Text |  |
+| state | Text |  |
+| lastEnact | Text |  |
+| lastRetract | Text |  |
+| enactInit | Text |  |
+| retractInit | Text |  |
+| lastVoteEnact | Text |  |
 

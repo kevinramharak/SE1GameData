@@ -3,11 +3,11 @@ title: "Flex Culture Group Key Tendency"
 docKind: "type"
 fieldsCount: 4
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Culture-17"
   name: "SE_Culture"
-  id: "17"
+  id: 17
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,10 +33,10 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| Cul.Group Id | Text |  |  |
-| Key Name | Text |  |  |
-| Min Value | Text |  |  |
-| max val | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| Cul.Group Id | Text |  |
+| Key Name | Text |  |
+| Min Value | Text |  |
+| max val | Text |  |
 

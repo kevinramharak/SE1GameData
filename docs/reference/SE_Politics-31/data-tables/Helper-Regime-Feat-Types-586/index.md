@@ -3,11 +3,11 @@ title: "Helper Regime Feat Types"
 docKind: "type"
 fieldsCount: 23
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Politics-31"
   name: "SE_Politics"
-  id: "31"
+  id: 31
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,29 +33,29 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| Feat ID | Text |  |  |
-| Type | Text |  |  |
-| Initial Customiz | Text |  |  |
-| Name | Text |  |  |
-| Description | Text |  |  |
-| Profile Field | Text |  |  |
-| Profile Delta | Text |  |  |
-| Asset Type ID | Text |  |  |
-| Org ID | Text |  |  |
-| Stratagem % | Text |  |  |
-| Leader Cap Level | Text |  |  |
-| Leader Skill 1 | Text |  |  |
-| Leader Skill 2 | Text |  |  |
-| Leader Skill 3 | Text |  |  |
-| Leader Skill 4 | Text |  |  |
-| Data | Text |  |  |
-| Start Desc | Text |  |  |
-| Start Desc 2 | Text |  |  |
-| Start Desc 3 | Text |  |  |
-| Problem Id | Text |  |  |
-| New Col | Text |  |  |
-| New Col | Text |  |  |
-| New Col | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| Feat ID | Text |  |
+| Type | Text |  |
+| Initial Customiz | Text |  |
+| Name | Text |  |
+| Description | Text |  |
+| Profile Field | Text |  |
+| Profile Delta | Text |  |
+| Asset Type ID | Text |  |
+| Org ID | Text |  |
+| Stratagem % | Text |  |
+| Leader Cap Level | Text |  |
+| Leader Skill 1 | Text |  |
+| Leader Skill 2 | Text |  |
+| Leader Skill 3 | Text |  |
+| Leader Skill 4 | Text |  |
+| Data | Text |  |
+| Start Desc | Text |  |
+| Start Desc 2 | Text |  |
+| Start Desc 3 | Text |  |
+| Problem Id | Text |  |
+| New Col | Text |  |
+| New Col | Text |  |
+| New Col | Text |  |
 

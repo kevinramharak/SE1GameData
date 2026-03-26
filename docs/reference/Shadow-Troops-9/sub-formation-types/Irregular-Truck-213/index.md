@@ -3,11 +3,11 @@ title: "Irregular Truck"
 docKind: "type"
 fieldsCount: 1
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "Shadow-Troops-9"
   name: "Shadow Troops"
-  id: "9"
+  id: 9
 typeGroup:
   key: "sub-formation-types"
   name: "Sub Formation Types"
@@ -31,7 +31,7 @@ Trucks. Of an improvised and locally made kind. No one truck is the same. They m
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| Id | int |  | 213 |
+| Name | Type | Value |
+| --- | --- | --- |
+| Id | int | 213 |
 

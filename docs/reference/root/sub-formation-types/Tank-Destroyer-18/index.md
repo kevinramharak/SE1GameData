@@ -3,11 +3,12 @@ title: "Tank Destroyer"
 docKind: "type"
 fieldsCount: 1
 appearsIn:
-  - "archive-test.se1"
+  - "VR Ruleset masterfile"
+  - "242"
 library:
   key: "root"
-  name: "root"
-  id: "Root"
+  name: "Root"
+  id: -1
 typeGroup:
   key: "sub-formation-types"
   name: "Sub Formation Types"
@@ -31,7 +32,7 @@ German Panzerkampfwagen I was a German light tank originally conceived as a trai
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| Id | int |  | 18 |
+| Name | Type | Value |
+| --- | --- | --- |
+| Id | int | 18 |
 

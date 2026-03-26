@@ -3,11 +3,11 @@ title: "Flags"
 docKind: "type"
 fieldsCount: 7
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Data-4"
   name: "SE_Data"
-  id: "4"
+  id: 4
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,13 +33,13 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| Handle | Text |  |  |
-| Stringlist ID | Text |  |  |
-| Column1 | Text |  |  |
-| FlagInstrKey 1 | Text |  |  |
-| Column2 | Text |  |  |
-| FlagInstrKey 2 | Text |  |  |
-| Column For Data | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| Handle | Text |  |
+| Stringlist ID | Text |  |
+| Column1 | Text |  |
+| FlagInstrKey 1 | Text |  |
+| Column2 | Text |  |
+| FlagInstrKey 2 | Text |  |
+| Column For Data | Text |  |
 

@@ -3,11 +3,11 @@ title: "Trader Items"
 docKind: "type"
 fieldsCount: 7
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Trade-12"
   name: "SE_Trade"
-  id: "12"
+  id: 12
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,13 +33,13 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| Trader Region ID | Text |  |  |
-| Item ID | Text |  |  |
-| Reserve Qty | Text |  |  |
-| Shop Qty | Text |  |  |
-| Buy Price * 100 | Text |  |  |
-| Max Shop Qty | Text |  |  |
-| Base Qty | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| Trader Region ID | Text |  |
+| Item ID | Text |  |
+| Reserve Qty | Text |  |
+| Shop Qty | Text |  |
+| Buy Price * 100 | Text |  |
+| Max Shop Qty | Text |  |
+| Base Qty | Text |  |
 

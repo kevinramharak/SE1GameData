@@ -3,11 +3,11 @@ title: "Flex Tech Type Groups"
 docKind: "type"
 fieldsCount: 6
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Org-10"
   name: "SE_Org"
-  id: "10"
+  id: 10
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,12 +33,12 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| ID | Text |  |  |
-| To Master | Text |  |  |
-| Gives | Text |  |  |
-| Gives | Text |  |  |
-| Gives | Text |  |  |
-| Gives | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| ID | Text |  |
+| To Master | Text |  |
+| Gives | Text |  |
+| Gives | Text |  |
+| Gives | Text |  |
+| Gives | Text |  |
 

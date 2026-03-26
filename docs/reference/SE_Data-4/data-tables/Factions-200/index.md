@@ -3,11 +3,11 @@ title: "Factions"
 docKind: "type"
 fieldsCount: 17
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Data-4"
   name: "SE_Data"
-  id: "4"
+  id: 4
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,23 +33,23 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| ID | Text |  |  |
-| Faction Part 1 | Text |  |  |
-| Faction Part 2 | Text |  |  |
-| Regime ID | Text |  |  |
-| Name full | Text |  |  |
-| Relation Score | Text |  |  |
-| Leader ID | Text |  |  |
-| r | Text |  |  |
-| g | Text |  |  |
-| b | Text |  |  |
-| abbreviation | Text |  |  |
-| Vote% | Text |  |  |
-| Faction Ai-ID | Text |  |  |
-| Support Points | Text |  |  |
-| Last Demand | Text |  |  |
-| Populism | Text |  |  |
-| Dynasty Round founding | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| ID | Text |  |
+| Faction Part 1 | Text |  |
+| Faction Part 2 | Text |  |
+| Regime ID | Text |  |
+| Name full | Text |  |
+| Relation Score | Text |  |
+| Leader ID | Text |  |
+| r | Text |  |
+| g | Text |  |
+| b | Text |  |
+| abbreviation | Text |  |
+| Vote% | Text |  |
+| Faction Ai-ID | Text |  |
+| Support Points | Text |  |
+| Last Demand | Text |  |
+| Populism | Text |  |
+| Dynasty Round founding | Text |  |
 

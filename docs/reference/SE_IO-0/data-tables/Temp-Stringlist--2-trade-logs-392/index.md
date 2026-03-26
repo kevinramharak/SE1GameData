@@ -3,11 +3,11 @@ title: "Temp Stringlist #2 trade logs"
 docKind: "type"
 fieldsCount: 0
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_IO-0"
   name: "SE_IO"
-  id: "0"
+  id: 0
 typeGroup:
   key: "data-tables"
   name: "Data Tables"

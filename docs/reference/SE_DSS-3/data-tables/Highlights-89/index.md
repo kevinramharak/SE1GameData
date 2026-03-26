@@ -3,11 +3,11 @@ title: "Highlights"
 docKind: "type"
 fieldsCount: 5
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_DSS-3"
   name: "SE_DSS"
-  id: "3"
+  id: 3
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,11 +33,11 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| ID | Number |  |  |
-| Filename | Text |  |  |
-| Cat1 | Number |  |  |
-| Cat2 | Number |  |  |
-| LastEngineAction | Number |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| ID | Number |  |
+| Filename | Text |  |
+| Cat1 | Number |  |
+| Cat2 | Number |  |
+| LastEngineAction | Number |  |
 

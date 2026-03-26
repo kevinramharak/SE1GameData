@@ -4,11 +4,11 @@ docKind: "library"
 isSyntheticRoot: false
 typeCount: 1
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Perks-22"
   name: "SE_Perks"
-  id: "22"
+  id: 22
 ---
 
 # SE_Perks
@@ -17,7 +17,7 @@ No info
 
 <!-- @include: ./_notes.md -->
 
-## Metadata
+## Properties
 
 | Key | Value |
 | --- | --- |
@@ -29,5 +29,5 @@ No info
 
 | Id | Type | Description | Fields |
 | --- | --- | --- | --- |
-| 380 | [Perks](./data-tables/Perks-380/) | No description | 14 |
+| `380` | [Perks](./data-tables/Perks-380/) | No description | 14 |
 

@@ -3,11 +3,11 @@ title: "Flex Model Type Stat Calculations"
 docKind: "type"
 fieldsCount: 4
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Data-4"
   name: "SE_Data"
-  id: "4"
+  id: 4
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,10 +33,10 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| Model Type ID | Text |  |  |
-| Stat Type | Text |  |  |
-| Calculation Logic | Text |  |  |
-| Final Modifier Logic | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| Model Type ID | Text |  |
+| Stat Type | Text |  |
+| Calculation Logic | Text |  |
+| Final Modifier Logic | Text |  |
 

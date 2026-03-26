@@ -3,11 +3,11 @@ title: "Regime Zone Keys"
 docKind: "type"
 fieldsCount: 3
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Data-4"
   name: "SE_Data"
-  id: "4"
+  id: 4
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,9 +33,9 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| Reg 1 ID | Text |  |  |
-| Zone ID | Text |  |  |
-| Key Name | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| Reg 1 ID | Text |  |
+| Zone ID | Text |  |
+| Key Name | Text |  |
 

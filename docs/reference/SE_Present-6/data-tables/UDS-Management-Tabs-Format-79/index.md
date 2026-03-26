@@ -3,11 +3,11 @@ title: "UDS Management Tabs Format"
 docKind: "type"
 fieldsCount: 13
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Present-6"
   name: "SE_Present"
-  id: "6"
+  id: 6
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,19 +33,19 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| ID | Number |  |  |
-| Type | Number |  |  |
-| Parent | Text |  |  |
-| Z-order | Number |  |  |
-| Title | Text |  |  |
-| Style | Number |  |  |
-| Event | Number |  |  |
-| Indicator | SmallGfxId |  |  |
-| Text | Text |  |  |
-| New Col | Text |  |  |
-| tv0 | Text |  |  |
-| tv1 | Text |  |  |
-| tv2 | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| ID | Number |  |
+| Type | Number |  |
+| Parent | Text |  |
+| Z-order | Number |  |
+| Title | Text |  |
+| Style | Number |  |
+| Event | Number |  |
+| Indicator | SmallGfxId |  |
+| Text | Text |  |
+| New Col | Text |  |
+| tv0 | Text |  |
+| tv1 | Text |  |
+| tv2 | Text |  |
 

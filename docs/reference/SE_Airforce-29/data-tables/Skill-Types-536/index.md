@@ -3,11 +3,11 @@ title: "Skill Types"
 docKind: "type"
 fieldsCount: 15
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Airforce-29"
   name: "SE_Airforce"
-  id: "29"
+  id: 29
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,21 +33,21 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| ID | Text |  |  |
-| Name | Text |  |  |
-| Stat1 | Text |  |  |
-| Stat2 | Text |  |  |
-| Stat3 | Text |  |  |
-| SHQ | Text |  |  |
-| OHQ | Text |  |  |
-| Gov | Text |  |  |
-| Dire | Text |  |  |
-| Aux | Text |  |  |
-| Gen.Desc | Text |  |  |
-| Used In. Dec | Text |  |  |
-| Family | Text |  |  |
-| New Col | Text |  |  |
-| New Col | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| ID | Text |  |
+| Name | Text |  |
+| Stat1 | Text |  |
+| Stat2 | Text |  |
+| Stat3 | Text |  |
+| SHQ | Text |  |
+| OHQ | Text |  |
+| Gov | Text |  |
+| Dire | Text |  |
+| Aux | Text |  |
+| Gen.Desc | Text |  |
+| Used In. Dec | Text |  |
+| Family | Text |  |
+| New Col | Text |  |
+| New Col | Text |  |
 

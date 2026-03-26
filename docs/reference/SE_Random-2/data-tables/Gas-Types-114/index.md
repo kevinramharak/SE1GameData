@@ -3,11 +3,11 @@ title: "Gas Types"
 docKind: "type"
 fieldsCount: 7
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Random-2"
   name: "SE_Random"
-  id: "2"
+  id: 2
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,13 +33,13 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| ID | Text |  |  |
-| Formula | Text |  |  |
-| Full Name | Text |  |  |
-| Boiling Point | Text |  |  |
-| Initial ppm | Text |  |  |
-| Irritant at | Text |  |  |
-| Deadly at | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| ID | Text |  |
+| Formula | Text |  |
+| Full Name | Text |  |
+| Boiling Point | Text |  |
+| Initial ppm | Text |  |
+| Irritant at | Text |  |
+| Deadly at | Text |  |
 

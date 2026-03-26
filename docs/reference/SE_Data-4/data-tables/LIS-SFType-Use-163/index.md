@@ -3,11 +3,11 @@ title: "LIS SFType Use"
 docKind: "type"
 fieldsCount: 5
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Data-4"
   name: "SE_Data"
-  id: "4"
+  id: 4
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,11 +33,11 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| SFType Id | Text |  |  |
-| LIS Item ID | Text |  |  |
-| Ideal Stock Qty | Text |  |  |
-| Move Usage | Text |  |  |
-| Per Combat Rnd (attack) | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| SFType Id | Text |  |
+| LIS Item ID | Text |  |
+| Ideal Stock Qty | Text |  |
+| Move Usage | Text |  |
+| Per Combat Rnd (attack) | Text |  |
 

@@ -3,11 +3,11 @@ title: "UDS Order Bar"
 docKind: "type"
 fieldsCount: 10
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Present-6"
   name: "SE_Present"
-  id: "6"
+  id: 6
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,16 +33,16 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| ID | Text |  |  |
-| Label | Text |  |  |
-| SmallGfx | Text |  |  |
-| Event Slot# to call | Text |  |  |
-| tv0 | Text |  |  |
-| tv1 | Text |  |  |
-| Harcoded order | Text |  |  |
-| Active | Text |  |  |
-| Mouse Over | Text |  |  |
-| Popup >0 | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| ID | Text |  |
+| Label | Text |  |
+| SmallGfx | Text |  |
+| Event Slot# to call | Text |  |
+| tv0 | Text |  |
+| tv1 | Text |  |
+| Harcoded order | Text |  |
+| Active | Text |  |
+| Mouse Over | Text |  |
+| Popup >0 | Text |  |
 

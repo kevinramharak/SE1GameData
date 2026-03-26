@@ -3,11 +3,11 @@ title: "Trade Base Values"
 docKind: "type"
 fieldsCount: 7
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Trade-12"
   name: "SE_Trade"
-  id: "12"
+  id: 12
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,13 +33,13 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| Item ID | Text |  |  |
-| Base Qty | Text |  |  |
-| Base Qty * Pop | Text |  |  |
-| Start Qty | Text |  |  |
-| Start Qty * Pop | Text |  |  |
-| Base Price * 100 | Text |  |  |
-| AI Influence Buy % | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| Item ID | Text |  |
+| Base Qty | Text |  |
+| Base Qty * Pop | Text |  |
+| Start Qty | Text |  |
+| Start Qty * Pop | Text |  |
+| Base Price * 100 | Text |  |
+| AI Influence Buy % | Text |  |
 

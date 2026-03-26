@@ -3,11 +3,11 @@ title: "Unit Feats"
 docKind: "type"
 fieldsCount: 14
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Politics-31"
   name: "SE_Politics"
-  id: "31"
+  id: 31
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,20 +33,20 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| ID | Text |  |  |
-| RegFeat ID | Text |  |  |
-| Name | Text |  |  |
-| Ratio | Text |  |  |
-| Acquire Chance | Text |  |  |
-| Lose Chance | Text |  |  |
-| Regular Units | Text |  |  |
-| Militia | Text |  |  |
-| OHQ | Text |  |  |
-| SHQ# | Text |  |  |
-| Event Pic ID / Slot | Text |  |  |
-| Unit Group | Text |  |  |
-| Description | Text |  |  |
-| Individuals touched | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| ID | Text |  |
+| RegFeat ID | Text |  |
+| Name | Text |  |
+| Ratio | Text |  |
+| Acquire Chance | Text |  |
+| Lose Chance | Text |  |
+| Regular Units | Text |  |
+| Militia | Text |  |
+| OHQ | Text |  |
+| SHQ# | Text |  |
+| Event Pic ID / Slot | Text |  |
+| Unit Group | Text |  |
+| Description | Text |  |
+| Individuals touched | Text |  |
 

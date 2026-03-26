@@ -3,11 +3,11 @@ title: "Portraits"
 docKind: "type"
 fieldsCount: 10
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Data-4"
   name: "SE_Data"
-  id: "4"
+  id: 4
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,16 +33,16 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| ID | Text |  |  |
-| File Name | Text |  |  |
-| Sex | Text |  |  |
-| Characteristic ID | Text |  |  |
-| Level of Char | Text |  |  |
-| Characteristic 2 ID | Text |  |  |
-| Level of Char 2 | Text |  |  |
-| Approx Age | Text |  |  |
-| Culture Group 1 | Text |  |  |
-| Culture Group 2 | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| ID | Text |  |
+| File Name | Text |  |
+| Sex | Text |  |
+| Characteristic ID | Text |  |
+| Level of Char | Text |  |
+| Characteristic 2 ID | Text |  |
+| Level of Char 2 | Text |  |
+| Approx Age | Text |  |
+| Culture Group 1 | Text |  |
+| Culture Group 2 | Text |  |
 

@@ -3,11 +3,11 @@ title: "Flex Model Graphics"
 docKind: "type"
 fieldsCount: 5
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Model-11"
   name: "SE_Model"
-  id: "11"
+  id: 11
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,11 +33,11 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| Model Type ID | Text |  |  |
-| Gfx Set ID | Text |  |  |
-| Choice Type | Text |  |  |
-| Choice Value | Text |  |  |
-| File Name for Illustration | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| Model Type ID | Text |  |
+| Gfx Set ID | Text |  |
+| Choice Type | Text |  |
+| Choice Value | Text |  |
+| File Name for Illustration | Text |  |
 

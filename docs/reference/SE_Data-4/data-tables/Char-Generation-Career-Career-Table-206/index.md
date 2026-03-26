@@ -3,11 +3,11 @@ title: "Char Generation Career-Career Table"
 docKind: "type"
 fieldsCount: 6
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Data-4"
   name: "SE_Data"
-  id: "4"
+  id: 4
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,12 +33,12 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| ID | Text |  |  |
-| Career Name | Text |  |  |
-| exit 1 | Text |  |  |
-| exit 2 | Text |  |  |
-| exit 3 | Text |  |  |
-| exit 4 | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| ID | Text |  |
+| Career Name | Text |  |
+| exit 1 | Text |  |
+| exit 2 | Text |  |
+| exit 3 | Text |  |
+| exit 4 | Text |  |
 

@@ -3,11 +3,11 @@ title: "Milita Trooptype Table"
 docKind: "type"
 fieldsCount: 7
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Data-4"
   name: "SE_Data"
-  id: "4"
+  id: 4
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,13 +33,13 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| SF Type ID | Number |  |  |
-| SF Type Library | Text |  |  |
-| Militia Troop Group | Text |  |  |
-| Culture Type | Text |  |  |
-| Weight | Text |  |  |
-| Major IF code | Text |  |  |
-| Minor IF Code | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| SF Type ID | Number |  |
+| SF Type Library | Text |  |
+| Militia Troop Group | Text |  |
+| Culture Type | Text |  |
+| Weight | Text |  |
+| Major IF code | Text |  |
+| Minor IF Code | Text |  |
 

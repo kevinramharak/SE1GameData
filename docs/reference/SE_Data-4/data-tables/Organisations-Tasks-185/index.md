@@ -3,11 +3,11 @@ title: "Organisations Tasks"
 docKind: "type"
 fieldsCount: 4
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Data-4"
   name: "SE_Data"
-  id: "4"
+  id: 4
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,10 +33,10 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| Org ID | Text |  |  |
-| TaskType ID | Text |  |  |
-| Budget Req in % | Text |  |  |
-| Budget assigned in pts | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| Org ID | Text |  |
+| TaskType ID | Text |  |
+| Budget Req in % | Text |  |
+| Budget assigned in pts | Text |  |
 

@@ -3,11 +3,12 @@ title: "SP Artillery"
 docKind: "type"
 fieldsCount: 1
 appearsIn:
-  - "archive-test.se1"
+  - "VR Ruleset masterfile"
+  - "242"
 library:
   key: "root"
-  name: "root"
-  id: "Root"
+  name: "Root"
+  id: -1
 typeGroup:
   key: "sub-formation-types"
   name: "Sub Formation Types"
@@ -31,7 +32,7 @@ The Invasion of Poland had shown that the sIG 33s assigned to the infantry gun c
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| Id | int |  | 21 |
+| Name | Type | Value |
+| --- | --- | --- |
+| Id | int | 21 |
 

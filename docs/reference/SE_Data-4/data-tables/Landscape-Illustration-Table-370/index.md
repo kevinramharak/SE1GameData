@@ -3,11 +3,11 @@ title: "Landscape Illustration Table"
 docKind: "type"
 fieldsCount: 9
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Data-4"
   name: "SE_Data"
-  id: "4"
+  id: 4
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,15 +33,15 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| LT# | LandscapeId |  |  |
-| Sky rain<50mm | Text |  |  |
-| Sky rain 50-500 | Text |  |  |
-| Sky rain >500 | Text |  |  |
-| New Col | Text |  |  |
-| New Col | Text |  |  |
-| Core layer | Text |  |  |
-| New Col | Text |  |  |
-| New Col | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| LT# | LandscapeId |  |
+| Sky rain<50mm | Text |  |
+| Sky rain 50-500 | Text |  |
+| Sky rain >500 | Text |  |
+| New Col | Text |  |
+| New Col | Text |  |
+| Core layer | Text |  |
+| New Col | Text |  |
+| New Col | Text |  |
 

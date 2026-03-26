@@ -3,11 +3,11 @@ title: "Flex Organisation Types"
 docKind: "type"
 fieldsCount: 8
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Org-10"
   name: "SE_Org"
-  id: "10"
+  id: 10
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,14 +33,14 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| Org Type ID | Text |  |  |
-| Name | Text |  |  |
-| Type | Text |  |  |
-| Child of Org Type ID | Text |  |  |
-| AssetType Necc | Text |  |  |
-| PP Cost | Text |  |  |
-| Regime Point Use | Text |  |  |
-| Shortname | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| Org Type ID | Text |  |
+| Name | Text |  |
+| Type | Text |  |
+| Child of Org Type ID | Text |  |
+| AssetType Necc | Text |  |
+| PP Cost | Text |  |
+| Regime Point Use | Text |  |
+| Shortname | Text |  |
 

@@ -8,6 +8,7 @@ const manifest = _manifest as Manifest;
 interface Manifest {
   Reference: ManifestEntry[];
   Catalog: ManifestEntry[];
+  Files: ManifestEntry[];
 }
 
 interface ManifestEntry {
@@ -15,14 +16,13 @@ interface ManifestEntry {
   Link: string | null;
   Collapsed: boolean;
   Kind: string;
-  IdentifierLabel: string | null;
-  IdentifierValue: string | null;
+  Identifier: string | null;
   Items: ManifestEntry[];
 }
 
 function entryToSidebarItem(entry: ManifestEntry): DefaultTheme.SidebarItem {
   return {
-    text: entry.Text + (entry.IdentifierValue ? ` (${entry.IdentifierValue})` : ''),
+    text: entry.Text + (entry.Identifier ? ` (${entry.Identifier})` : ''),
     link: entry.Link ?? undefined,
     collapsed: entry.Collapsed,
     items: entry.Items.map(entryToSidebarItem),
@@ -49,7 +49,9 @@ export default defineConfig({
       { text: 'Guide', link: '/guide/shadow-empire' },
       { text: 'Reference', link: '/reference/root/' },
       { text: 'Catalog', link: '/catalog/libraries/' },
+      { text: 'Files', link: '/files/' },
     ],
+    // TODO: use index files instead of pointing to the first item
     sidebar: {
       '/guide/': [
         {
@@ -83,6 +85,13 @@ export default defineConfig({
           text: 'Catalog',
           link: '/catalog/libraries/',
           items: manifest.Catalog.map((entry) => entryToSidebarItem(entry)),
+        },
+      ],
+      '/files/': [
+        {
+          text: 'Files',
+          link: '/files/',
+          items: manifest.Files.map((entry) => entryToSidebarItem(entry)),
         },
       ],
     },

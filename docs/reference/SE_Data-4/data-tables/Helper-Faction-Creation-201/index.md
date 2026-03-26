@@ -3,11 +3,11 @@ title: "Helper Faction Creation"
 docKind: "type"
 fieldsCount: 8
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Data-4"
   name: "SE_Data"
-  id: "4"
+  id: 4
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,14 +33,14 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| Profile Part Id | Text |  |  |
-| Name | Text |  |  |
-| Group | Text |  |  |
-| A | Text |  |  |
-| B | Text |  |  |
-| C | Text |  |  |
-| Major Like | Text |  |  |
-| Minor Like | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| Profile Part Id | Text |  |
+| Name | Text |  |
+| Group | Text |  |
+| A | Text |  |
+| B | Text |  |
+| C | Text |  |
+| Major Like | Text |  |
+| Minor Like | Text |  |
 

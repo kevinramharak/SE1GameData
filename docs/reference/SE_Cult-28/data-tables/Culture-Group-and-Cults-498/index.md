@@ -3,11 +3,11 @@ title: "Culture Group and Cults"
 docKind: "type"
 fieldsCount: 7
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Cult-28"
   name: "SE_Cult"
-  id: "28"
+  id: 28
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,13 +33,13 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| culture group ID | Text |  |  |
-| name | Text |  |  |
-| Shadow | Text |  |  |
-| Anima | Text |  |  |
-| Syndic | Text |  |  |
-| Apocrypha | Text |  |  |
-| Eternity | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| culture group ID | Text |  |
+| name | Text |  |
+| Shadow | Text |  |
+| Anima | Text |  |
+| Syndic | Text |  |
+| Apocrypha | Text |  |
+| Eternity | Text |  |
 

@@ -3,11 +3,11 @@ title: "Tracks"
 docKind: "type"
 fieldsCount: 5
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Politics-31"
   name: "SE_Politics"
-  id: "31"
+  id: 31
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,11 +33,11 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| ID | Number |  |  |
-| Filename | Text |  |  |
-| Dominant | Text |  |  |
-| Custom #1 | Text |  |  |
-| Custom #2 | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| ID | Number |  |
+| Filename | Text |  |
+| Dominant | Text |  |
+| Custom #1 | Text |  |
+| Custom #2 | Text |  |
 

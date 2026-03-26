@@ -3,11 +3,11 @@ title: "FLEX Portrait Parts"
 docKind: "type"
 fieldsCount: 5
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Culture-17"
   name: "SE_Culture"
-  id: "17"
+  id: 17
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,11 +33,11 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| Part ID | Text |  |  |
-| Group ID | Text |  |  |
-| Type | Text |  |  |
-| Event Pic ID | Text |  |  |
-| Y coordinate | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| Part ID | Text |  |
+| Group ID | Text |  |
+| Type | Text |  |
+| Event Pic ID | Text |  |
+| Y coordinate | Text |  |
 

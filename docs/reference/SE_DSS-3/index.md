@@ -4,11 +4,11 @@ docKind: "library"
 isSyntheticRoot: false
 typeCount: 3
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_DSS-3"
   name: "SE_DSS"
-  id: "3"
+  id: 3
 ---
 
 # SE_DSS
@@ -17,7 +17,7 @@ No info
 
 <!-- @include: ./_notes.md -->
 
-## Metadata
+## Properties
 
 | Key | Value |
 | --- | --- |
@@ -29,7 +29,7 @@ No info
 
 | Id | Type | Description | Fields |
 | --- | --- | --- | --- |
-| 87 | [Tracks](./data-tables/Tracks-87/) | No description | 5 |
-| 88 | [Mix Points](./data-tables/Mix-Points-88/) | No description | 5 |
-| 89 | [Highlights](./data-tables/Highlights-89/) | No description | 5 |
+| `87` | [Tracks](./data-tables/Tracks-87/) | No description | 5 |
+| `88` | [Mix Points](./data-tables/Mix-Points-88/) | No description | 5 |
+| `89` | [Highlights](./data-tables/Highlights-89/) | No description | 5 |
 

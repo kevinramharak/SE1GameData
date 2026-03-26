@@ -3,11 +3,11 @@ title: "Faction Law Vote History"
 docKind: "type"
 fieldsCount: 5
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Politics-31"
   name: "SE_Politics"
-  id: "31"
+  id: 31
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,11 +33,11 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| factionID | Text |  |  |
-| lawID | Text |  |  |
-| type | Text |  |  |
-| voted | Text |  |  |
-| roundNr | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| factionID | Text |  |
+| lawID | Text |  |
+| type | Text |  |
+| voted | Text |  |
+| roundNr | Text |  |
 

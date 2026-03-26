@@ -3,11 +3,12 @@ title: "Reserved Master Stringlist"
 docKind: "type"
 fieldsCount: 0
 appearsIn:
-  - "archive-test.se1"
+  - "VR Ruleset masterfile"
+  - "242"
 library:
   key: "root"
-  name: "root"
-  id: "Root"
+  name: "Root"
+  id: -1
 typeGroup:
   key: "data-tables"
   name: "Data Tables"

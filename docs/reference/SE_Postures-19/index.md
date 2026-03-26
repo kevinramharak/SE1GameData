@@ -4,11 +4,11 @@ docKind: "library"
 isSyntheticRoot: false
 typeCount: 3
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Postures-19"
   name: "SE_Postures"
-  id: "19"
+  id: 19
 ---
 
 # SE_Postures
@@ -17,7 +17,7 @@ No info
 
 <!-- @include: ./_notes.md -->
 
-## Metadata
+## Properties
 
 | Key | Value |
 | --- | --- |
@@ -29,7 +29,7 @@ No info
 
 | Id | Type | Description | Fields |
 | --- | --- | --- | --- |
-| 350 | [Flex Interior Actions](./data-tables/Flex-Interior-Actions-350/) | No description | 18 |
-| 351 | [FLEX action card target logic](./data-tables/FLEX-action-card-target-logic-351/) | No description | 4 |
-| 352 | [Flex Interiror Action FX vs AI](./data-tables/Flex-Interiror-Action-FX-vs-AI-352/) | No description | 7 |
+| `350` | [Flex Interior Actions](./data-tables/Flex-Interior-Actions-350/) | No description | 18 |
+| `351` | [FLEX action card target logic](./data-tables/FLEX-action-card-target-logic-351/) | No description | 4 |
+| `352` | [Flex Interiror Action FX vs AI](./data-tables/Flex-Interiror-Action-FX-vs-AI-352/) | No description | 7 |
 

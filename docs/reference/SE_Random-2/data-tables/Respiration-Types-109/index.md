@@ -3,11 +3,11 @@ title: "Respiration Types"
 docKind: "type"
 fieldsCount: 8
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Random-2"
   name: "SE_Random"
-  id: "2"
+  id: 2
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,14 +33,14 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| ID | Text |  |  |
-| Name | Text |  |  |
-| IsNoLife | YesNo |  |  |
-| Weight | Text |  |  |
-| Plants Store GasID | Text |  |  |
-| Plants Give GasID | Text |  |  |
-| Animal Take GasID | Text |  |  |
-| Animal Give GasID | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| ID | Text |  |
+| Name | Text |  |
+| IsNoLife | YesNo |  |
+| Weight | Text |  |
+| Plants Store GasID | Text |  |
+| Plants Give GasID | Text |  |
+| Animal Take GasID | Text |  |
+| Animal Give GasID | Text |  |
 

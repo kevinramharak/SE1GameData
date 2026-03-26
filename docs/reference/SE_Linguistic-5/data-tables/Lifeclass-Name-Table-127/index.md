@@ -3,11 +3,11 @@ title: "Lifeclass Name Table"
 docKind: "type"
 fieldsCount: 2
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Linguistic-5"
   name: "SE_Linguistic"
-  id: "5"
+  id: 5
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,8 +33,8 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| Name | Text |  |  |
-| Must have class ID | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| Name | Text |  |
+| Must have class ID | Text |  |
 

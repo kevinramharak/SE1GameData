@@ -3,11 +3,11 @@ title: "AI Improve Attempt Modifier"
 docKind: "type"
 fieldsCount: 12
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Data-4"
   name: "SE_Data"
-  id: "4"
+  id: 4
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,18 +33,18 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| Faction Ai-ID | Text |  |  |
-| StoryMode ALLIES | Text |  |  |
-| StoryMode FRIENDS | Text |  |  |
-| StoryMode COLD | Text |  |  |
-| StoryMode BLACKMAIL | Text |  |  |
-| StoryMode HOSTILE | Text |  |  |
-| Initial Story Mode | Text |  |  |
-| AI Intention Mod | Text |  |  |
-| ai Hawk overrule | Text |  |  |
-| Ai Tech Pref | Text |  |  |
-| Ai Eco Pref | Text |  |  |
-| Ai Strat Pref | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| Faction Ai-ID | Text |  |
+| StoryMode ALLIES | Text |  |
+| StoryMode FRIENDS | Text |  |
+| StoryMode COLD | Text |  |
+| StoryMode BLACKMAIL | Text |  |
+| StoryMode HOSTILE | Text |  |
+| Initial Story Mode | Text |  |
+| AI Intention Mod | Text |  |
+| ai Hawk overrule | Text |  |
+| Ai Tech Pref | Text |  |
+| Ai Eco Pref | Text |  |
+| Ai Strat Pref | Text |  |
 

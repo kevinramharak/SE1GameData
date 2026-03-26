@@ -3,11 +3,11 @@ title: "FLEX Base Portrait Groups"
 docKind: "type"
 fieldsCount: 10
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Culture-17"
   name: "SE_Culture"
-  id: "17"
+  id: 17
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,16 +33,16 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| Group ID | Text |  |  |
-| Culture Groups Allowed | Text |  |  |
-| Name | Text |  |  |
-| Weight | Text |  |  |
-| Leader Stat Col | Text |  |  |
-| Min | Text |  |  |
-| Max | Text |  |  |
-| Leader Stat Col | Text |  |  |
-| Min | Text |  |  |
-| Max | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| Group ID | Text |  |
+| Culture Groups Allowed | Text |  |
+| Name | Text |  |
+| Weight | Text |  |
+| Leader Stat Col | Text |  |
+| Min | Text |  |
+| Max | Text |  |
+| Leader Stat Col | Text |  |
+| Min | Text |  |
+| Max | Text |  |
 

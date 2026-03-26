@@ -3,11 +3,11 @@ title: "Machingegun"
 docKind: "type"
 fieldsCount: 2
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "Shadow-Troops-9"
   name: "Shadow Troops"
-  id: "9"
+  id: 9
 typeGroup:
   key: "reinforcement-types"
   name: "Reinforcement Types"
@@ -30,8 +30,8 @@ type:
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| Id | int |  | 37 |
-| Ratio | int |  | 100 |
+| Name | Type | Value |
+| --- | --- | --- |
+| Id | int | 37 |
+| Ratio | int | 100 |
 

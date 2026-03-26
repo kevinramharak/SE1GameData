@@ -3,11 +3,11 @@ title: "Lifeform Gas Limits"
 docKind: "type"
 fieldsCount: 5
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Random-2"
   name: "SE_Random"
-  id: "2"
+  id: 2
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,11 +33,11 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| Lifeform ID | Text |  |  |
-| Gas ID | Text |  |  |
-| Lethal Min ppm | Text |  |  |
-| Good Min ppm | Text |  |  |
-| Good Max ppm | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| Lifeform ID | Text |  |
+| Gas ID | Text |  |
+| Lethal Min ppm | Text |  |
+| Good Min ppm | Text |  |
+| Good Max ppm | Text |  |
 

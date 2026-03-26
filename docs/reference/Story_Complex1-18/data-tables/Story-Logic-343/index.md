@@ -3,11 +3,11 @@ title: "Story Logic"
 docKind: "type"
 fieldsCount: 4
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "Story_Complex1-18"
   name: "Story_Complex1"
-  id: "18"
+  id: 18
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,10 +33,10 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| Complex Story ID | Text |  |  |
-| 102 | Text |  |  |
-| 102 | Text |  |  |
-| 102 | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| Complex Story ID | Text |  |
+| 102 | Text |  |
+| 102 | Text |  |
+| 102 | Text |  |
 

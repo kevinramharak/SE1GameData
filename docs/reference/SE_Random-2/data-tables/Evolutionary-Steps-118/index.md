@@ -3,11 +3,11 @@ title: "Evolutionary Steps"
 docKind: "type"
 fieldsCount: 4
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Random-2"
   name: "SE_Random"
-  id: "2"
+  id: 2
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,10 +33,10 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| Existing Life Class ID | Text |  |  |
-| Existing Property Class ID | Text |  |  |
-| Next Life Class ID | Text |  |  |
-| Next Property Id | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| Existing Life Class ID | Text |  |
+| Existing Property Class ID | Text |  |
+| Next Life Class ID | Text |  |
+| Next Property Id | Text |  |
 

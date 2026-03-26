@@ -3,11 +3,11 @@ title: "Flex Interior Action FX vs Human"
 docKind: "type"
 fieldsCount: 5
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Interior-16"
   name: "SE_Interior"
-  id: "16"
+  id: 16
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,11 +33,11 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| Card ID | Text |  |  |
-| IF | Text |  |  |
-| SET | Text |  |  |
-| Text | Text |  |  |
-| Talk Code | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| Card ID | Text |  |
+| IF | Text |  |
+| SET | Text |  |
+| Text | Text |  |
+| Talk Code | Text |  |
 

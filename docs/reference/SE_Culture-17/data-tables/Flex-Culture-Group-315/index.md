@@ -3,11 +3,11 @@ title: "Flex Culture Group"
 docKind: "type"
 fieldsCount: 10
 appearsIn:
-  - "archive-test.se1"
+  - "242"
 library:
   key: "SE_Culture-17"
   name: "SE_Culture"
-  id: "17"
+  id: 17
 typeGroup:
   key: "data-tables"
   name: "Data Tables"
@@ -33,16 +33,16 @@ No description
 
 ## Fields
 
-| Name | Type | Description | Value |
-| --- | --- | --- | --- |
-| culture group ID | Text |  |  |
-| name | Text |  |  |
-| type | Text |  |  |
-| Language Id | Text |  |  |
-| Portrait Uniform Male | Text |  |  |
-| Portrait Uniform Female | Text |  |  |
-| Has Leaders? | Text |  |  |
-| Civilian | Text |  |  |
-| Manager | Text |  |  |
-| Military | Text |  |  |
+| Name | Type | Value |
+| --- | --- | --- |
+| culture group ID | Text |  |
+| name | Text |  |
+| type | Text |  |
+| Language Id | Text |  |
+| Portrait Uniform Male | Text |  |
+| Portrait Uniform Female | Text |  |
+| Has Leaders? | Text |  |
+| Civilian | Text |  |
+| Manager | Text |  |
+| Military | Text |  |
 
