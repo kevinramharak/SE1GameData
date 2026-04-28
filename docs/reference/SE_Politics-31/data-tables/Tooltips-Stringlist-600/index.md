@@ -3,7 +3,7 @@ title: "Tooltips Stringlist"
 docKind: "type"
 fieldsCount: 5
 appearsIn:
-  - "242"
+  - "253"
 library:
   key: "SE_Politics-31"
   name: "SE_Politics"
@@ -29,7 +29,7 @@ No description
 | --- | --- |
 | ColumnCount | 5 |
 | Id | 600 |
-| RowCount | 54 |
+| RowCount | 66 |
 
 ## Fields
 

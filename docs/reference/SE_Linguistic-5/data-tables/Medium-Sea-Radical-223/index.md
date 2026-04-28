@@ -3,7 +3,7 @@ title: "Medium Sea Radical"
 docKind: "type"
 fieldsCount: 0
 appearsIn:
-  - "242"
+  - "253"
 library:
   key: "SE_Linguistic-5"
   name: "SE_Linguistic"

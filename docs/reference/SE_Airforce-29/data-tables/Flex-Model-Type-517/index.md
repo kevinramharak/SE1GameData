@@ -3,7 +3,7 @@ title: "Flex Model Type"
 docKind: "type"
 fieldsCount: 24
 appearsIn:
-  - "242"
+  - "253"
 library:
   key: "SE_Airforce-29"
   name: "SE_Airforce"

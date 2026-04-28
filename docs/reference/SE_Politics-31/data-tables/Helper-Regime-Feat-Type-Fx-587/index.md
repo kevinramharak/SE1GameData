@@ -3,7 +3,7 @@ title: "Helper Regime Feat Type Fx"
 docKind: "type"
 fieldsCount: 5
 appearsIn:
-  - "242"
+  - "253"
 library:
   key: "SE_Politics-31"
   name: "SE_Politics"

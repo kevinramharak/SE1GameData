@@ -3,7 +3,7 @@ title: "Mix Points"
 docKind: "type"
 fieldsCount: 5
 appearsIn:
-  - "242"
+  - "253"
 library:
   key: "SE_DSS-3"
   name: "SE_DSS"

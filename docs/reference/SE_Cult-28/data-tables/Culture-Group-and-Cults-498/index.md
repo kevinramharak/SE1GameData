@@ -3,7 +3,7 @@ title: "Culture Group and Cults"
 docKind: "type"
 fieldsCount: 7
 appearsIn:
-  - "242"
+  - "253"
 library:
   key: "SE_Cult-28"
   name: "SE_Cult"

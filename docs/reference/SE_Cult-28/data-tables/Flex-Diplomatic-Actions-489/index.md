@@ -3,7 +3,7 @@ title: "Flex Diplomatic Actions"
 docKind: "type"
 fieldsCount: 18
 appearsIn:
-  - "242"
+  - "253"
 library:
   key: "SE_Cult-28"
   name: "SE_Cult"

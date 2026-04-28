@@ -3,7 +3,7 @@ title: "TradeKeys"
 docKind: "type"
 fieldsCount: 2
 appearsIn:
-  - "242"
+  - "253"
 library:
   key: "SE_Trade-12"
   name: "SE_Trade"

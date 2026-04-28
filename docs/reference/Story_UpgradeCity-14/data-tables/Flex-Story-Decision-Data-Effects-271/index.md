@@ -3,7 +3,7 @@ title: "Flex Story Decision Data Effects"
 docKind: "type"
 fieldsCount: 4
 appearsIn:
-  - "242"
+  - "253"
 library:
   key: "Story_UpgradeCity-14"
   name: "Story_UpgradeCity"

@@ -3,7 +3,7 @@ title: "Map Graphics Replacement Sets"
 docKind: "type"
 fieldsCount: 11
 appearsIn:
-  - "242"
+  - "253"
 library:
   key: "SE_Random-2"
   name: "SE_Random"

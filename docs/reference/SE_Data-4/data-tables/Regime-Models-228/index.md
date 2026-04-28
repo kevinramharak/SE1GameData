@@ -3,7 +3,7 @@ title: "Regime Models"
 docKind: "type"
 fieldsCount: 11
 appearsIn:
-  - "242"
+  - "253"
 library:
   key: "SE_Data-4"
   name: "SE_Data"

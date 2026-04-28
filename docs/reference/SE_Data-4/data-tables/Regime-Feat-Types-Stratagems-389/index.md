@@ -3,7 +3,7 @@ title: "Regime Feat Types Stratagems"
 docKind: "type"
 fieldsCount: 1
 appearsIn:
-  - "242"
+  - "253"
 library:
   key: "SE_Data-4"
   name: "SE_Data"

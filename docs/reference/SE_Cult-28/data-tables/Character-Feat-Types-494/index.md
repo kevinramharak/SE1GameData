@@ -3,7 +3,7 @@ title: "Character Feat Types"
 docKind: "type"
 fieldsCount: 3
 appearsIn:
-  - "242"
+  - "253"
 library:
   key: "SE_Cult-28"
   name: "SE_Cult"

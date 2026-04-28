@@ -3,7 +3,7 @@ title: "Language Based Empire Prefix"
 docKind: "type"
 fieldsCount: 8
 appearsIn:
-  - "242"
+  - "253"
 library:
   key: "SE_Linguistic-5"
   name: "SE_Linguistic"

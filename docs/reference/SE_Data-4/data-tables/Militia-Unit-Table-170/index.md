@@ -3,7 +3,7 @@ title: "Militia Unit Table"
 docKind: "type"
 fieldsCount: 18
 appearsIn:
-  - "242"
+  - "253"
 library:
   key: "SE_Data-4"
   name: "SE_Data"

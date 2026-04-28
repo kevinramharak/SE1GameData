@@ -3,7 +3,7 @@ title: "Rebel Story, Epsilon Format 1"
 docKind: "type"
 fieldsCount: 86
 appearsIn:
-  - "242"
+  - "253"
 library:
   key: "Story_Unrest-20"
   name: "Story_Unrest"

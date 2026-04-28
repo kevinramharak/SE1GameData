@@ -3,7 +3,7 @@ title: "Spectral Classes"
 docKind: "type"
 fieldsCount: 12
 appearsIn:
-  - "242"
+  - "253"
 library:
   key: "SE_Random-2"
   name: "SE_Random"

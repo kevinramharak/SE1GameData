@@ -3,7 +3,7 @@ title: "Flex Organisation Task Types"
 docKind: "type"
 fieldsCount: 8
 appearsIn:
-  - "242"
+  - "253"
 library:
   key: "SE_Org-10"
   name: "SE_Org"

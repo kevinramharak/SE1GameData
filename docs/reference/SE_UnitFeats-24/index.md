@@ -4,7 +4,7 @@ docKind: "library"
 isSyntheticRoot: false
 typeCount: 2
 appearsIn:
-  - "242"
+  - "253"
 library:
   key: "SE_UnitFeats-24"
   name: "SE_UnitFeats"

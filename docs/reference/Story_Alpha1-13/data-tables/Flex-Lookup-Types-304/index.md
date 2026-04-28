@@ -3,7 +3,7 @@ title: "Flex Lookup Types"
 docKind: "type"
 fieldsCount: 6
 appearsIn:
-  - "242"
+  - "253"
 library:
   key: "Story_Alpha1-13"
   name: "Story_Alpha1"

@@ -3,7 +3,7 @@ title: "Human Fx Dip Story, format Beta, batch 1"
 docKind: "type"
 fieldsCount: 97
 appearsIn:
-  - "242"
+  - "253"
 library:
   key: "SE_Diplomatic-15"
   name: "SE_Diplomatic"

@@ -4,7 +4,7 @@ docKind: "library"
 isSyntheticRoot: false
 typeCount: 130
 appearsIn:
-  - "242"
+  - "253"
 library:
   key: "Shadow-Troops-9"
   name: "Shadow Troops"

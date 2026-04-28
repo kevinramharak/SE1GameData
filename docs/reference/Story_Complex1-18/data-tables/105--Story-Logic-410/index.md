@@ -3,7 +3,7 @@ title: "105: Story Logic"
 docKind: "type"
 fieldsCount: 4
 appearsIn:
-  - "242"
+  - "253"
 library:
   key: "Story_Complex1-18"
   name: "Story_Complex1"

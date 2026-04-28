@@ -3,7 +3,7 @@ title: "Flex Story Decision Cost"
 docKind: "type"
 fieldsCount: 3
 appearsIn:
-  - "242"
+  - "253"
 library:
   key: "Story_UpgradeCity-14"
   name: "Story_UpgradeCity"

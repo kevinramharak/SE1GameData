@@ -3,7 +3,7 @@ title: "Flex Story Logic"
 docKind: "type"
 fieldsCount: 11
 appearsIn:
-  - "242"
+  - "253"
 library:
   key: "SE_Linked-26"
   name: "SE_Linked"

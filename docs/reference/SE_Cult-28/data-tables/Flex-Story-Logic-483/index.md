@@ -3,7 +3,7 @@ title: "Flex Story Logic"
 docKind: "type"
 fieldsCount: 11
 appearsIn:
-  - "242"
+  - "253"
 library:
   key: "SE_Cult-28"
   name: "SE_Cult"

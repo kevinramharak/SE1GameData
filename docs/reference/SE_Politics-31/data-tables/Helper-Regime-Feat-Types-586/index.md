@@ -3,7 +3,7 @@ title: "Helper Regime Feat Types"
 docKind: "type"
 fieldsCount: 23
 appearsIn:
-  - "242"
+  - "253"
 library:
   key: "SE_Politics-31"
   name: "SE_Politics"

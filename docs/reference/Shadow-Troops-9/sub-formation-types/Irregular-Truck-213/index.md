@@ -3,7 +3,7 @@ title: "Irregular Truck"
 docKind: "type"
 fieldsCount: 1
 appearsIn:
-  - "242"
+  - "253"
 library:
   key: "Shadow-Troops-9"
   name: "Shadow Troops"

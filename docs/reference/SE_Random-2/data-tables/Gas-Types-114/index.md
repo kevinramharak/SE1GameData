@@ -3,7 +3,7 @@ title: "Gas Types"
 docKind: "type"
 fieldsCount: 7
 appearsIn:
-  - "242"
+  - "253"
 library:
   key: "SE_Random-2"
   name: "SE_Random"

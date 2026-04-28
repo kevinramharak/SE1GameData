@@ -3,7 +3,7 @@ title: "Second Hex Area Part"
 docKind: "type"
 fieldsCount: 1
 appearsIn:
-  - "242"
+  - "253"
 library:
   key: "SE_Linguistic-5"
   name: "SE_Linguistic"

@@ -3,7 +3,7 @@ title: "Flex Story Triggers"
 docKind: "type"
 fieldsCount: 24
 appearsIn:
-  - "242"
+  - "253"
 library:
   key: "Story_UpgradeCity-14"
   name: "Story_UpgradeCity"

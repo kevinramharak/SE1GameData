@@ -3,7 +3,7 @@ title: "Flex Tech Type Groups"
 docKind: "type"
 fieldsCount: 6
 appearsIn:
-  - "242"
+  - "253"
 library:
   key: "SE_Org-10"
   name: "SE_Org"

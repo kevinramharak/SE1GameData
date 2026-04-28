@@ -3,7 +3,7 @@ title: "Flex Model Type SFType Stat Calcs"
 docKind: "type"
 fieldsCount: 4
 appearsIn:
-  - "242"
+  - "253"
 library:
   key: "SE_Model-11"
   name: "SE_Model"

@@ -3,7 +3,7 @@ title: "Flex Fate action Fx vs AI"
 docKind: "type"
 fieldsCount: 7
 appearsIn:
-  - "242"
+  - "253"
 library:
   key: "SE_Fate-21"
   name: "SE_Fate"

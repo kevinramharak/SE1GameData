@@ -3,7 +3,7 @@ title: "Character Feat Effects"
 docKind: "type"
 fieldsCount: 5
 appearsIn:
-  - "242"
+  - "253"
 library:
   key: "SE_Navy-30"
   name: "SE_Navy"

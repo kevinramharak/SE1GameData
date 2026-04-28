@@ -3,7 +3,7 @@ title: "SSF Event Stories"
 docKind: "type"
 fieldsCount: 252
 appearsIn:
-  - "242"
+  - "253"
 library:
   key: "SE_Politics-31"
   name: "SE_Politics"

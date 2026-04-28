@@ -3,7 +3,7 @@ title: "Laws"
 docKind: "type"
 fieldsCount: 20
 appearsIn:
-  - "242"
+  - "253"
 library:
   key: "SE_Politics-31"
   name: "SE_Politics"

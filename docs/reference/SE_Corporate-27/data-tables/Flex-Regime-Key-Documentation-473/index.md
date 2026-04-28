@@ -3,7 +3,7 @@ title: "Flex Regime Key Documentation"
 docKind: "type"
 fieldsCount: 6
 appearsIn:
-  - "242"
+  - "253"
 library:
   key: "SE_Corporate-27"
   name: "SE_Corporate"

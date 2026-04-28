@@ -3,7 +3,7 @@ title: "Flex Asset Types"
 docKind: "type"
 fieldsCount: 32
 appearsIn:
-  - "242"
+  - "253"
 library:
   key: "SE_Asset-7"
   name: "SE_Asset"

@@ -3,7 +3,7 @@ title: "Fighter"
 docKind: "type"
 fieldsCount: 2
 appearsIn:
-  - "242"
+  - "253"
 library:
   key: "Shadow-Troops-9"
   name: "Shadow Troops"

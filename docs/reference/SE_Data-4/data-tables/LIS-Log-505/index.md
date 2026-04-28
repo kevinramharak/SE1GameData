@@ -3,7 +3,7 @@ title: "LIS Log"
 docKind: "type"
 fieldsCount: 9
 appearsIn:
-  - "242"
+  - "253"
 library:
   key: "SE_Data-4"
   name: "SE_Data"

@@ -3,7 +3,7 @@ title: "Flex Model Type Choices"
 docKind: "type"
 fieldsCount: 12
 appearsIn:
-  - "242"
+  - "253"
 library:
   key: "SE_Model-11"
   name: "SE_Model"

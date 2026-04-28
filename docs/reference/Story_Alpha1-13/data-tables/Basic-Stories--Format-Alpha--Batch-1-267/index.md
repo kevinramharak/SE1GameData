@@ -3,7 +3,7 @@ title: "Basic Stories, Format Alpha, Batch 1"
 docKind: "type"
 fieldsCount: 63
 appearsIn:
-  - "242"
+  - "253"
 library:
   key: "Story_Alpha1-13"
   name: "Story_Alpha1"

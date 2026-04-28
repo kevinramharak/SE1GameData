@@ -3,7 +3,7 @@ title: "Flex Diplomatic Action FX vs AI"
 docKind: "type"
 fieldsCount: 8
 appearsIn:
-  - "242"
+  - "253"
 library:
   key: "SE_Politics-31"
   name: "SE_Politics"
@@ -29,7 +29,7 @@ No description
 | --- | --- |
 | ColumnCount | 8 |
 | Id | 584 |
-| RowCount | 148 |
+| RowCount | 150 |
 
 ## Fields
 

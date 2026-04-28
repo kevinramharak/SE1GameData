@@ -3,7 +3,7 @@ title: "Minor Aliens, Epsilon format 1"
 docKind: "type"
 fieldsCount: 86
 appearsIn:
-  - "242"
+  - "253"
 library:
   key: "SE_Diplomatic-15"
   name: "SE_Diplomatic"

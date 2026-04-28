@@ -3,7 +3,7 @@ title: "Flex Story Triggers"
 docKind: "type"
 fieldsCount: 29
 appearsIn:
-  - "242"
+  - "253"
 library:
   key: "SE_Data-4"
   name: "SE_Data"

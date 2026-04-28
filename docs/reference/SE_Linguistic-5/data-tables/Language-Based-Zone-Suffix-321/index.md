@@ -3,7 +3,7 @@ title: "Language Based Zone Suffix"
 docKind: "type"
 fieldsCount: 2
 appearsIn:
-  - "242"
+  - "253"
 library:
   key: "SE_Linguistic-5"
   name: "SE_Linguistic"

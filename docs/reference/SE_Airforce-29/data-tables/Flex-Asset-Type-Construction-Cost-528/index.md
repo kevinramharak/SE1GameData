@@ -3,7 +3,7 @@ title: "Flex Asset Type Construction Cost"
 docKind: "type"
 fieldsCount: 3
 appearsIn:
-  - "242"
+  - "253"
 library:
   key: "SE_Airforce-29"
   name: "SE_Airforce"

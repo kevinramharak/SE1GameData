@@ -3,7 +3,7 @@ title: "Flex Fate Actions"
 docKind: "type"
 fieldsCount: 19
 appearsIn:
-  - "242"
+  - "253"
 library:
   key: "SE_Fate-21"
   name: "SE_Fate"

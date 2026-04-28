@@ -3,7 +3,7 @@ title: "Flex Gfx Set"
 docKind: "type"
 fieldsCount: 11
 appearsIn:
-  - "242"
+  - "253"
 library:
   key: "SE_Culture-17"
   name: "SE_Culture"

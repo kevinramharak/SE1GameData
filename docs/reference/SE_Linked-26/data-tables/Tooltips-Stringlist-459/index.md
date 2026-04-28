@@ -3,7 +3,7 @@ title: "Tooltips Stringlist"
 docKind: "type"
 fieldsCount: 5
 appearsIn:
-  - "242"
+  - "253"
 library:
   key: "SE_Linked-26"
   name: "SE_Linked"

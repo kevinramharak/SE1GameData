@@ -3,7 +3,7 @@ title: "FLEX action card target logic"
 docKind: "type"
 fieldsCount: 4
 appearsIn:
-  - "242"
+  - "253"
 library:
   key: "SE_Cult-28"
   name: "SE_Cult"

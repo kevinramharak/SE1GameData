@@ -3,7 +3,7 @@ title: "Temp Stringlist #2 trade logs"
 docKind: "type"
 fieldsCount: 0
 appearsIn:
-  - "242"
+  - "253"
 library:
   key: "SE_IO-0"
   name: "SE_IO"

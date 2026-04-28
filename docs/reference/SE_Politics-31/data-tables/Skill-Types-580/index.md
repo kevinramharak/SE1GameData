@@ -3,7 +3,7 @@ title: "Skill Types"
 docKind: "type"
 fieldsCount: 15
 appearsIn:
-  - "242"
+  - "253"
 library:
   key: "SE_Politics-31"
   name: "SE_Politics"
